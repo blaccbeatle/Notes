@@ -1,3 +1,56 @@
+Death timing
+  +-- <=42 days
+  |     -> MATERNAL (used for MMR)
+  |     +-- Direct: obstetric
+  |     +-- Indirect: disease
+  +-- 6 wks - 1 yr
+  |     -> LATE MATERNAL
+  +-- Accidental
+        -> notify, not in MMR
+
+
+Condition -> avoid
+  +-- Migraine        -> COC
+  +-- Controlled HTN  -> COC
+  +-- Active PIH      -> COC
+  +-- High BMI -> COC, Jadelle
+  +-- IHD/CV risks/chronic DM
+  |     -> COC + DMPA
+  +-- Breast cancer -> hormonal
+
+
+Booking (T1)
+  -> Folic acid 1 mg daily
+  -> Thriposha 2 packets/month
+  |
+  v
+2nd trimester: anaemic?
+  |
+  +-- NO
+  |    -> Iron 30 mg + FA 0.4 mg
+  |    -> Vit C 100 mg
+  |    -> MMN 1/day
+  |    -> Calcium 300 mg/day
+  |
+  +-- YES
+       -> Iron 60 mg BD x 3 mo
+       -> Vit C 100 mg + calcium
+       -> Recheck Hb at 3 mo
+       -> hey
+            |
+            +-- Improving
+            |    -> 3 more months
+            |    -> then 30 mg/day
+            +-- Not improving
+                 -> specialist
+                 -> IV iron
+
+Newly anaemic at 24-28 wks
+  -> iron 30 -> 60 mg
+
+After delivery
+  -> continue all 6 months
+
 Preconception Care & Couple Registration
 Marriage registered
         │
