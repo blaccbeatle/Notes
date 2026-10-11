@@ -163,14 +163,14 @@ Pre-eclampsia
    ├─ Recheck urine albumin + BP
    ├─ IV antihypertensives considered
    ├─ MgSO₄ if impending eclampsia
-   └─ Termination decision (registrar/consultant;
+   └─ Termination/Delivery decision (registrar/consultant;
       fetal lung maturity)
    │
    │ Seizures
    ▼
 Eclampsia
    ├─ At MOH: left lateral → O₂ → transfer
-   │          (MOH staff accompany; no MgSO₄ at MOH)
+   │          (MOH accompany; no MgSO₄ at MOH)
    └─ At hospital: seizure control → terminate ASAP
 
 
@@ -178,7 +178,8 @@ Eclampsia
 Supplements & Anaemia
 Pre-conception ─► Folic acid 1 mg (→ end of 3rd trimester)
       │
-1st trimester ─► Folic acid + Thriposha 2 packets/month
+1st trimester ─► Folic acid
+									Thriposha 2 packets/month
       │          (no iron unless indicated)
       ▼
 2nd trimester: Hb status?
@@ -188,10 +189,12 @@ Pre-conception ─► Folic acid 1 mg (→ end of 3rd trimester)
       │    ├─ Vit C 100 mg
       │    ├─ Calcium lactate 300 mg
       │    └─ MMN 1/day
+							Thriposa
       │
       └─ Anaemic (Hb <11 booking / <10.5 at 24–28 wks)
-           ├─ Iron 60 mg BD (120 mg/day) × 3 months
+           ├─ Iron 60 mg BD (120 mg/day) × 3 months + folic acid
            ├─ Vit C 100 mg + calcium lactate
+							 (B12 if deficient)
            │
            ▼
         Recheck Hb at 3 months
@@ -200,6 +203,7 @@ Pre-conception ─► Folic acid 1 mg (→ end of 3rd trimester)
       │
       ▼
 Delivery ─► all supplements continue 6 months postpartum
+						Vitamin A 200,000 IU
 ---
 Worm infestation suspected?
 (severe anaemia, poor SES, previous infestation,
