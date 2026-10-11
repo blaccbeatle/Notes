@@ -178,7 +178,8 @@ Eclampsia
 Supplements & Anaemia
 Pre-conception ─► Folic acid 1 mg (→ end of 3rd trimester)
       │
-1st trimester ─► Folic acid + Thriposha 2 packets/month
+1st trimester ─► Folic acid + 
+      │          Thriposha 2 packets/month
       │          (no iron unless indicated)
       ▼
 2nd trimester: Hb status?
