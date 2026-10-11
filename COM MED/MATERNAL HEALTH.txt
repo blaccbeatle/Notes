@@ -248,11 +248,16 @@ Booking → continue folic acid
         └─ ANAEMIC
              → iron 60 mg BD (120 mg/day)
                × 3 months
+								├─ Vit C 100 mg
+           			├─ Calcium lactate 300 mg
              → recheck Hb
                 ├─ Improving → 3 more
                 │   months → ↓ 30 mg/day
                 └─ Not improving
-                    → specialist, IV iron
+                │    → specialist, IV iron
+                ├─ B12 (if deficient) 
+											1 mg EOD 6 doses
+											every 3 mon
         │
         ▼
 Newly anaemic at 24–28 wks
@@ -308,7 +313,7 @@ Mother: suture → placenta check
 Pre-discharge
   ├─ Baby: BCG (≤24 h), heel prick
   └─ Mother: Vit A 200,000 IU,
-     rubella, anti-D (Rh −ve/+ve),
+     rubella, anti-D (Rh −ve mother + Rh +ve baby),
      check gauze, BP
         │
         ▼
@@ -365,7 +370,7 @@ Where to get
   ├─ Domiciliary → COCP + condoms
   ├─ MOH → all temporary except
   │        POP, Mirena; no permanent
-  ├─ FHB → all methods, free
+  ├─ FHB → POP, Mirena not avaliable now
   └─ Vasectomy → hospital
 
 Starting a hormonal method
