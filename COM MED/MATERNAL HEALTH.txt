@@ -1,3 +1,36 @@
+Booking visit (6-8 wks)
+  |
+  v
+Red flags?
+  +-- Abdominal pain
+  |     -> suspect ectopic
+  +-- PV bleeding (any POA)
+  |     -> no VE / speculum
+  |     -> admit immediately
+  +-- Severe abdominal pain
+        -> analgesia + transfer
+  |
+  v (none)
+History + examination
+  +-- Height <145 cm
+        -> plan LSCS
+  |
+  v^><
+Investigations
+  +-- FBC
+  +-- FBS or PPBS (not both)
+  +-- VDRL + HIV
+  +-- Blood group + Rh
+  +-- Urine dipstick
+  +-- 
+  |
+  |
+  v
+MCV <80 or MCH <27 -> refer
+  |
+  v
+All -> hospital shared care
+
 Death timing
   +-- <=42 days
   |     -> MATERNAL (used for MMR)
