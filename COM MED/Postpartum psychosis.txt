@@ -1,0 +1,139 @@
+POSTPARTUM PSYCHOSIS: FEATURES
+
+Postpartum psychosis
+   │
+   ├─ Psychiatric emergency
+   ├─ Onset: ~1–2 weeks (variable)
+   ├─ Confusion: present
+   ├─ Hallucinations/delusions: present
+   │     └─ e.g., 1st-person auditory
+   └─ Suicide risk: very high
+---
+Confusion/hallucinations present?
+   │
+   └─ Yes ─► Blues ruled out
+
+
+
+POSTPARTUM MENTAL HEALTH: BLUES VS DEPRESSION VS PSYCHOSIS
+
+Feature comparison
+   │
+   ├─ Blues
+   │     ├─ Onset: first few days
+   │     ├─ Course: self-limiting
+   │     ├─ Confusion: none
+   │     ├─ Hallucinations/delusions: none
+   │     ├─ Suicide risk: none
+   │     └─ Normal adjustment reaction, not psychiatric
+   │
+   ├─ Depression
+   │     ├─ Low mood >2 weeks
+   │     ├─ Confusion: none
+   │     ├─ Hallucinations/delusions: none
+   │     └─ Psychiatric
+   │
+   └─ Psychosis
+         ├─ Onset: ~1–2 weeks (variable)
+         ├─ Confusion: present
+         ├─ Hallucinations/delusions: present
+         │     └─ e.g., 1st-person auditory
+         ├─ Suicide risk: very high
+         └─ Psychiatric emergency
+
+
+
+CASE PATTERN
+
+Mother: 1st-person auditory hallucinations + confusion
+   │
+   ▼
+Postpartum psychosis
+   │
+   ▼
+Possible new-onset psychosis
+   │
+   ▼
+Possible missed pre-existing psychiatric illness
+   │
+   ▼
+Gaps possible
+   │
+   └─ Antenatal mental health screening: only once/trimester
+
+
+
+ORGANIC CAUSE TO RULE OUT
+
+Confusion in unwell postpartum patient
+   │
+   ▼
+Suspect delirium
+   │
+   ▼
+Cause: puerperal sepsis
+   │
+   └─ Postpartum genital tract infection
+
+
+
+MANAGEMENT OF POSTPARTUM PSYCHOSIS
+
+High suicide/homicide risk?
+   │
+   └─ Yes ─► Immediate hospital admission
+                │
+                └─ + 1:1 observation
+---
+Severe case?
+   │
+   └─ Yes ─► Temporary mother-child separation
+                │
+                ▼
+             Newborn effect: mother unable to feed
+                │
+                ▼
+             Risk of dehydration
+                │
+                ├─ Breast milk jaundice
+                └─ Hypoglycaemia
+                │
+                ▼
+             If separated: educate father on formula feeding
+
+
+
+SCREENING LINK
+
+Postnatal mental health
+   │
+   ├─ PHM: assesses at postnatal home visits
+   └─ EPDS
+         ├─ Postnatal clinic only (1 month)
+         └─ Not at home visits
+
+
+
+HIGH-YIELD POINTS
+
+Confusion + hallucinations
+   │
+   ▼
+Psychosis, not blues
+   │
+   ▼
+Very high suicide risk ─► Psychiatric emergency
+   │
+   ▼
+Admit + 1:1 observation
+   │
+   ▼
+Severe: separate mother-child
+   │
+   ▼
+Always exclude puerperal sepsis delirium
+   │
+   ▼
+Separated baby: dehydration, breast milk jaundice, hypoglycaemia
+   │
+   └─ Father taught formula feeding
