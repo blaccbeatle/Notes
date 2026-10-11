@@ -248,7 +248,7 @@ Booking → continue folic acid
         └─ ANAEMIC
              → iron 60 mg BD (120 mg/day)
                × 3 months
-								├─ Vit C 100 mg
+                ├─ Vit C 100 mg
            			├─ Calcium lactate 300 mg
              → recheck Hb
                 ├─ Improving → 3 more
