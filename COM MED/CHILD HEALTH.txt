@@ -855,6 +855,7 @@ Vaccines
  |    +-> school immunisation programme 
  |        (NOT in SMI)
  |    +-> girls only
+ |     +-> given by PHI
  |   
  |
  +-> Parents sign consent (CHDR)
@@ -946,8 +947,228 @@ Principal sends survery report
 to zonal director
 
 
+Immunisation
+  |
+  v
+Govt vaccines at MOH office
+  |
+  |-- same in private + public
+  |     (no immunogenicity gap)
+  |
+  |-- MOH supervises
+  |     (does not administer)
+  |
+  |-- live vaccines (EPI)
+  |     BCG, OPV, MMR, JE
+  |
+  `-- 4 stages
+        first year
+        > second year
+        > preschool
+        > school-going
 
 
+fIPV
+Which fIPV schedule?
+  |
+  |-- older schedule
+  |     dose at 2 months
+  |     dose at 4 months
+  |
+  `-- 2026 update
+        (born after Jan 1, 2026)
+        |
+        |-- dose 1 at 4 months
+        |     Pentavalent: left thigh, IM
+        |     fIPV: left deltoid, ID
+        |
+        |-- dose 2 at 9 months
+        |     fIPV: right deltoid, ID
+        |     MMR: left deltoid, SC
+---
+Total doses
+  |
+  |-- BCG ................... 1
+  |-- Pentavalent ........... 4
+  |     (3 primary + 1 booster)
+  |-- OPV ................... 5
+  |-- Fractional IPV ........ 2
+  |-- MMR ................... 2
+  |-- JE .................... 1
+  |-- Diphtheria ............ 6
+  |-- Tetanus ............... 6
+  |-- Pertussis ............. 5
+  |-- Hepatitis B and Hib ... 3
+  `-- HPV ................... 2
+---
+Vaccination rules
+Vaccines due
+  |
+  v
+Same day?
+  |
+  |-- yes
+  |     any number or combo OK
+  |     (unless contraindicated)
+  |     two oral vaccines OK
+  |
+  `-- no
+        |
+        |-- live vaccines
+        |     -> 4-week gap
+        |
+        `-- killed vaccines
+              -> at least 2 weeks
+
+Delayed vaccination
+  |
+  v
+Continue from missed dose
+(no restart)
+
+Preterm / LBW
+  |
+  |-- same schedule as term
+  `-- <28 weeks
+        -> 2-month vaccines in hospital
+           (apnea / respiratory
+            depression risk)
+---
+BCG
+  |
+  v
+Given after delivery,
+before discharge
+  |
+  v
+Protects against
+extrapulmonary / miliary TB
+  |
+  v
+Reaction
+  wound > vesicle > ulcer > scar
+  |
+  v
+Scar check at 6 months
+  |
+  |-- scar present
+  |     -> mark present
+  |
+  `-- scar absent
+        (age 6 mo - 5 yrs)
+        -> 1 repeat BCG dose
+        -> then no more scar checks
+
+Postpone if
+  sibling sudden death
+  in first year of life
+---
+DTP / Pertussis
+Pertussis-containing vaccine
+  |
+  |-- schedule
+  |     Pentavalent 2/4/6 months
+  |     DTP 18 months
+  |     DT at 5 years 
+  |       (no pertussis, reactions rise
+  |       with age)
+  |
+  `-- contraindications
+        |
+        |-- convulsion within 72 h
+        |     of previous dose
+        |     -> no further pertussis
+        |        doses
+        |
+        `-- progressive neuro disorder
+              (e.g. infantile spasms)
+---
+MMR / Rubella
+MMR
+  |
+  |-- routine doses
+  |     9 months
+  |     3 years
+  |
+  |-- given on 4 occasions
+  |     1. 9 months
+  |     2. 3 years
+  |     3. reproductive age group
+  |        if unvaccinated
+  |     4. post-delivery,
+  |        before discharge
+  |
+  |-- only 1 rubella dose needed
+  |     to prevent CRS
+  |
+  `-- rubella in 1st trimester
+        |
+        v
+        teratogenic
+        -> congenital rubella syndrome
+        -> avoid pregnancy 1-3 months
+           after vaccination
+---
+JE
+JE (live vaccine)
+  |
+  v
+Due at 12 months
+ completion of 1 yr = second year of life
+  |
+  v
+Any seizure history?
+(epileptic, non-epileptic,
+ febrile, afebrile)
+  |
+  |-- no
+  |     -> give JE
+  |
+  `-- yes
+        |
+        v
+        Seizure-free 12 months?
+          |
+          |-- yes -> give JE
+          |
+          `-- no
+                -> POSTPONE JE
+                   (not contraindicated)
+                -> other vaccines
+                   still given
+---
+HPV
+  |
+  v
+Grade 6 girls
+2 doses, 6 months apart
+IM deltoid
+  |
+  |-- 1st dose
+  |     within first 5-6 months
+  |     of school term
+  |     -> keeps 2nd dose on schedule
+  |
+  |-- types
+  |     quadrivalent: 6, 11, 16, 18
+  |       (govt programme)
+  |     bivalent: 16, 18
+  |
+  |-- 16, 18
+  |     oncogenic
+  |     -> commonest cause of
+  |        cervical cancer
+  |     -> vaccination
+  |        = primary prevention
+  |
+  |-- seroconversion 99-100%
+  |
+  `-- with aTd
+        HPV: right deltoid
+        aTd: left deltoid
+        HPV + aTd by PHI
+        other vaccines by PHM
+---
 EPI Schedule (born after 1 Jan 2026)
 BIRTH  BCG
   |    ID, L deltoid
