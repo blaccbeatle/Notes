@@ -200,11 +200,12 @@ Child visit
 Age?
   |-- up to 18 mo
   |     -> CWC (MOH)
-  |     -> immunisation + growth
+  |     -> immunisation + growth monitoring
   |
   |-- from 19 mo
-        -> weighing post
-        -> weight check only
+        -> weighing post: weight check only
+          {Immunisation rest: MOH clinic/school}                   
+                    		
 ---
 Weight due
   |
@@ -600,7 +601,6 @@ CHDR
  Use: to 18-19 y
  Vaccine page: lifelong
 ---
-
 DELIVERY
 Before discharge, record
   |  Hospital, Mode, Apgar 1/5/10 min
@@ -613,9 +613,11 @@ PHM 1st home visit
   v
 1 mo: CWC + mother
       postnatal visit
+  |
   v
 2,4,6,9,12,18 mo:
   CWC + vaccines
+  |
   v
 19 mo +: WEIGHING POST
          (weight only)
