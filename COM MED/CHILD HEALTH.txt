@@ -194,34 +194,64 @@ Water: not needed <6 mo
 
 
 Anthropometry
-CHILD AGE?
-   |
-   +-- 0-2 y
-   |    Weight: MONTHLY
-   |    Length: infantometer
-   |            (lying)
-   |
-   +-- 2-5 y
-        Weight: 3-MONTHLY
-        Height: stadiometer
-                (standing)
+Child visit
+  |
+  v
+Age?
+  |-- up to 18 mo
+  |     -> CWC (MOH)
+  |     -> immunisation + growth
+  |
+  |-- from 19 mo
+        -> weighing post
+        -> weight check only
+---
+Weight due
+  |
+  v
+Age?
+  |-- 0-2 y -> monthly
+  |-- 2-5 y -> every 3 months
+  |
+  v
+Scale?
+  |-- 0-6 mo
+  |     -> Seca / beam
+  |-- 6 mo-2 y
+  |     -> Seca -> Salter
+  |-- 2 y +
+        -> adult scale
+  |
+  v
+Record to 0.1 kg
+  |
+  v
+Plot on weight chart
+---
+Measure length/height
+  |
+  v
+Child can stand well?
+  |-- no (<2 y)
+  |     -> infantometer
+  |-- yes (>=2 y)
+        -> stadiometer
+  |
+  v
+Record to 0.5 cm
+  |
+  v
+Schedule
+  |-- CHDR
+  |     -> 4, 9, 12, 18 mo
+  |     -> 2-5 y: 6-monthly
+  |-- MHCP
+        -> 4, 9, 12 mo
+        -> 1-5 y: 6-monthly
 
 PRECISION
  Weight -> 0.1 kg (100 g)
  Length -> 0.5 cm
-
-SCALES
- 0-6 mo   -> Seca / beam
- 6 mo-2 y -> Salter
- 2 y +    -> adult scale
-
-LENGTH/HEIGHT SCHEDULE
- CHDR:
-  4 -> 9 -> 12 -> 18 mo
-  -> every 6 mo (2-5 y)
- Maternal package:
-  4 -> 9 -> 12 mo
-  -> every 6 mo (1-5 y)
 ---
 BIRTH WEIGHT
  <2.5 kg     -> LBW
@@ -244,23 +274,39 @@ HEAD vs CHEST
           weight (kg)
 BMI = -------------------
        [height (m)]^2
+BMI
+  |
+  v
+Age?
+  |-- <2 y
+  |     -> not done
+  |-- 2-5 y
+  |     -> possible, not in CHDR
+  |-- 5-19 y
+        -> recorded in CHDR
 
-
-
-Growth Chart & Deviations
- SD       ZONE
- > +3     DARK PURPLE
-          severe overweight
- +2..+3   LIGHT PURPLE
-          overweight
- -1..+2   DARK GREEN
-          normal
- -2..-1   LIGHT GREEN
-          at risk
- -3..-2   ORANGE
-          underweight
- < -3     RED
-          severe underweight
+Plot point on chart
+  |
+  v
+Zone?
+  |-- > +3 SD
+  |     -> dark purple
+  |     -> severe overweight
+  |-- +2 to +3
+  |     -> light purple
+  |     -> overweight
+  |-- -1 to +2
+  |     -> dark green
+  |     -> normal
+  |-- -2 to -1
+  |     -> light green
+  |     -> at risk
+  |-- -3 to -2
+  |     -> orange
+  |     -> underweight
+  |-- < -3 SD
+        -> red
+        -> severe underweight
 ---
 Growth slows
    |
