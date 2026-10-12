@@ -1,0 +1,784 @@
+Child Health
+
+Nutrient Requirements
+       TOTAL ENERGY
+            |
+   +--------+--------+
+   |        |        |
+ CARBS   PROTEIN    FAT
+ 55-65%  10-15%   15-30%
+   |                 |
+Refined          Sat <10%
+max 10%          Unsat 10-20%
+
+Cholesterol  <=300 mg/day
+Fibre        16-30 g/day
+
+PROTEIN
+ Good quality -> 0.75 g/kg/day
+ Mixed        -> 1 g/kg/day
+
+FAT (% energy)
+ Breast milk  -> 50-60%
+ Child <=2 y  -> 30-40%
+
+VITAMINS
+ A, D, E, K   -> stored
+ C, B-complex -> daily intake
+---
+Total Energy Requirement = BMR x PAL
+
+
+
+Breastfeeding Timeline & Technique
+BIRTH
+  |
+  v
+Initiate 30 min - 1 hr
+(colostrum: antibodies,
+ growth factors)
+  |
+  v
+Day 0-14: feed ~2 hourly
+incl. night, NOT on demand
+  |  low glycogen
+  |  -> hypoglycaemia risk
+  v
+>2 weeks: ON DEMAND
+  |
+  v
+0-6 mo: EXCLUSIVE
+(no water/food; meds only)
+  |
+  v
+6 mo: complementary feeds
+  |
+  v
+Continue to AT LEAST 2 y
+---
+SESSION 1         SESSION 2
+Right breast ---> Left breast
+     |
+     v
+Foremilk (thin, early)
+     |
+     v
+Hindmilk (rich, fat, late)
+
+Both breasts per session
+  -> mostly foremilk
+  -> GROWTH FALTERING
+---
+POSITIONING (mother)
+ Seated, joints at 90 deg
+ Hand -> baby's head
+ Forearm -> baby's body
+ Other hand -> C-hold breast
+
+ATTACHMENT (baby)
+ Nipple + most areola in
+ Lower lip everted
+ Nose free
+ Cheeks FULL    -> good
+ Cheeks DIMPLED -> poor
+
+HORMONES
+ Prolactin -> production
+ Oxytocin  -> flow
+ Stress/pain -> less milk
+ More feeds  -> more milk
+---
+10 STEPS (BABY-FRIENDLY)
+ 1  Written policy
+ 2  Train staff
+ 3  Inform pregnant women
+ 4  Initiate within 30 min
+ 5  Show how to breastfeed
+ 6  No other food/drink
+ 7  Rooming-in (24 hr)
+ 8  On-demand feeding
+ 9  No artificial feeds/
+    pacifiers
+ 10 Support groups
+
+
+
+Adequacy & Breast Problems
+IS FEEDING ADEQUATE?
+         |
+   +-----+------+
+   |            |
+  TRUE        FALSE
+   |            |
+Urine >=6/d   Burping
+Sleeps after  Looks happy
+Weight gain   Stool freq/
+(long-term)   colour
+              CRT at home
+---
+BREAST PAIN / SWELLING
+          |
+    +-----+-----+
+    |           |
+ENGORGED     MASTITIS
+    |           |
+Feed more    Breast exam
++ express       |
+          Abscess or septic?
+           |          |
+          YES         NO
+           |          |
+         ADMIT    Empty breast
+                  + paracetamol
+                  + CONTINUE BF
+---
+VICIOUS CYCLE
+
+Maternal stress/pain
+  ^             |
+  |             v
+More worry   Less milk
+  ^             |
+  |             v
+Child cries, poor growth,
+low urine output
+
+BREAK: keep feeding
+  -> well-fed child
+  -> bond strengthens
+  -> milk restored
+---
+MILK COMPARISON
+
+BREAST MILK
+ + easy-digest protein
+ + essential FA + lipases
+ + lactose, oligosaccharides
+ + lactoferrin, lysozyme
+ + growth/infective factors
+
+COW'S MILK
+ - high casein
+ - no essential FA/lipases
+ - low vit A, C, iron
+
+FORMULA
+ = modified cow's milk
+ - protein qty reduced
+   (quality same as cow's)
+ + EFA, vitamins, minerals
+
+
+
+Complementary Feeding
+6 MONTHS
+   |
+   v
+Liquids
+   |
+   v
+Mashed (papaya/potato)
+   |
+   v
+Semi-solids
+   |
+   v
+Solids by 1 year
+
+0-1 y : breast milk = MAIN
+1 y + : family meal = MAIN
+
+Water: not needed <6 mo
+       optional after
+
+
+
+Anthropometry
+CHILD AGE?
+   |
+   +-- 0-2 y
+   |    Weight: MONTHLY
+   |    Length: infantometer
+   |            (lying)
+   |
+   +-- 2-5 y
+        Weight: 3-MONTHLY
+        Height: stadiometer
+                (standing)
+
+PRECISION
+ Weight -> 0.1 kg (100 g)
+ Length -> 0.5 cm
+
+SCALES
+ 0-6 mo   -> Seca / beam
+ 6 mo-2 y -> Salter
+ 2 y +    -> adult scale
+
+LENGTH/HEIGHT SCHEDULE
+ CHDR:
+  4 -> 9 -> 12 -> 18 mo
+  -> every 6 mo (2-5 y)
+ Maternal package:
+  4 -> 9 -> 12 mo
+  -> every 6 mo (1-5 y)
+---
+BIRTH WEIGHT
+ <2.5 kg     -> LBW
+ 2.5-4.0 kg  -> normal
+ >4.0 kg     -> macrosomia
+
+OTHER MEASURES
+ OFC  -> only if indicated,
+         to 3 y
+ BMI  -> from 2 y;
+         CHDR 5-19 y
+ MUAC -> 1-5 y,
+         normal >13.5 cm
+
+HEAD vs CHEST
+ Birth: head > chest
+ 6-12 mo: transition
+ Later: chest > head
+---
+          weight (kg)
+BMI = -------------------
+       [height (m)]^2
+
+
+
+Growth Chart & Deviations
+ SD       ZONE
+ > +3     DARK PURPLE
+          severe overweight
+ +2..+3   LIGHT PURPLE
+          overweight
+ -1..+2   DARK GREEN
+          normal
+ -2..-1   LIGHT GREEN
+          at risk
+ -3..-2   ORANGE
+          underweight
+ < -3     RED
+          severe underweight
+---
+Growth slows
+   |
+   v
+FALTERING
+   |
+   v
+2 equal consecutive values
+   |
+   v
+FLATTENING
+
+OVERGROWTH
+ Starts in purple, OR
+ crosses many green lines up
+---
+FALTERING (~4 mo)
+   |
+Causes:
+ - infection
+ - complementary feeding
+ - mother back to work
+   |
+   v
+MOH: find + treat cause
+   |
+   v
+Diet diary
+   |
+   v
+Expressed breast milk
+   |
+   v
+Formula only if all fails
+
+REFERRAL
+PHM -> MOH -> paediatrician
+(most managed at field level)
+
+
+
+Malnutrition
+INDEX      <-2 SD     REFLECTS
+Ht/age  -> STUNTING   chronic
+Wt/ht   -> WASTING    most acute
+Wt/age  -> UNDERWT    acute +
+                      chronic
+(< -3 SD = severe)
+
+GOMEZ (WFA %)
+ 90% = normal
+WATERLOW
+ HFA >95% = normal
+ WFH >90% = normal
+---
+CHILD <5 y
+   |
+SCREEN - any of:
+ - WFA < -2 SD
+ - wt drop, 2 readings
+ - bilateral pitting
+   oedema (press 3 s)
+   |
+Positive
+   |
+   v
+Measure length/height
+   |
+   v
+WEIGHT-FOR-HEIGHT
+   |
+   +-- Green
+   |    -> MOH follow-up
+   |
+   +-- -3..-2 SD = MAM
+   |    |
+   |    +-- 0-6 mo -> REFER
+   |    +-- >6 mo -> MOH CWC
+   |
+   +-- < -3 SD = SAM
+        |
+        v
+     REFER
+     (pink rehab card)
+---
+SEVERE PEM MANAGEMENT
+Stabilise   2-7 days
+   |
+   v
+Rehab       2-6 weeks
+   |
+   v
+Follow-up   7-25 weeks
+
+
+
+Micronutrient Deficiencies
+IRON
+ -> hypochromic microcytic
+ Commonest; ~1/3 pregnant
+ Highest: estate sector
+ (tea tannins, hookworm,
+  low SES)
+ Absorption UP:
+  vit C, heme iron
+ Absorption DOWN:
+  tea, coffee, phytates,
+  calcium
+
+FOLATE / B12
+ -> megaloblastic anaemia
+ Folate -> NTDs
+ Give 3 mo pre-conception
+
+IODINE
+ -> goitre, cretinism, MR,
+    abortion, IUD
+ Easy indicator: goitre
+ Hard: urinary iodine
+ Prevent: iodised salt
+---
+VITAMIN A DEFICIENCY
+Night blindness
+   |
+   v
+Partial blindness
+   |
+   v
+Total blindness
+
+Signs: Bitot's spots,
+       xerophthalmia
+SL: 35% subclinical
+    ~0.8% symptomatic
+
+Serum vit A -> biochemical
+Visual acuity -> biophysical
+  (late -> delays diagnosis)
+
+
+
+Supplementation
+PREGNANCY
+ 2nd trim -> MMN
+   (non-anaemic, 1 tab/d)
+ Thriposha 50 g/day
+   booking (low BMI) or
+   2nd trim -> 6 mo
+   postpartum
+   |
+DELIVERY
+ Mother vit A 200,000 IU
+ (before discharge)
+   |
+6 MO  -> MMN x 60 d
+         + vit A 100,000 IU
+12 MO -> MMN x 60 d
+         + vit A
+18 MO -> MMN x 60 d
+         + vit A
+   |
+Vit A every 6 mo to 5 y
+   |
+SCHOOL (Gr 1-13)
+ WIFS weekly x 24 weeks
+ Gr 1-5  -> Fe 30 mg
+ Gr 6-13 -> Fe 60 mg
+---
+THRIPOSHA - CHILD
+Child 6 mo - 5 y
+   |
+WFA < -2 SD OR
+rapid drop over 3 mo?
+   |          |
+  YES         NO
+   |          |
+ GIVE      Not given
+
+<6 mo -> check BF technique
+         (not Thriposha)
+
+
+
+CWC & CHDR
+DELIVERY
+  |  CHDR issued (A + B)
+  |  Apgar 1/5/10 min
+  |  Birth + discharge wt
+  |  Vit K, OFC, length
+  |  Heel-prick TSH
+  v
+PHM 1st home visit
+  |  collects Part B
+  v
+1 mo: CWC + mother
+      postnatal visit
+  v
+2,4,6,9,12,18 mo:
+  CWC + vaccines
+  v
+19 mo +: WEIGHING POST
+         (weight only)
+---
+HEEL PRICK TSH
+   |
+ High?
+   |
+   v
+Venous sample day 3-5
+(curative sector screen;
+ results -> MOH)
+---
+CHDR PARTS
+ Part A -> mother
+           (yellow pages)
+ Part B -> PHM
+ Blue = boys, Pink = girls
+ Use: to 18-19 y
+ Vaccine page: lifelong
+
+PARENTS ASSESS
+ Hearing    -> to 1 y
+ Vision     -> to 1 y
+ Teeth      -> monthly
+               6-18 mo
+               (0 ok, x + date)
+ Milestones -> 6 wk-5 y
+   -> confirmed by PHM/MOH
+
+STOOL CARD (first 30 d)
+ Grade 1-3 pale -> ABNORMAL
+ Grade 4-5 yellow/brown
+ Grade 6 green  -> normal
+
+
+
+School Health & SMI
+GOVERNANCE
+FHB (national)
+   |
+MOMCH (regional)
+   |
+MOH (field)
+
+Immunisation -> Epid Unit
+---
+SCHOOL SIZE?
+ <200 -> ALL children
+ >200 -> Gr 1, 4, 7
+         (+ Gr 10:
+          optional, TRUE)
+---
+PHI: sanitary survey
+  |  fix within 2 wk
+  |  -> reassess
+  v
+Teacher reminded
+1-2 wk before
+  |
+  v
+Teacher fills H457
+(0 = ok, x = problem)
+  |
+  v
+SMI DAY (annual)
+ PHI: ht, wt, BMI,
+      Snellen
+ MOH: exam, confirm
+  |
+  v
+Defect sheet (2 copies)
+  |
+  v
+PHI reminds teacher
+at 1 month
+  |
+  v
+Referral done by 6 mo
+---
+WHO CHECKS WHAT
+TEACHER
+ attendance, hygiene,
+ studies, behaviour,
+ speech, hearing, vision,
+ wheeze, epilepsy, WIFS
+PHI
+ ht, wt, BMI,
+ visual acuity (only PHI)
+MOH
+ confirms speech/hearing,
+ leprosy patches, murmurs,
+ glossitis, goitre, ENT,
+ dental
+NOT DONE
+ child BP, colour vision,
+ parents, STD testing
+---
+HEALTH EDUCATION
+ Gr 1, 4 -> nutrition,
+            dental
+ Gr 7    -> puberty
+ Gr 10   -> smoking,
+            alcohol, drugs
+
+TEACHERS SCREENED
+ NCDs, BP, diabetes,
+ thyroid, breast/cervix
+   -> well woman clinic
+
+
+
+EPI Schedule (born after 1 Jan 2026)
+BIRTH  BCG
+  |    ID, L deltoid
+2 mo   OPV + Penta
+  |    (no fIPV)
+4 mo   OPV + Penta + fIPV1
+  |
+6 mo   OPV + Penta
+  |
+9 mo   MMR + fIPV2
+  |
+12 mo  Live JE (SC)
+  |
+18 mo  OPV + DTP
+  |
+3 y    MMR2 (SC)
+  |
+5 y    OPV + DT
+  |
+Gr 6   HPV1 (girls)
+  |
+Gr 7   aTd + HPV2
+---
+CO-ADMIN SITES
+4 mo: Penta  -> L thigh IM
+      fIPV1  -> L deltoid ID
+9 mo: MMR    -> L deltoid SC
+      fIPV2  -> R deltoid ID
+Gr 7: HPV    -> R deltoid IM
+      aTd    -> L deltoid IM
+      (both by PHI)
+
+fIPV CHANGE
+Old: 2 + 4 mo
+New: 4 + 9 mo
+Born <1 May 2026
+  -> fIPV1 at 4 mo (catch-up)
+
+fIPV = 0.1 ml ID
+Old IPV = 0.5 ml IM
+OPV bivalent (types 1, 3)
+
+
+
+Cold Chain
+Manufacturer
+  -> Airport
+  -> Epidemiology Unit
+  -> RMSD (cold box)
+  -> MOH fridge (2-8 C)
+  -> Clinic (carrier)
+  -> Child
+---
+MOH FRIDGE
+ +2 to +8 C (ideal +4/+5)
+ Main compartment only
+ Vaccines + diluents only
+ Diluents -> lower shelf
+ Door -> nothing
+ Check temp 2x daily
+ Log tag + thermometer
+ PHNS responsible
+
+USE ORDER
+ 1 Opened vials
+ 2 Taken out, unopened
+ 3 Shortest expiry
+---
+HEAT SUSPECTED
+   |
+Check VVM
+(all except JE)
+   |
+Inner square >= circle?
+   |           |
+  YES          NO
+   |           |
+DISCARD       USE
+(no discard on suspicion)
+
+FREEZE SUSPECTED
+   |
+Shake test 10 s
+vs frozen control
+   |
+Same/faster sediment
+   -> DAMAGED
+Slower -> usable
+---
+SENSITIVITY
+ Heat: OPV (most)
+       TT/DT/aTd (least)
+ Freeze: Penta (most)
+         fIPV (least)
+ Freezing OK:
+  OPV, BCG, MMR, JE
+
+OPEN LIFE
+ Liquid -> 4 weeks
+ Reconstituted -> 6 hr
+   or clinic end
+
+
+
+Contraindications & Rules
+CHILD FOR VACCINE
+   |
+Anaphylaxis to vaccine
+or component?
+   |-- YES -> NEVER GIVE
+   |
+   NO
+   v
+Live vaccine? check:
+ - RES malignancy
+ - pregnancy (3 mo)
+ - immunodeficiency
+   |-- any YES -> NEVER GIVE
+   |
+   NO
+   v
+Postpone if:
+ - fever >38 C
+ - blood/Ig < 3 mo
+ - long-term steroids
+   (<=5 d OK)
+ - chemo < 3 mo
+   |
+   NO
+   v
+GIVE
+(cold, no fever = give)
+---
+INTERVALS
+ Same day -> any number
+ Live, not same day
+   -> 4 weeks
+ Killed -> ~2 weeks
+ Missed -> continue,
+           no restart
+
+SPECIFIC
+ DTP: convulsion <72 hr
+      -> no pertussis
+ JE: any seizure
+      -> seizure-free 12 mo
+      (postpone only)
+ Hep B: baker's yeast allergy
+ BCG: no scar at 6 mo
+      -> 1 dose (6 mo-5 y)
+ Avoid pregnancy:
+  rubella >=1 mo
+  varicella >=3 mo
+ <28 wk preterm:
+  2-mo vaccines in hospital
+
+
+
+AEFI & Anaphylaxis
+COLLAPSE AFTER VACCINE
+   |
+>=2 systems involved?
+   |            |
+  YES           NO
+   |            |
+ANAPHYLAXIS   FAINT
+   |          (no adrenaline)
+   v
+IM adrenaline
+(anterolateral thigh)
+   |
+   v
+O2; bag-mask if apnoeic
+   |
+   v
+IV fluids if possible
+(never delay transfer)
+   |
+   v
+MOH escorts to hospital
+---
+REPORTING
+MOH ----> RDHS
+ |          |
+ v          v
+Epidemiology Unit
+   |
+   +-> Expert Committee
+   +-> WHO database
+
+FEEDBACK
+ WER, bulletin,
+ quarterly conferences
+---
+MOH TRAY
+ IM adrenaline (key)
+ Face mask, Ambu bag
+ IV cannula + fluids
+ Dextrose
+ Oral prednisolone
+ Oral chlorpheniramine
+ Thermometer
+ O2 nearby; no ET tubes
+
+FIELD / SMI TRAY
+ Face mask, O2,
+ IM adrenaline
+ No IV hydrocortisone
+
+
