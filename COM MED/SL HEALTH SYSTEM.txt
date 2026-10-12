@@ -1,0 +1,1016 @@
+SRI LANKA HEALTH SYSTEM
+=======================
+
+
+
+1. OVERVIEW
+
+Sri Lanka (>21 million)
+  |
+  v
+9 provinces
+  |
+  v
+25 districts
+  |
+  v
+Divisional Secretary areas
+  |
+  v
+Grama Niladhari divisions
+  (smallest admin unit)
+
+Health districts = 26
+  (25 admin + 1 for health)
+
+---
+
+Health system
+  |
+  +-- Sectors
+  |     +-- Curative
+  |     `-- Preventive
+  |
+  +-- Central Ministry
+  |     -> national policy
+  |     -> oversight
+  |     -> supplies, transfers
+  |
+  `-- Provincial Ministries
+        -> implementation
+        -> primary/secondary care
+        -> local preventive
+
+Allopathic (Western)
+  -> commonest mode
+
+
+
+2. CENTRAL MINISTRY
+
+Line Ministry = Central Ministry
+             = Central Government
+
+Honourable Minister
+  (whole system: Western,
+   Ayurvedic, other)
+  |
+  v
+State Ministers
+  |
+  v
+Secretary of Health
+  (need not be a doctor)
+  |
+  +-- Additional Secretaries
+  |     (central only)
+  |     +-- Medical Services
+  |     |     (3: I, II, III)
+  |     +-- Public Health Services
+  |     +-- Development
+  |     `-- Administration
+  |
+  `-- DGHS
+        (Dept of Health, Western
+         only; one, national)
+        |
+        v
+      DDGs (17 stated)
+        +-- Medical Services
+        +-- Public Health Services
+        +-- Planning
+        +-- Data
+        `-- Health Informatics
+
+Minister duties
+  -> protect/promote health
+  -> policies, guidelines
+  -> procure drugs, equipment
+  -> medical/paramedical education
+  -> practice standards
+
+Doctor transfers -> central
+
+---
+
+DGHS
+  |
+  +-- CURATIVE
+  |     +-- National Hospitals
+  |     +-- Teaching Hospitals
+  |     +-- Provincial General
+  |     +-- District General
+  |     +-- Specialized
+  |     +-- Board-Managed (govt part)
+  |     `-- Some Base Hospitals
+  |
+  |     Head -> Director
+  |     (Base -> Medical
+  |      Superintendent)
+  |
+  `-- PREVENTIVE
+        +-- Epidemiology Unit
+        +-- Family Health Bureau
+        +-- Health Promotion Bureau
+        +-- Disease Control Progs
+        +-- NCD Unit
+        +-- DPRU
+        `-- Nutrition Unit
+
+---
+
+KEY CENTRAL INSTITUTIONS
+
+Epidemiology Unit
+  -> surveillance, immunisation,
+     pandemics/new diseases
+
+Family Health Bureau
+  -> ANC, PNC, child welfare,
+     well women, FP, school
+     health, child nutrition
+
+Health Promotion Bureau
+  (= Health Education Bureau)
+  -> health education/promotion
+
+MSD
+  -> procures/supplies medicines,
+     equipment (central+regional)
+
+NMRA
+  -> registers drugs, vaccines,
+     equipment (SL's FDA)
+
+NCCP
+  -> cancer stats, screening
+  -> Early Cancer Detection
+     Centre (only one,
+     Narahenpita)
+
+NBTS (Narahenpita)
+  -> blood products, mobile
+     clinics, donor records
+
+National Dengue Control Prog
+  -> direct DGHS supervision
+
+NPTCCD
+  -> TB surveillance, drugs,
+     District Chest Clinics
+
+STD/AIDS Control Programme
+  -> stats, screening, clinics
+
+Public Health Veterinary
+  -> mainly rabies
+
+DPRU/DPRD
+  -> disaster (health component)
+
+Nutrition
+  +-- general -> Nutrition Unit
+  `-- children -> FHB
+
+Other: Anti Malaria Campaign,
+       Filariasis, Leprosy
+
+
+
+3. PROVINCIAL & REGIONAL
+
+Provincial Secretary
+  (administrative arm)
+  |
+  v
+PDHS -> RDHS -> MOH
+
+Provincial Minister of Health
+  (preventive arm)
+  |
+  v
+PDHS -> RDHS -> MOH
+
+PDHS -> 1 per province
+RDHS -> 1 per district
+
+---
+
+PDHS dual accountability
+  |
+  +-- DGHS
+  `-- Provincial Health Minister
+
+Central control persists
+  -> doctor allocation
+     (incl. internship)
+  -> drug supply
+  -> most tenders
+
+Provinces not independent
+  (differs from India)
+
+No State Ministers provincially
+  -> 1 minister, many subjects
+
+---
+
+RDHS
+  |
+  +-- Curative
+  |     +-- Most Base Hospitals
+  |     +-- ALL Divisional Hosps
+  |     `-- PMCUs
+  |
+  `-- Preventive
+        `-- MOH offices
+
+MOH -> supervised by RDHS
+MOH = Divisional Secretary
+      (health-side equivalent)
+1 DS area = 1 MOH area
+
+Blurred lines in practice
+  -> uneven upgrades
+  -> central circulars correct
+
+---
+
+4 LEVELS OF PREVENTIVE CARE
+
+CENTRAL
+  Minister, Secretary, DGHS,
+  DDG (Preventive)
+  -> Epid Unit, FHB, HPB,
+     disease progs, NCCP
+  |
+  v
+PROVINCIAL (PDHS)
+  -> CCP, MO NCD, MO Planning
+  |
+  v
+DISTRICT/REGIONAL (RDHS)
+  -> MO NCD, MO Planning
+  -> MO Mental Health
+  -> MO Health Informatics
+  -> MO Nutrition
+  -> Regional Epidemiologist
+  -> Food & Drug Inspector
+  -> MOMCH
+  -> Regional Dental Surgeon
+  -> Health Education Officer
+  -> Regional Supervising PHN
+  -> CCP
+  |
+  v
+FIELD (MOH area)
+  -> PHNS, SPHM, PHM,
+     SPHI, PHI, HLCs
+
+---
+
+Regional Dental Surgeon
+  |
+  v
+School dental therapists
+  +-- technical -> RDS
+  `-- administrative -> MOMCH
+
+Health Education Officer
+  -> district/regional promotion
+  ("regional" = "district")
+
+
+
+4. PREVENTIVE FIELD UNITS
+
+MOH area (= health unit)
+  min 60,000 / up to ~200,000
+  >350 areas (soon ~370)
+  |
+  +-- PHI areas
+  |     ~10,000 each
+  |     (>= ~6 per MOH)
+  |
+  `-- PHM areas
+        ~3,500 each
+        (smallest working unit)
+
+AMOH
+  -> MOH area >60,000
+  -> +1 AMOH per extra 30,000
+
+Smallest admin unit
+  -> Grama Sevaka area
+Smallest public health unit
+  -> PHM area
+PHM area =/= Grama Sevaka area
+
+Non-health staff
+  -> by operational need,
+     NOT population
+
+---
+
+SUPERVISION CHAIN
+
+RDHS
+  |
+  v
+MOH (+ AMOH)
+  |
+  +-- PHNS
+  |     |
+  |     v
+  |   SPHM
+  |     |
+  |     v
+  |   PHM
+  |   (PHNS supervises too,
+  |    not immediate)
+  |
+  `-- SPHI
+        |
+        v
+      PHI
+      (overall authority: MOH)
+
+---
+
+MOH
+  -> full SLMC, not consultant
+  -> no uniform
+  -> any post-intern MO
+  -> no MSc needed
+  -> max 4 years per post
+  -> same salary as hospital MO
+  -> leads outbreak investigation
+  -> supervises immunisation,
+     does NOT give vaccines
+  -> inserts Jadelle/Implanon
+     (only MOH/AMOH)
+
+AMOH = same duties
+MOH = overall + admin head
+
+MOH duties
+  +-- 5 polyclinics
+  |     1 Antenatal
+  |     2 Postnatal
+  |     3 Child welfare
+  |     4 Family planning
+  |     5 Well women
+  +-- HLCs
+  +-- School medical inspection
+  +-- Surveillance
+  +-- Area survey
+  +-- Health education
+  +-- Staff discipline
+  +-- Research
+  `-- Maintain diary
+
+---
+
+LEGAL DUTIES
+
+Medico-legal
+  MOH: No
+
+Outbreak investigation
+  MOH: Yes / PHI: Yes
+
+Quarantine & Prevention of
+Diseases Ordinance
+  MOH: responsible officer
+
+Food Act
+  MOH + PHI: responsible officers
+
+---
+
+PHM
+  -> uniformed, 24h on call
+  -> office often at residence
+  -> home visits
+  -> polyclinics
+  -> pre-pregnancy care
+  -> gives vaccines
+  -> registers (FP, births,
+     immunisation)
+  -> normal delivery skill
+     (>99% hospital births)
+
+PHI -> uniformed
+
+PHNS
+  -> polyclinics, blood drawing
+  -> vaccine fridge
+  -> weighing posts
+  -> IUCD insertion
+  -> NOT field clinics
+
+MOH sister = hospital sister
+  (same cadre, transferable)
+
+---
+
+CLINICS
+
+Clinic -> routine, regular
+Programme -> one-off/occasional
+  (adolescent, nutrition,
+   elderly, differently-abled)
+
+Central Clinic
+  -> MOH office, 1 per area
+  -> head: MOH
+
+Field Clinics
+  -> permanent buildings
+  -> many per MOH
+  -> >1 per PHM area possible
+  -> head: MOH
+
+Weighing Posts
+  -> temporary (temple, hall)
+  -> not Ministry-owned
+  -> in charge: PHNS
+  -> MOH does not attend
+  -> NO immunisation
+  -> weight only (Salter scale)
+  -> no height
+
+Mother -> own PHM area clinic
+          or adjacent one
+
+---
+
+CONFERENCES
+
+Local conference
+  -> monthly, half-day
+  -> led by PHI
+  -> plan next month
+  -> evaluate PHI/PHM
+
+Monthly conference
+  -> full day
+  -> led by MOH
+  -> all staff + district
+     (RDHS, RE, MOMCH, etc.)
+
+
+
+5. CURATIVE HIERARCHY
+
+TERTIARY
+  +-- National Hospitals: 2
+  |     (Colombo, Kandy)
+  +-- Teaching: each province
+  |     (university; MRI)
+  +-- Specialized: 15
+  |     (LRH, Apeksha, De Soysa)
+  +-- Provincial General: 2
+  `-- District General: ~20
+        (not every district; EEG)
+  |
+  v
+SECONDARY
+  `-- Base Hospitals A/B
+        (basis: facilities)
+  |
+  v
+PRIMARY
+  +-- Divisional A/B/C
+  |     (basis: beds;
+  |      lowest inpatient)
+  `-- PMCU
+        (outpatient only;
+         lowest curative tier)
+
+---
+
+Old system (pre-2021)
+  District Hospital
+  Peripheral Unit -> Div Hosp B
+  Rural Hospital
+
+Maternity homes -> Div Hosps
+
+Every province
+  -> >=1 tertiary hospital
+Every district
+  -> Base, Divisional, PMCU
+
+No gatekeeping
+  -> direct access any level
+
+Primary health care
+  -> free, affordable,
+     preventive + curative
+  +-- basic preventive -> MOH
+  `-- basic curative -> PMCU
+
+---
+
+BOARD-MANAGED (Western Prov)
+  -> Sri Jayawardenepura GH
+  -> Wijaya Kumaratunga
+     Memorial Hosp, Seeduwa
+  -> partly govt + private,
+     mixed board
+
+Asiri / Lanka Hospitals
+  -> have boards, but
+     NOT "board-managed"
+
+---
+
+ADMINISTRATION
+
+NHSL, Teaching, PGH, DGH
+  -> Director
+  -> central ministry
+
+Base Hospitals
+  -> Medical Superintendent
+  -> mostly provincial,
+     a few central
+
+Divisional, PMCU
+  -> MOIC
+  -> provincial
+
+Former District Hospitals
+  -> DMO
+
+Base under central because
+  -> admin issue, or
+  -> upgrade to DGH
+
+"ALL base hosps provincial"
+  -> FALSE
+"Base hosps provincial" (no all)
+  -> TRUE
+
+Local drug purchase
+  consultant requests
+  -> head of institution orders
+
+
+
+6. FACILITIES BY LEVEL
+
+ALL HOSPITALS
+  -> ECG, immunisation,
+     nebulisation
+  |
+  v
+DIVISIONAL+
+  -> labour room
+  -> normal/assisted delivery
+  -> BEmONC
+  -> palliative care
+  -> minor surgery
+  |
+  v
+BASE HOSPITAL+
+  -> X-ray
+  -> snake bites
+  -> consultant psychiatry
+  |
+  v
+BASE B+
+  -> consultants (4 main)
+  -> ultrasound, blood bank
+  -> physiotherapy, surgeons
+  -> major theatres, endoscopy
+  -> antidotes, ICU
+  -> CEmONC, LSCS
+  -> PCU
+  |
+  v
+BASE A+
+  -> subspecialties
+  -> HDU
+  -> separate medical +
+     surgical ICU
+  -> MO Nutrition
+  -> IPV services
+  -> 2D Echo (mostly)
+  |
+  v
+DGH (+ some base)
+  -> CT, EEG
+  |
+  v
+PGH+ (+ some DGH)
+  -> dialysis
+  |
+  v
+NATIONAL / TEACHING
+  -> MRI, PET
+
+Cardiology
+  -> every district,
+     not every hospital
+
+HLCs
+  -> PMCU, divisional, base,
+     MOH office
+
+Base B+ units
+  -> Health Education Unit
+  -> Quality Mgmt Unit (5S)
+  -> Infection control
+     (consultant microbiologist)
+
+---
+
+CONSULTANTS
+
+Base B+ -> 4 main specialties
+  Medicine, Surgery,
+  Paediatrics, O&G
+Base A+ -> subspecialties
+
+Divisional
+  -> only 8 have consultants
+  -> consultant family physicians
+  "A few have" -> TRUE
+  "Available" (general) -> FALSE
+
+---
+
+BASE B
+  -> theatre + ICU
+  -> manage pre-eclampsia
+  -> bridge delivery
+  -> paediatrician inconsistent
+     -> babies to Type A+
+
+DIVISIONAL B
+  -> simple febrile convulsion:
+     manage
+  -> acute GN: do NOT manage
+
+---
+
+PMCU
+  -> no obstetric/neonatal care
+  -> DMPA (all levels)
+  -> on-site: blood sugar, urine
+  -> other tests sent out
+
+PMCU emergency
+  stabilise -> transfer
+  +-- anaphylaxis
+  |     -> IM adrenaline
+  +-- cardiac arrest
+  |     -> IV adrenaline
+  +-- life-threatening asthma
+  +-- OP poisoning
+  `-- hypoglycaemia
+
+---
+
+SERVICES NEEDING EXPANSION
+  -> mental health
+  -> dialysis
+  -> anaesthetic
+  -> intensive care
+  -> cardiac catheterisation
+
+---
+
+EMERGENCY OBSTETRIC CARE
+
+BEmONC (Divisional+)
+  -> IV antibiotics
+  -> IV oxytocics
+  -> IV anticonvulsants
+  -> manual removal placenta
+  -> vacuum/forceps
+  -> basic neonatal resus
+  |
+  v
+CEmONC (Base B+)
+  -> all BEmONC
+  -> LSCS
+  -> blood transfusion
+  -> LBW baby care
+  -> advanced resus
+
+CEmONC -> free, all districts
+LSCS + transfusion
+  -> trial of scar possible
+
+---
+
+LABORATORY
+
+DGH+
+  -> chemical pathology
+  |
+  v
+Base A
+  -> haematology
+  -> microbiology
+  -> full histopathology
+  |
+  v
+Base B
+  -> histopathology
+     (may collect/forward)
+  |
+  v
+Divisional A+
+  -> lab, biochemistry
+  |
+  v
+PMCU
+  -> blood sugar, urine
+
+MOH office
+  -> sample collection
+     (FBC, VDRL, pap smear)
+
+---
+
+ORAL HEALTH
+
+Divisional A & above
+  units: Yes / facilities: Yes
+  |
+  v
+Divisional B
+  units: most / facilities: Yes
+  |
+  v
+PMCU
+  units: No / facilities: Yes
+
+"Units in ALL divisional"
+  -> FALSE
+"Services in all" -> TRUE
+
+
+
+7. ADMISSION & INFORMATION
+
+"H.O. to see"
+  -> IMO within 20 minutes
+  |
+  v
+PCU (Base B+)
+  -> post-intern MO
+  -> admit or observe
+  |
+  v
+Senior review
+  -> within 24 hours
+  (mandatory)
+
+ETU -> converted to A&E
+Divisional -> A&E only
+
+---
+
+DATA FLOW
+
+OPD
+  -> attendance only
+     (no diagnosis)
+
+Clinics
+  -> clinic book: diagnosis
+     + new/old visit
+
+Inpatient
+  |
+  v
+BHT number
+  (hospital-wide, yearly reset)
+  |
+  v
+Diagnosis on BHT page 1
+  + diagnosis card
+  (condition, not symptom)
+  |
+  v
+Record room
+  |
+  v
+MRO classifies (ICD-10)
+  |
+  v
+eIMMR -> Statistics Division
+  (every 3 months)
+  |
+  v
+Annual Health Bulletin
+
+Every BHT (incl. deaths)
+  -> carries a diagnosis
+
+IMMR deficiencies
+  -> unclear handwriting
+  -> non-standard abbreviations
+  -> incomplete/wrong diagnosis
+  -> delayed BHTs
+
+Midnight census
+  admissions + discharges
+  + transfers + deaths
+  -> bed occupancy
+
+---
+
+H-NUMBERS
+
+H512 -> pregnancy record
+H457 -> school medical inspection
+H544 -> notification
+H399 -> WRCD
+H411 -> PHI investigation
+H816 -> TB notification
+H814 -> TB death notification
+H800 -> food inspection
+H677 -> maternal death invest.
+
+
+
+8. INTERNSHIP & IMO
+
+Final MBBS
+  |
+  v
+Internship (12 months)
+  -> 2 specialties x 6 months
+  -> provisional SLMC
+  -> no private practice
+  -> needs 4 main consultants
+     (mainly Base A+)
+  -> 2 batches/year
+     May-June (small)
+     Oct-Nov (large)
+  |
+  v
+Full SLMC
+  |
+  v
+RHO
+  |
+  v
+MO / SHO / MOH
+
+---
+
+IMO CAN
+  -> X-ray, haematology,
+     biochemistry, UFR
+  -> diets, prescriptions
+  -> medical certificates
+  -> ward transfusions
+  -> minor surgery only
+  -> >=2 ward rounds/day
+  -> discharge card
+  -> health education on
+     discharge (all)
+
+IMO NEEDS CONSULTANT
+  -> ultrasound, CT
+  -> referrals, transfers
+  -> certain immunology tests
+
+IMO CANNOT
+  -> discharge (no authority)
+  -> issue death cert alone
+
+No discharge card
+  -> uncomplicated NVD
+
+Female patient
+  -> always female chaperone
+
+Death certificate
+  -> consultant's name; IMO writes
+  -> never "arrest" in 1A
+
+---
+
+CONSULTANT PATHWAY (PGIM)
+
+Internship
+  |
+  v
+Wait 1 year
+  |
+  v
+Entry exam
+  |
+  v
+Registrar (2-3 years)
+  |
+  v
+Part 2 exam
+  |
+  v
+Senior Registrar (1-2 years)
+  |
+  v
+Foreign training (1-2 years)
+  |
+  v
+Consultant
+
+
+
+9. PUBLIC vs PRIVATE
+
+Government
+  -> everything free
+  -> medical certificate:
+     govt servants: free
+     private sector: Rs. 50
+
+Private
+  -> everything charged
+
+Outpatient
+  ~45% govt / ~55% private
+Inpatient
+  ~96% govt / ~4% private
+
+---
+
+Government -> Western, Ayurvedic
+Private -> + Unani, Siddha,
+           Homoeopathy,
+           Acupuncture
+
+Ayurvedic <-X-> Western drugs
+  -> lack of training
+
+AMP/RMO
+  -> non-MBBS ("apothecary")
+  -> doctor shortage during
+     high malaria prevalence
+
+Accessibility
+  -> 4.8 km: nearest govt
+     Western facility
+  -> 1.4 km: any health service
+
+Leading causes of death
+  -> IHD + cerebrovascular
+
+
+
+10. HEALTHY LIFESTYLE CENTRES
+
+>=2 per MOH area
+  |
+  +-- Group A
+  |     healthy >=35 years
+  |     -> every 3 years
+  |
+  `-- Group B
+        20-34 + risk factors
+        -> annually
+
+Risk factors
+  -> smoking (>=1 year)
+  -> BMI >=25
+  -> waist >90 cm (M)
+           >80 cm (F)
+  -> BP >=140/90
+  -> diabetes symptoms
+  -> premature CVD in 1st-degree
+     (father <55, mother <65)
+  -> family diabetes
+  -> familial dyslipidaemia
+
+Investigations
+  -> FBS/RBS
+  -> total cholesterol
+  -> NO routine thyroid
+
+
+
+11. CASE EXAMPLES
+
+Asthma at PMCU
+  -> nebulise (all hospitals)
+  -> oral steroids
+  -> avoid IV hydrocortisone
+
+Notification
+  -> MOH of residence/work,
+     not hometown
+  -> death in other district
+     -> both RDHS + both PDHS
+
+Septic shock, 20 weeks
+  -> LSCS: Base B+
+  -> no improvement -> ICU
