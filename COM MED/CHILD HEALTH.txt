@@ -317,7 +317,7 @@ OVERGROWTH
  Starts in purple, OR
  crosses many green lines up
 ---
-FALTERING (~4 mo)
+FALTERING
    |
 Causes:
  - infection
@@ -349,7 +349,7 @@ Wt/ht   -> WASTING    most acute
 Wt/age  -> UNDERWT    acute +
                       chronic
 (< -3 SD = severe)
-
+---
 GOMEZ (WFA %)
  90% = normal
 WATERLOW
@@ -375,7 +375,7 @@ WEIGHT-FOR-HEIGHT
    +-- Green
    |    -> MOH follow-up
    |
-   +-- -3..-2 SD = MAM
+   +-- -3 to -2 SD = MAM
    |    |
    |    +-- 0-6 mo -> REFER
    |    +-- >6 mo -> MOH CWC
@@ -387,13 +387,13 @@ WEIGHT-FOR-HEIGHT
      (pink rehab card)
 ---
 SEVERE PEM MANAGEMENT
-Stabilise   2-7 days
+Stabilise   2-7 days {within a week}
    |
    v
-Rehab       2-6 weeks
+Rehab       2-6 weeks {6 weeks}
    |
    v
-Follow-up   7-25 weeks
+Follow-up   7-25 weeks {6 months}
 
 
 
@@ -419,7 +419,7 @@ IODINE
  -> goitre, cretinism, MR,
     abortion, IUD
  Easy indicator: goitre
- Hard: urinary iodine
+ Hard: urinary iodine (precise)
  Prevent: iodised salt
 ---
 VITAMIN A DEFICIENCY
@@ -443,14 +443,6 @@ Visual acuity -> biophysical
 
 
 Supplementation
-PREGNANCY
- 2nd trim -> MMN
-   (non-anaemic, 1 tab/d)
- Thriposha 50 g/day
-   booking (low BMI) or
-   2nd trim -> 6 mo
-   postpartum
-   |
 DELIVERY
  Mother vit A 200,000 IU
  (before discharge)
@@ -462,34 +454,158 @@ DELIVERY
 18 MO -> MMN x 60 d
          + vit A
    |
-Vit A every 6 mo to 5 y
-   |
+Vit A every 6 mo up to 5 y
+   
+
+MMN sachet (island-wide, all)
+  |
+  v
+1 sachet/day x 60 days
+(2 months per stretch)
+  |
+  v
+Mix in small semi-solid/solid food
+(NOT water)
+  |
+  v
+Record in CHDR
+
+1 sachet
+  |
+  +-- Ferrous fumarate 10 mg
+  +-- Vit C 30 mg
+  +-- Folic acid 150 ug
+  +-- Zinc 4.1 mg
+  |     (anti-diarrhoea)
+  +-- B vitamins
+  +-- Other vitamins/minerals
+  |
+  >15 micronutrients total
+
+---
 SCHOOL (Gr 1-13)
  WIFS weekly x 24 weeks
  Gr 1-5  -> Fe 30 mg
  Gr 6-13 -> Fe 60 mg
+
+Initiated in first week
+ |
+ v
+Weekly, fixed day
+(e.g. Monday)
+
+Given as a blister pack
+1 dose/week
+ |
+ v
+x 24 weeks (6 mo)
+ |
+ v
+24 doses
+ |
+ v
+= 1 blister pack
+ |
+ v
+1 pack/child/year
+
+WIFS Components
+	Ferrous fumarate (91.2-->182.4 mg)
+	Folic acid 0.4 mg
+	Vitamin C
+
+Who gets WIFS?
+ |
+ +-- School child
+ |    |
+ |    v
+ |    Class teacher gives
+ |    (register-marking)
+ |    |
+ |    v
+ |    Teacher records start
+ |    date on CHDR
+ |    |
+ |    v
+ |    PHI verifies compliance
+ |
+ +-- Non-school child
+ |    |
+ |    v
+ |    PHM identifies and gives
+ |
+ +-- Private/international school
+      |
+      v
+      Not routine
+      Request via MOH/PHI
 ---
-THRIPOSHA - CHILD
+THRIPOSHA - CHILD (only if deficiency)
 Child 6 mo - 5 y
    |
-WFA < -2 SD OR
+WFA < -2 SD {wasting} OR
 rapid drop over 3 mo?
    |          |
   YES         NO
    |          |
  GIVE      Not given
 
-<6 mo -> check BF technique
-         (not Thriposha)
+< 6 months
+       |
+       v
+     Thriposha NOT given
+       |
+       v
+     Assess breastfeeding technique
+       |
+       v
+     Top-up {expressed} if needed
+     (NOT formula)
 
-
+Content
+1 packet = 750 g {15 doses}
+  |
+  v
+Daily dose = 50 g
+  |
+  v
+50 g provides
+  +-- 200 kcal
+  +-- 10 g protein
+  +-- iron + multivitamins
 
 CWC & CHDR
+
+CHDR
+ |
+ +-- Govt-printed, free
+ |    (govt + private hospitals)
+ +-- 2 languages only
+ +-- Blue = boys, Pink = girls
+ |    -> different growth charts
+ +-- Cross-checked against
+ |    birth + immunisation registers
+ +-- Always document parents' details
+ |
+ +-- Given to mother after delivery
+      |
+      +-- Part A -> mother
+      |    yellow pages (education)
+      |    data/questions from here
+      |
+      +-- Part B -> PHM
+           no education
+           PHM collects at 1st
+           home visit
+ Use: to 18-19 y
+ Vaccine page: lifelong
+---
+
 DELIVERY
-  |  CHDR issued (A + B)
-  |  Apgar 1/5/10 min
-  |  Birth + discharge wt
-  |  Vit K, OFC, length
+Before discharge, record
+  |  Hospital, Mode, Apgar 1/5/10 min
+  |  Birth + discharge wt, OFC, length
+  |  Vit K
   |  Heel-prick TSH
   v
 PHM 1st home visit
@@ -503,6 +619,7 @@ PHM 1st home visit
   v
 19 mo +: WEIGHING POST
          (weight only)
+
 ---
 HEEL PRICK TSH
    |
@@ -513,28 +630,56 @@ Venous sample day 3-5
 (curative sector screen;
  results -> MOH)
 ---
-CHDR PARTS
- Part A -> mother
-           (yellow pages)
- Part B -> PHM
- Blue = boys, Pink = girls
- Use: to 18-19 y
- Vaccine page: lifelong
-
 PARENTS ASSESS
- Hearing    -> to 1 y
- Vision     -> to 1 y
- Teeth      -> monthly
-               6-18 mo
-               (0 ok, x + date)
- Milestones -> 6 wk-5 y
-   -> confirmed by PHM/MOH
-
+ Hearing    -> birth to 1 y
+ Vision     -> 1 month to 1 y
+ Teeth      -> 6-18 mo monthly 
+ Milestones -> birth-5 y, recorded 6 wk-5 y 
+   -> Parents mark first, confirmed by PHM/MOH
+---
 STOOL CARD (first 30 d)
  Grade 1-3 pale -> ABNORMAL
- Grade 4-5 yellow/brown
+ Grade 4-5 yellow/brown -> normal
  Grade 6 green  -> normal
-
+---
+Immunisation section
+ |
+ +-- All vaccines
+ |    doses on special card
+ |    attached to CHDR
+ +-- AEFI section
+ +-- BCG scar section
+---
+Supplements section
+ |
+ +-- Micronutrient sachets
+ +-- WIFS start date
+ |    (class teacher documents)
+ +-- Worm treatment
+      -> no longer given
+---
+SMI section
+CHDR (H457) has SMI section
+ |
+ v
+1-2 weeks before SMI
+ -> class teacher fills section
+ |
+ v
+SMI conducted
+ |
+ v
+Results recorded on CHDR
+ |
+ v
+Vaccines given in SMI
+ -> recorded on CHDR
+ -> parental consent signature
+    on CHDR
+---
+Markings
+ +-- No problem -> mark 0
+ +-- Positive finding -> mark x + date
 
 
 School Health & SMI
