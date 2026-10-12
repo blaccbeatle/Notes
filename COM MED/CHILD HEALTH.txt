@@ -218,7 +218,7 @@ Scale?
   |-- 0-6 mo
   |     -> Seca / beam
   |-- 6 mo-2 y
-  |     -> Seca -> Salter
+  |     -> Salter
   |-- 2 y +
         -> adult scale
   |
