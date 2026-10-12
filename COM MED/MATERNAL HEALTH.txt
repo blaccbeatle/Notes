@@ -281,8 +281,10 @@ Folic acid 1 mg
   |
   v
 BOOKING
-+ Thriposha 2 pkt/month
+Folic acid
++ Thriposha (if low BMI) 2 pkt/month
   (50 g/day; 750 g/pkt)
+Iron (if deficient)
   |
   v
 2ND TRIMESTER
@@ -293,11 +295,14 @@ BOOKING
   |    -> MMN 1/day
   |    -> Vit C 100 mg
   |    -> Ca lactate 300 mg
+  |    -> Thriposha
   |
   +-- Anaemic
        -> Iron 60 mg BD
           x 3 months
-       -> Vit C + Ca
+       -> Vit C
+       -> Ca lactate
+       -> B12 (if deficient)
           |
           v
        Recheck FBC
@@ -368,7 +373,7 @@ PRE-DISCHARGE
   |   full exam by MO
   +-> Mother: Vit A
       200,000 IU, rubella,
-      anti-D (Rh -ve),
+      anti-D (Rh -ve mother),
       BP, uterus, lochia,
       scars
   |
@@ -423,7 +428,8 @@ POSTPARTUM LOW MOOD
 Confusion/hallucinations?
   +-- Yes -> PSYCHOSIS
   |   -> admit + 1:1 obs
-  |   -> r/o sepsis delirium
+  |   -> r/o sepsis delirium 
+  |      (puerperal sepsis)
   +-- No
        |
        v
