@@ -1,0 +1,278 @@
+CHDR Events
+
+Overview
+CHDR
+ |
+ +-- Part A: main book
+ |     p1-64
+ |
+ +-- Part B: detachable
+ |     kept by PHM
+ |
+ +-- Preterm supplement
+       2016
+
+
+
+Newborn (p1-2)
+Birth
+ |
+ v
+p1 Birth record
+ |   demographics, DOB
+ |   delivery type/mode
+ |   APGAR
+ |   anthropometry
+ |   Vit K, heel prick
+ |   breastfeeding
+ |   problem areas
+ v
+p2 Discharge exam
+ |   by postnatal paed HO
+ |   CCHD pulse oximetry
+ v
+Outcome
+ |-- discharged
+ |-- transfer to special care
+ v
+p2 Health contact details
+
+
+
+Growth charts
+(gender specific)
+ |
+ +-- 0-5 yrs
+ |    |
+ |    +-- p3-5
+ |    |    weight/age 0-2, 3-5
+ |    |    length/height/age 0-5
+ |    |
+ |    +-- p6
+ |         weight/height
+ |         0-2, 2-5
+ |
+ +-- 5-19 yrs
+      |
+      +-- p24-25
+           height/age
+           BMI/age
+---
+Measurement frequency (from p29):
+Weight
+ |-- to 2 yrs: monthly
+ |-- 2-5 yrs: every 3 months
+
+Length/height
+ |-- birth
+ |-- 4 mo, 9 mo
+ |-- 1 yr, 18 mo
+ |-- then every 6 months
+---
+Weight-for-age zones:
+> +2SD         overweight
++2SD to -1SD   normal
+-1SD to -2SD   risk of underweight
+-2SD to -3SD   moderate underweight
+< -3SD         severe underweight
+
+
+
+PHM postnatal visits (p7)
+Birth
+ |
+ v
+Visit days 1-5
+ |
+ v
+Visit days 6-10
+ |
+ v
+Visit days 14-21
+ |
+ v
+Visit day 42
+ |
+ v
+Each visit records:
+    skin colour, eyes, cord
+    temperature
+    feeding
+    stools
+    other problems
+ |
+ v
+Also: dates for clinic and
+health education visits
+
+
+
+Immunisation and supplements (p8-9)
+p8 EPI schedule
+ |
+ v
+p8-9 Referrals on immunisation
+ |
+ v
+p9 Supplements
+ |
+ +-- Vitamin A megadose
+ |     6 mo, then 6-monthly to 5 yr
+ +-- Anti-worm
+ |     1.5 to 5 yr
+ +-- MMN packets
+       6-7 mo, 12-13 mo, 18-19 mo
+
+
+Development screening (p10-17)
+p10-11 Vision/hearing checklist
+ |   done by parent
+ v
+p12-17 Milestones
+ |   2 mo to 5 yr
+ |   done by parent
+ v
+PHM/MOH double checks
+ |
+ v
+Child NOT able to do
+age-appropriate task?
+ |
+ |-- No --> routine follow-up
+ |
+ |-- Yes --> refer to MOH
+ |
+ v
+p17 Teeth and dental hygiene
+    6-18 mo, filled by parent
+
+
+Health records 1-5 yrs (p17-20)
+p18 Wellness record 1-5 yrs
+ |   growth parameters
+ |   hearing, vision
+ |   glaucoma, cataract
+ |   night blindness
+ |   Bitot spots
+ |   dentition, joints
+ v
+p19 Doctor's exam and record
+ |   special notes
+ |   disability/illness referral
+ v
+p20 Preschool child record
+    10 items, 3 assessments
+
+
+
+School health (p21-25)
+School entry
+ |
+ v
+p21 SMI part 1
+ |   filled by class teacher
+ v
+p22 SMI part 2
+ |   filled by doctor
+ v
+p23 SMI continued
+ |   any treatment given
+ |   parental consent
+ |   (missed vaccines, HPV)
+ v
+p24-25 Growth charts
+        5-19 yrs
+        height/age, BMI/age
+
+
+
+Referrals (p26-27)
+Concern found
+ |
+ v
+Specialist referral
+ |
+ v
+p26-27 record
+    date
+    reason
+    place referred
+    outcome/follow-up
+
+
+
+Yellow pages (p28-63)
+Yellow pages
+(parent information)
+ |
+ +-- Sinhala: p28-44
+ |    |
+ |    +-- p28 newborn care
+ |    |    normothermia
+ |    |    PHM visits
+ |    |    breastfeeding
+ |    |    cord care
+ |    |    neurocognitive support
+ |    |    danger signs
+ |    |
+ |    +-- p29 stool guide
+ |    |    growth monitoring
+ |    |
+ |    +-- p30 EPI, AEFI
+ |    |    vit A, MMN, anti-worm
+ |    |
+ |    +-- p31-33 feeding (IYCF)
+ |    +-- p34-40 milestones 0-5 yr
+ |    +-- p41-42 dental care
+ |    +-- p42-43 discipline
+ |    +-- p44 activity and sleep
+ |
+ +-- Tamil: p45-63
+ |     duplicate of above
+ |
+ +-- p63-64 notes
+
+
+Part B
+Part B
+ |
+ v
+Detached from back of CHDR
+ |
+ v
+Kept with PHM
+ |
+ v
+PHM fills main book
+ |
+ v
+PHM duplicates into Part B
+ |   birth, growth
+ |   dentition, development
+ |   clinic visits
+ |   supplementation
+ v
+PHM copies parent entries
+    (development, dentition)
+
+
+
+Preterm supplement
+Preterm baby
+ |
+ v
+Use 2016 supplement
+ |   birth to 6 months
+ v
+Tape in BEFORE regular charts
+ |
+ v
+Plot by post-conceptual age
+(weeks)
+ |
+ v
+4 gender-specific charts
+ |-- weight/age
+ |-- length/age
+ |-- weight/length
+ |-- head circumference/age
