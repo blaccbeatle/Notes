@@ -223,9 +223,6 @@ Scale?
         -> adult scale
   |
   v
-Record to 0.1 kg
-  |
-  v
 Plot on weight chart
 ---
 Measure length/height
@@ -236,9 +233,6 @@ Child can stand well?
   |     -> infantometer
   |-- yes (>=2 y)
         -> stadiometer
-  |
-  v
-Record to 0.5 cm
   |
   v
 Schedule
