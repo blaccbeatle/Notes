@@ -5,6 +5,7 @@ CHDR
  |
  +-- Part A: main book
  |     p1-64
+ |     yellow pages p28-63
  |
  +-- Part B: detachable
  |     kept by PHM
@@ -27,9 +28,9 @@ p1 Birth record
  |   breastfeeding
  |   problem areas
  v
-p2 Discharge exam
+p2 Discharge neonatal exam
  |   by postnatal paed HO
- |   CCHD pulse oximetry
+ |   
  v
 Outcome
  |-- discharged
@@ -45,7 +46,7 @@ Growth charts
  +-- 0-5 yrs
  |    |
  |    +-- p3-5
- |    |    weight/age 0-2, 3-5
+ |    |    weight/age 0-2, 3-5 years
  |    |    length/height/age 0-5
  |    |
  |    +-- p6
@@ -58,7 +59,7 @@ Growth charts
            height/age
            BMI/age
 ---
-Measurement frequency (from p29):
+Measurement frequency (from p29, yellow pages):
 Weight
  |-- to 2 yrs: monthly
  |-- 2-5 yrs: every 3 months
@@ -131,8 +132,7 @@ p10-11 Vision/hearing checklist
 p12-17 Milestones
  |   2 mo to 5 yr
  |   done by parent
- v
-PHM/MOH double checks
+ |   PHM/MOH double checks
  |
  v
 Child NOT able to do
@@ -216,12 +216,12 @@ Yellow pages
  |    |    danger signs
  |    |
  |    +-- p29 stool guide
- |    |    growth monitoring
+ |    |       growth monitoring
  |    |
  |    +-- p30 EPI, AEFI
- |    |    vit A, MMN, anti-worm
+ |    |       vit A, MMN, anti-worm
  |    |
- |    +-- p31-33 feeding (IYCF)
+ |    +-- p31-33 feeding practices (IYCF)
  |    +-- p34-40 milestones 0-5 yr
  |    +-- p41-42 dental care
  |    +-- p42-43 discipline
