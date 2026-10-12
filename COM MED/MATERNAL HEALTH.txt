@@ -1,0 +1,641 @@
+Maternal Health
+
+Preconception Care
+MARRIAGE
+  |
+  v
+Registrar -> invitation card
+  |
+  v
+PHM: Eligible Family Reg.
+(within 3 months;
+ card not required)
+  |
+  v
+PCST (Sinhala / Tamil)
+filled by husband + wife
+  |
+  v
+2 couple sessions
+(MOH, PHNS, PHM)
+  |
+  +-> Screen: Ht, Wt, BP,
+  |   BMI (18.5-24.9), exams
+  +-> Ix: sugar, Hb,
+  |   +/- VDRL, BG/Rh
+  +-> No rubella?
+  |     -> MMR (by PHM)
+  |     -> no pregnancy
+  |        1-3 months
+  v
+Folic acid 3 months
+before conception
+  |
+  +-> Standard: 1 mg/day
+  |   (need = 400 ug)
+  +-> High-risk: 5 mg/day
+      (DM, BMI >=30,
+       prev NTD, AEDs)
+
+
+
+Registration & Pregnancy Record
+PREGNANCY CONFIRMED
+  |
+  +-> Walk-in to clinic
+  |   -> same-day booking
+  +-> Inform PHM
+      -> home visit -> date
+  |
+  v
+Booking: 6-8 wks POA
+  |
+  v
+PHM issues H512
+  +-> Part A -> mother
+  +-> Part B -> PHM
+  |
+  v
+Record documented FIRST
+  |
+  v
+Supplements issued
+  |
+  v
+MOH refers -> hospital
+clinic (in person,
+within days)
+---
+RISK MARKING
+  |
+  v
+Risk present NOW?
+  |
+  +-- No -> Primi?
+  |     +-- Yes -> BLUE
+  |     +-- No  -> no mark
+  |
+  +-- Yes -> RED
+      (any POA;
+       never erased)
+
+
+
+Booking Visit & Screening
+BOOKING VISIT
+  |
+  v
+History: LMP -> EDD,
+planned?, folic acid?,
+rubella?, obstetric hx
+  |
+  v
+Red flag?
+  +-- Abd pain (ectopic?)
+  +-- PV bleed
+  |   (no VE, no speculum)
+  |       |
+  |       v
+  |   ADMIT NOW
+  |
+  +-- None
+        |
+        v
+Exam: Wt, BMI, BP,
+breast, RS, Ht
+(Ht <145 cm -> LSCS
+ + LBW risk)
+        |
+        v
+INVESTIGATIONS
+  +-> FBC (anaemia +
+  |   thalassaemia)
+  |   MCV <80 / MCH <27
+  |   -> refer
+  +-> FBS or PPBS
+  |   (pre-existing DM)
+  +-> BG + Rh
+  +-> Urine dipstick
+  |   (UFR: hospital only)
+  +-> HIV + VDRL
+        |
+        v
+All -> hospital
+(shared care)
+---
+HIV + VDRL at booking
+(all mothers, once)
+  |
+  +-- Positive
+  |    -> STD clinic
+  |    -> TPHA / TPPA
+  |    -> treat
+  |
+  +-- Negative
+        |
+        v
+     High-risk?
+       +-- No  -> stop
+       +-- Yes -> repeat
+                 28-32 wks
+
+
+
+Routine Antenatal Monitoring
+VISIT SCHEDULE
+Booking 6-8 wks
+  |
+  v
+12-14 wks
+  |
+  v
+32-36 -> 38 -> 40 wks
+  |
+  v
+Total: 8-10 (usually 9)
++ 3 home visits
++ 3 classes (couple)
+---
+EVERY VISIT
+  +-> Wt (0.1 kg)
+  |   -> graph GAIN
+  +-> Pallor -> Hb confirms
+  +-> BP -> graph trend
+  +-> SFH -> graph vs POA
+  +-> Urine sugar+protein
+      (no strip ->
+       Benedict's / heat)
+
+ONCE / TRIMESTER
+  +-> Cardiac auscultation
+  +-> Mental health
+
+BOOKING ONLY
+  +-> Ht (0.5 cm), BMI,
+      RS + breast exam
+
+2ND TRIMESTER
+  +-> Dental -> refer
+---
+BOOKING BMI -> GAIN
+  +-- <18.5     12.5-18 kg
+  +-- 18.5-24.9 11.5-16 kg
+  +-- 25-29.9   7-11.5 kg
+  +-- >=30      <=6.8 kg
+---
+SCANS (hospital only)
+Dating 9-11 wks
+  |
+  v
+Anomaly 18-21 wks
+  |
+  v
+Growth ~34 wks
+(PIH, GDM, IUGR,
+ oligohydramnios)
+---
+KICK CHART
+36 wks (GDM: 32-34 wks)
+  |
+  v
+Count to 10 in 8-12 h
+  |
+  +-- 10 kicks -> normal
+  +-- None in 3 h
+        |
+        v
+     GO NOW: PMCU /
+     Divisional Hosp /
+     MOH office
+
+
+Gestational Diabetes
+BOOKING (<12 wks)
+FBS (preferred) or PPBS
+  |
+  +-- Positive
+  |    -> confirm
+  |    -> pre-existing DM
+  |    -> BSS monitoring
+  |
+  +-- Normal
+        |
+        v
+     24-28 wks screen
+        |
+        v
+     Risk factors?
+       +-- No  -> routine
+       +-- Yes -> OGTT
+             75 g glucose
+             3 samples
+             (0, 1, 2 h)
+---
+GDM = HIGH RISK
+  +-> More visits
+  +-> Kick chart 32-34 wks
+  +-> Control sugar EARLY
+  |   (~35-36 wks: too
+  |    late to limit growth)
+  +-> Insulin not mandatory
+  |
+  v
+Deliver 37-38 wks
+
+
+
+PIH Spectrum
+SIMPLE PIH
+  -> frequent BP
+  -> drug compliance
+  -> kick chart
+  |
+  | worse oedema, frothy
+  | urine, headache,
+  | vomiting, visual sx
+  v
+PRE-ECLAMPSIA
+  -> ADMIT Base Hosp B+
+  -> recheck BP + albumin
+  -> IV antihypertensives
+  -> MgSO4 if impending
+  -> termination decided
+     by consultant
+     (lung maturity)
+  |
+  v
+ECLAMPSIA (seizures)
+  +-> At MOH:
+  |   left lateral -> O2
+  |   -> transfer
+  |   (staff accompany)
+  +-> Hospital:
+      seizure control
+      -> terminate ASAP
+
+
+
+Supplements, Anaemia, TT, Worms
+PRE-CONCEPTION
+Folic acid 1 mg
+  |
+  v
+BOOKING
++ Thriposha 2 pkt/month
+  (50 g/day; 750 g/pkt)
+  |
+  v
+2ND TRIMESTER
+  |
+  +-- Non-anaemic
+  |    -> Iron 30 mg
+  |       + FA 0.4 mg
+  |    -> MMN 1/day
+  |    -> Vit C 100 mg
+  |    -> Ca lactate 300 mg
+  |
+  +-- Anaemic
+       -> Iron 60 mg BD
+          x 3 months
+       -> Vit C + Ca
+          |
+          v
+       Recheck FBC
+         +-- Better
+         |   -> 3 more months
+         |   -> 30 mg/day
+         +-- Not better
+             -> specialist
+             -> IV iron
+  |
+  v
+DELIVERY -> 6 MONTHS
+All supplements continue
+---
+Hb CUT-OFFS (g/dL)
+  +-- Booking: <11
+  +-- 24-28 wks: <10.5
+  |   -> iron 30 -> 60 mg
+  +-- Moderate: 7-10
+  +-- Severe: <7
+---
+TT IN PREGNANCY
+  +-- 1st preg, no child TT
+  |   -> 2 doses (>12 wks,
+  |      then 6-8 wks later)
+  +-- 2nd-4th -> 1 dose
+  +-- 5th+    -> none
+---
+WORMS: NOT ROUTINE
+  |
+  v
+Indication? (severe
+anaemia, poor SES,
+prev worms, passing worm)
+  |
+  v
+Hospital -> stool FR
+  |
+  v
+Positive -> consultant
+decides -> albendazole
+400 mg
+
+
+
+Delivery & Pre-Discharge
+DELIVERY
+(target 100% institutional;
+ now >99%)
+  +-> 1 prev CS -> VBAC ok
+  |   (Base Hosp B+)
+  +-> 2 prev CS -> repeat CS
+  |
+  v
+NEWBORN
+Cry? -> dry -> cord
+-> Apgar 1/5/10 min
+-> Wt, length, OFC
+-> Vit K
+  |
+  v
+Breastfeed 30 min-1 h
+  |
+  v
+PRE-DISCHARGE
+  +-> Baby: BCG <24 h,
+  |   heel prick (TSH),
+  |   full exam by MO
+  +-> Mother: Vit A
+      200,000 IU, rubella,
+      anti-D (Rh -ve),
+      BP, uterus, lochia,
+      scars
+  |
+  v
+STAY
+NVD 24 h | LSCS 48 h
+Assisted 24-48 h
+---
+MATERNAL CARDIAC ARREST
+  |
+  v
+CPR
+  |
+  v
+Perimortem CS
+(defib, adrenaline,
+ amiodarone = safe)
+
+
+
+Postnatal Care
+DISCHARGE
+  |
+  v
+PHM visit 1: <=5 days
+  |
+  v
+Visit 2: 5-10 days
+  |
+  v
+Visit 3: 2-3 wks
+  |
+  v
+PN clinic: 1 month
+(same day as 1st CWC;
+ GDM mothers: 4 wks)
+  |
+  v
+Visit 4: 6-7 wks
+---
+EPDS (PN clinic only)
+10 Q, last 7 days
+  |
+  +-- Q10 >=1 -> ADMIT
+  +-- Total >=9
+  |   -> possible depression
+  +-- <9 -> routine
+---
+POSTPARTUM LOW MOOD
+  |
+  v
+Confusion/hallucinations?
+  +-- Yes -> PSYCHOSIS
+  |   -> admit + 1:1 obs
+  |   -> r/o sepsis delirium
+  +-- No
+       |
+       v
+    >2 weeks?
+      +-- No  -> BLUES
+      |   (self-limiting)
+      +-- Yes -> DEPRESSION
+---
+POSTPARTUM FEVER
+  |
+  v
+Check: temp, resp/urinary
+sx, abd pain, discharge,
+scars, breasts
+  |
+  v
+Foul discharge?
+  -> retained gauze?
+  |
+  v
+Suspected sepsis
+  -> HOSPITAL NOW
+  (no speculum by PHM)
+
+
+
+Family Planning
+WANT CHILD WHEN?
+  +-- <=1 yr
+  |   -> temporary, no DMPA
+  |   -> condom ok
+  +-- >=2 yrs
+  |   -> longer-acting
+  +-- Family complete
+        |
+        v
+     LRT criteria met?
+       +-- Yes -> LRT /
+       |   vasectomy
+       |   (no spousal
+       |    consent)
+       +-- No -> Cu IUCD,
+           implant, COCP
+---
+LRT ELIGIBILITY
+  |
+  v
+>=3 children?
+  +-- Yes -> ELIGIBLE
+  +-- No (2 children)
+        |
+        v
+     Age >26 AND
+     youngest >2 yrs?
+       +-- Yes -> ELIGIBLE
+       +-- No  -> not yet
+
+3rd CS -> must offer LRT
+---
+CONDITION -> AVOID
+Migraine      -> COCP
+Ctrl HTN      -> COCP
+Active PIH    -> COCP
+Exclusive BF  -> COCP
+High BMI      -> COCP,
+                 Jadelle
+IHD / CV risk
+/ chronic DM  -> COCP,
+                 DMPA
+Breast cancer -> all
+                 hormonal
+---
+MISSED COCP
+  +-- 1 pill (<24 h)
+  |   -> take ASAP
+  |   -> continue
+  |
+  +-- >=2 pills
+      -> latest ASAP
+      -> barrier 7 days
+         |
+         v
+      Hormonal left?
+        +-- >=7 -> same pack
+        +-- <7  -> skip
+            placebo ->
+            new pack
+---
+DURATION
+DMPA     12 wks (84-90 d)
+Implanon 3 yrs
+Jadelle  5 yrs
+Mirena   5 yrs
+Cu IUCD  10 yrs
+---
+AFTER DELIVERY
+  +-> Condom: immediately
+  +-> Cu IUCD: <48 h,
+  |   else 6 wks
+  +-> LRT: <7 days,
+  |   else 6 wks
+  +-> Others: 6 wks
+  +-> COCP: 6 months
+---
+UNPROTECTED SEX
+  +-- <=72 h
+  |   -> LNG 1.5 mg, or
+  |      0.75 mg x2 (12 h)
+  +-- <=5 days
+      -> Cu IUCD
+---
+WHERE AVAILABLE
+  +-- Home: COCP, condom
+  +-- MOH: all temporary
+  |   except POP, Mirena
+  +-- FHB: all incl. POP,
+  |   implants, LRT (free)
+  +-- Hospital: vasectomy
+  +-- Mirena: not in
+      govt sector
+
+
+
+Maternal Death & Surveillance
+DEATH, WOMAN 15-50 yrs
+in pregnancy or <=1 yr
+  |
+  v
+NOTIFY (any cause,
+incl. accidents)
+  |
+  v
+<=42 days AND
+not accidental?
+  +-- Yes -> MATERNAL
+  |   DEATH (MMR)
+  |    +-- obstetric
+  |    |   -> DIRECT
+  |    +-- disease worse
+  |        -> INDIRECT
+  +-- 6 wks-1 yr
+      -> LATE
+---
+DEATH IN HOSPITAL
+  |
+  v
+Inform head of inst.
+(immediately)
+  |
+  v
+Notify <24 h: MOH,
+RDHS, PDHS, Dir FHB,
+previous institution
+  |
+  v
+Investigation (H677,
+3 copies) <=14 days
+  |
+  v
+Purpose: fix errors
+(NOT legal action)
+---
+THREE DELAYS
+Delay 1: decide to seek
+  (mother / family)
+  |
+  v
+Delay 2: reach adequate
+  facility
+  |
+  v
+Delay 3: receive care
+  (system; doctor
+   <20 min)
+---
+FETAL DEATH
+Form -> head <24 h
+-> monthly to FHB
+
+INFANT DEATH
+Notify <24 h
+-> review <=14 days
+-> F5 form
+
+
+
+Supervision, Referral, MIS
+MOH -> RDHS -> PDHS
+(supervision chain)
+
+PHM -> SPHM
+(immediate supervisor)
+
+PHNS: supervisory
+visits only
+---
+PHM REFERRAL
+  +-- To hospital
+  |   -> guide mother
+  |   (no letter)
+  +-- To a person
+      -> letter (only to
+         another PHM)
+When in doubt -> refer
+---
+PHM daily diary
+  -> monthly statement
+  |
+  v
+MOH <-- Nursing sister
+  |     quarterly clinic
+  |     return
+  v
+Quarterly MCH return
+  -> FHB + RDHS
