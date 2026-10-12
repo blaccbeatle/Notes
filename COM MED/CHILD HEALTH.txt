@@ -632,6 +632,7 @@ Venous sample day 3-5
 (curative sector screen;
  results -> MOH)
 ---
+*
 PARENTS ASSESS
  Hearing    -> birth to 1 y
  Vision     -> 1 month to 1 y
@@ -679,12 +680,16 @@ Vaccines given in SMI
  -> parental consent signature
     on CHDR
 ---
-Markings
+*confusing
+Markings CHDR/SMI
  +-- No problem -> mark 0
  +-- Positive finding -> mark x + date
 
 
+
 School Health & SMI
+
+
 GOVERNANCE
 FHB (national)
    |
@@ -694,11 +699,188 @@ MOH (field)
 
 Immunisation -> Epid Unit
 ---
-SCHOOL SIZE?
+Coverage
+ +-> Schools
+ |    +-> Govt: automatic
+ |    +-> Private/Intl: on request
+ |         (via MOH)
+ |        "SMI in all schools" = TRUE
  <200 -> ALL children
  >200 -> Gr 1, 4, 7
-         (+ Gr 10:
-          optional, TRUE)
+         (+ Gr 10:now optional, rising obesity)
+---
+Organisation
+Preschool medical exam
+ |
+ v
+SMI
+ |
+ +-> MOH
+ |    +-> overall responsibility
+ |    +-> conducts
+ |
+ +-> PHI
+ |    +-> organises
+ |
+ +-> Record: CHDR (H457)
+      +-> SMI section
+      +-> no separate H number
+---
+Participants
+SMI team
+ |
+ +-> Main
+ |    +-> MOH
+ |    +-> PHI
+ |    +-> Class teacher (facilitates)
+ |    +-> Principal (supports)
+ |
+ +-> Optional/help
+ |    +-> Hospital doctors
+ |    +-> GPs, family doctors
+ |    +-> Volunteers
+ |    +-> Parents who are doctors
+ |
+ +-> School Dental Therapist
+ |    +-> children <13 yrs
+ |    +-> dental assessment in SMI
+ |    +-> clinics held in schools
+ |         (not MOH office)
+ |
+ +-> PHM / PHNS
+      +-> NOT routine SMI staff
+      +-> may assist occasionally
+---
+Goals
+SMI goals
+ |
+ +-> Nutritional deficiencies
+ |    (due to busy schedules, poor breakfast)
+ +-> Identify problems -> refer
+ +-> Immunisation (aTd by PHI)
+ +-> Dental care / hygiene
+ +-> Health education + promotion
+ +-> School sanitary service
+ +-> NCD screening for teachers
+ |
+ +-> STD testing?
+      +-> no proper service
+      +-> advice only
+---
+Pre-SMI: Class Teacher
+1-2 wks before SMI
+ |
+ v
+Reminder to class teacher
+ |
+ v
+Class teacher fills (CHDR)
+ |
+ +-> Attendance
+ +-> Hygiene
+ +-> Studies
+ +-> Behaviour
+ +-> Speech
+ +-> Hearing
+ +-> Vision
+ +-> Wheezing/asthma
+ +-> Epilepsy
+ +-> WIFS start date
+ +-> Worm treatment
+----
+Who Assesses What
+PHI
+ +-> Height, weight
+ +-> BMI (marks)
+ +-> Vision (visual acuity, Snellen)
+ +-> PMI
+
+MOH
+ +-> BMI (reviews)
+ +-> Leprosy patches
+ +-> Murmurs
+ +-> Heart + lungs auscultation
+ +-> Glossitis
+ +-> Speech (after teacher)
+ +-> Vision
+ +-> Rest of examination
+
+MOH / Dental Therapist
+ +-> Dental care
+
+Class teacher only
+ +-> Studies + behaviour
+     (MOH does not check)
+
+[Vision = teacher + PHI + MOH
+Speech = teacher -> then MOH]
+
+MOH records
+ +-> date, age, height,
+     weight, BMI
+ +-> classify underweight /
+     overweight
+---
+Clinical Signs Checked (MOH)
+Sign -> Suggests
+ |
+ +-> Pallor -> anaemia
+ +-> Bitot's spots -> vit A
+ +-> Angular stomatitis
+ |    / glossitis -> iron
+ +-> Goitre -> iodine
+ +-> Insensitive patches
+ |    -> leprosy suspect
+ |
+Also checked
+ +-> Squint
+ +-> Alopecia
+ +-> Dental problems
+ +-> ENT
+ +-> Lymph nodes
+ +-> Rashes
+ +-> Bone / joint
+ +-> Heart + lungs (asthma etc.)
+
+NOT DONE
+ child BP, colour vision,
+ parents, STD testing
+---
+Vaccines
+ |
+ +-> SMI: aTd only
+ |    +-> given by PHI
+ |   
+ |
+ +-> HPV
+ |    +-> school immunisation programme 
+ |        (NOT in SMI)
+ |    +-> girls only
+ |   
+ |
+ +-> Parents sign consent (CHDR)
+---
+Referral & Follow-up
+Problem found
+ |
+ v
+Defect sheet (2 copies)
+ |
+ v
+Refer to
+ +-> Saturday clinic
+ +-> Weekday afternoon clinic
+ +-> Secondary/tertiary hospital
+ +-> Dental hospital
+ |
+ v
+Follow-up: class teacher + PHI
+ |
+ +-> 1 month
+ |    +-> PHI reminds teacher
+ |
+ +-> By 6 months
+      +-> referral completed
 ---
 PHI: sanitary survey
   |  fix within 2 wk
@@ -714,7 +896,7 @@ Teacher fills H457
   v
 SMI DAY (annual)
  PHI: ht, wt, BMI,
-      Snellen
+      
  MOH: exam, confirm
   |
   v
@@ -727,24 +909,6 @@ at 1 month
   v
 Referral done by 6 mo
 ---
-WHO CHECKS WHAT
-TEACHER
- attendance, hygiene,
- studies, behaviour,
- speech, hearing, vision,
- wheeze, epilepsy, WIFS
-PHI
- ht, wt, BMI,
- visual acuity (only PHI)
-MOH
- confirms speech/hearing,
- leprosy patches, murmurs,
- glossitis, goitre, ENT,
- dental
-NOT DONE
- child BP, colour vision,
- parents, STD testing
----
 HEALTH EDUCATION
  Gr 1, 4 -> nutrition,
             dental
@@ -756,6 +920,59 @@ TEACHERS SCREENED
  NCDs, BP, diabetes,
  thyroid, breast/cervix
    -> well woman clinic
+
+
+
+School Health Programme
+ |
+ +-> School Immunisation Programme
+ +-> Vision 2020 Programme
+ +-> School Dental Therapist reports
+ +-> School Sanitary (Health) Survey
+ +-> SMI
+---
+School Sanitary Survey
+   |
+   +-> Done by PHI
+   +-> Before SMI
+   +-> School + surroundings
+   +-> Checks for hazards      
+---
+Survey starts
+ |
+ v
+Basic school data
+Infrastructure issues & Facilities avaliablity
+Waste management 
+Food & Hostel Facilities
+Health Promotion
+---
+Report & Follow-up
+PHI completes survey
+ |
+ v
+Report prepared
+ |
+ +-> 3 copies
+      +-> PHI keeps
+      +-> sent to MOH
+      +-> given to principal
+ |
+ v
+PHI gives report to principal
+ |
+ v
+Corrections required
+ +-> within 2 weeks
+ |
+ v
+PHI reassesses
+ +-> after 2 weeks checks the corrections
+ |
+ v
+Principal sends survery report 
+to zonal director
+
 
 
 
