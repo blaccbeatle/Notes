@@ -792,8 +792,7 @@ Who Assesses What
 PHI
  +-> Height, weight
  +-> BMI (marks)
- +-> Vision (visual acuity, Snellen)
- +-> PMI
+ +-> Vision (visual acuity, Snellen) 
 
 MOH
  +-> BMI (reviews)
