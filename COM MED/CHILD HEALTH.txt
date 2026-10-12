@@ -680,7 +680,6 @@ Vaccines given in SMI
  -> parental consent signature
     on CHDR
 ---
-*confusing
 Markings CHDR/SMI
  +-- No problem -> mark 0
  +-- Positive finding -> mark x + date
@@ -788,6 +787,7 @@ Class teacher fills (CHDR)
  +-> WIFS start date
  +-> Worm treatment
 ----
+SMI day (annual)
 Who Assesses What
 PHI
  +-> Height, weight
@@ -880,33 +880,6 @@ Follow-up: class teacher + PHI
  |
  +-> By 6 months
       +-> referral completed
----
-PHI: sanitary survey
-  |  fix within 2 wk
-  |  -> reassess
-  v
-Teacher reminded
-1-2 wk before
-  |
-  v
-Teacher fills H457
-(0 = ok, x = problem)
-  |
-  v
-SMI DAY (annual)
- PHI: ht, wt, BMI,
-      
- MOH: exam, confirm
-  |
-  v
-Defect sheet (2 copies)
-  |
-  v
-PHI reminds teacher
-at 1 month
-  |
-  v
-Referral done by 6 mo
 ---
 HEALTH EDUCATION
  Gr 1, 4 -> nutrition,
