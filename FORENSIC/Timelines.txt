@@ -1,0 +1,81 @@
+WOUND AGING TIMELINE
+====================
+
+1. ABRASION
+
+0 - 4 d
+ |
+ +-- 0 ......... immediate
+ +-- 24 h
+ +-- 2-3
+ +-- 4-6 [Y] ... scab contracts
+
+---
+
+6 d - 2 w
+ |
+ +-- 6-10 d
+ +-- 2-3 w [G]
+
+
+
+2. CONTUSION
+
+0 - 4 d
+ |
+ +-- 0 ......... immediate
+ +-- 1-2
+ +-- 2-4
+ +-- 4-5 [Y] ... green
+
+---
+
+6 d - 2 w
+ |
+ +-- 6-8 d
+ +-- 10-14 d [G]
+
+
+
+3. CUTS
+
+3 d healed edges
+ |
+ +-- 12 h
+ +-- 36 h
+ +-- 7 d
+ +-- 3-4 w
+
+
+
+4. FRACTURES
+
+2-3 w callus
+ |
+ +-- 12-36 h
+ +-- 2-4 mo
+
+
+
+5. WOUND HEALING TIMELINE
+
+0 min ......... H
+
+---
+
+24 - 48 h ..... M
+ |
+ +-- 30 min - 1 h ... N
+ +-- 48 - 72 h ..... F
+
+---
+
+3 w
+ |
+ +-- 3 d ... P
+ +-- 2 y ... R
+
+
+[Y] = yellow highlight
+[G] = green highlight
+H M N F P R = red letters as written
