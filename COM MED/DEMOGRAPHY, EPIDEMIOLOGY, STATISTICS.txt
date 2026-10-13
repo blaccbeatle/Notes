@@ -1,0 +1,1063 @@
+EPIDEMIOLOGY, DEMOGRAPHY & STATISTICS
+=====================================
+
+
+
+1. VARIABLES & SCALES
+
+VARIABLE
+  |
+  +-> QUALITATIVE (categorical)
+  |     words, no natural order
+  |     e.g. sex, religion, blood group
+  |
+  +-> QUANTITATIVE (numerical)
+        |
+        +-> DISCRETE
+        |     whole numbers only
+        |     e.g. siblings, family size
+        |
+        +-> CONTINUOUS
+              fractions possible
+              e.g. weight, PEFR, age
+              displayed via histogram
+
+---
+
+NOMINAL
+  qualitative, no order
+  e.g. religion, blood group
+  |
+  v
+ORDINAL
+  qualitative, ordered, unequal gaps
+  e.g. social class, TNM staging
+  |
+  v
+INTERVAL
+  quantitative, equal intervals
+  relative zero (can be negative)
+  e.g. temperature C / F
+  |
+  v
+RATIO
+  quantitative, true absolute zero
+  e.g. weight, height, Kelvin
+
+
+
+2. CENTRAL TENDENCY & DISPERSION
+
+CENTRAL TENDENCY
+  |
+  +-> MODE
+  |     most frequent value
+  |     = peak of curve
+  |
+  +-> MEDIAN
+  |     middle value
+  |     even n -> avg of 2 middle
+  |
+  +-> MEAN
+        most common measure
+        sensitive to outliers
+
+---
+
+RANGE -> max - min
+IQR   -> Q3 - Q1 (middle 50%)
+
+MEAN DEVIATION
+  sum of deviations always 0
+  -> useless
+  |
+  v  square the deviations
+VARIANCE
+  removes cancellation
+  units squared
+  |
+  v  square root
+STANDARD DEVIATION
+  most common spread measure
+  same units as data
+  sensitive to outliers
+
+---
+
+n - 1 denominator
+  -> degree of freedom
+  -> last value fixed once mean known
+  -> unbiased sample estimate
+
+---
+
+FORMULAS
+  mean     = sum(x) / n
+  variance = sum((x - mean)^2) / (n - 1)
+  SD       = sqrt(variance)
+  z        = (x - mean) / SD
+  IQR      = Q3 - Q1
+
+
+
+3. NORMAL DISTRIBUTION
+
+NORMAL CURVE
+  bell-shaped, symmetrical
+  unimodal
+  mean = median = mode
+  area under curve = 100%
+  tails never touch x-axis
+  note: symmetrical != always unimodal
+
+---
+
+EMPIRICAL RULE
+  +/- 1 SD -> ~68%
+  +/- 2 SD -> ~95%
+  +/- 3 SD -> ~99.7%
+  within +/-1 SD -> also within +/-2 SD
+
+---
+
+STANDARD NORMAL (from z-scores)
+  mean = median = mode = 0
+  SD = 1
+  z = 0 -> 50th percentile
+  z = 2 -> top ~2.5%
+  A/L exact score
+    -> average of 3 subject z-scores
+
+---
+
+SKEW
+  right skew -> positive
+  left skew  -> negative
+  mean, median, mode separate
+  mean shifts furthest toward skew
+
+---
+
+SD vs SE
+  mean +/- 2 SD
+    -> middle 95% of individual values
+  mean +/- 2 SE
+    -> 95% confidence interval
+  SE -> error from sampling
+  outside 95% -> "not normal"
+              -> not "abnormal"
+
+---
+
+P <= 0.05 -> statistically significant
+RELIABILITY
+  -> repeated measures, same result
+VALIDITY
+  -> measures what it is meant to
+
+
+
+4. DATA DISPLAY
+
+CHART
+  |
+  +-> 1 VARIABLE
+  |     PIE CHART
+  |       qualitative, <= 5 categories
+  |       shows %
+  |       does NOT show shape
+  |     SIMPLE BAR
+  |       gaps between bars
+  |     DOT PLOT (1 or 2 variables)
+  |     HISTOGRAM
+  |       continuous only, no gaps
+  |       not for categorical
+  |     STEM & LEAF
+  |       quantitative
+  |     BOX & WHISKER
+  |       continuous
+  |       whiskers = range
+  |       box = IQR
+  |       middle line = median
+  |
+  +-> 2+ VARIABLES
+        COMPOUND / COMPONENT BAR
+        SCATTER PLOT -> quantitative
+        LINE DIAGRAM -> + time
+
+---
+
+HISTOGRAM
+  |  join bar tops
+  v
+FREQUENCY POLYGON
+  |  larger sample size
+  v
+smoother -> approaches normal curve
+
+---
+
+PEARSON'S CORRELATION
+  how y changes as x changes
+  quantitative variables only
+  e.g. height vs weight
+       systolic BP vs weight
+       POA vs SFH
+
+
+
+5. SAMPLING
+
+UNIVERSAL POPULATION
+  |
+  v
+TARGET / STUDY POPULATION
+  |
+  v
+SAMPLE
+
+---
+
+SAMPLING FRAME
+  list of all individuals in target
+  population (not just size)
+  essential for simple random
+
+---
+
+SAMPLING
+  |
+  +-> PROBABILITY
+  |     SIMPLE RANDOM
+  |       lottery, equal chance
+  |       most commonly used
+  |     SYSTEMATIC
+  |       500 / 100 -> every 5th
+  |       random start
+  |       use when total size unknown
+  |     CLUSTER
+  |       large dispersed populations
+  |       more cost-effective
+  |       many small > few large
+  |     QUOTA
+  |       fixed quotas
+  |       ignores real ratio
+  |
+  +-> NON-PROBABILITY
+        CONVENIENCE
+          easiest people
+        PURPOSIVE (judgmental)
+          researcher's judgment
+        STRATIFIED
+          strata, proportional
+        SNOWBALL (= chain)
+          hard-to-reach groups
+          e.g. drug addicts, sex workers
+          cannot combine with
+          simple random
+
+---
+
+MULTI-STAGE -> 2+ methods combined
+VALID COMBINATIONS
+  cluster + simple random
+  stratified + simple random
+
+
+
+6. EPIDEMIOLOGY BASICS & PREVENTION
+
+identify health problems
+  |
+  v
+prioritise
+  |
+  v
+intervene
+  |
+  v
+assess success
+
+SCOPE
+  physical, mental illness,
+  disability, nutritional
+
+---
+
+NATURAL HISTORY
+exposure
+  |  incubation period
+  v
+symptoms
+  |
+  v
+recovery
+
+---
+
+TRIAD (communicable)
+  agent - host - vector
+  dengue: virus - human - Aedes
+
+WEB OF CAUSATION (NCDs)
+  multiple interrelated risk factors
+  -> harder to control
+
+---
+
+PRIMORDIAL (disease-free)
+  stop risk factors establishing
+  e.g. health education
+       walking paths
+       smoking cessation
+       exercise (IHD)
+       environmental cleaning
+       colour-coded sugar drinks
+  |
+  v
+PRIMARY (disease-free)
+  stop onset once risk factors exist
+  e.g. HPV vaccination
+       salt reduction
+       school canteen regulation
+       breastfeeding education
+  |
+  v
+SECONDARY (may or may not have it)
+  early detection + prompt treatment
+  e.g. Pap smear
+       antenatal BP / urine
+  |
+  v
+TERTIARY (has disease)
+  manage complications
+  e.g. diabetic eye / foot checks
+
+---
+
+DIABETES
+  -> primordial and primary differ
+HYPERTENSION / NCD
+  -> both accepted as "primary"
+
+
+
+7. DISEASE OCCURRENCE & TRANSITION
+
+ENDEMIC
+  usual expected baseline
+  |  baseline exceeded
+  v
+EPIDEMIC
+  |
+  +-> POINT SOURCE
+  |     single source
+  |     e.g. contaminated kothu
+  |     -> fast spread, easy control
+  |
+  +-> PROPAGATED
+        multiple sources
+        e.g. chicken pox
+        -> harder to control
+  |
+  |  crosses countries / continents
+  v
+PANDEMIC
+  driven by fast travel, food trade
+
+note: epidemic can revert to endemic
+
+---
+
+EPIDEMIOLOGICAL TRANSITION (slow)
+
+CDs >> NCDs
+  |
+  v
+NCDs up, CDs down
+  |
+  v
+both up = DOUBLE BURDEN
+  (mainly developing countries)
+
+note: associated with demographic
+      transition, not causal
+note: pandemic can affect it
+
+---
+
+EMERGING / RE-EMERGING DISEASES
+  |
+  +-> AGENT
+  |     mutations, virulence,
+  |     infectivity, new strains,
+  |     resistance
+  |
+  +-> HOST
+  |     sexual / dietary behaviour
+  |     animal contact
+  |
+  +-> ENVIRONMENT
+        climate change, fast travel,
+        food technology, supply chains
+
+
+
+8. OUTBREAKS
+
+OUTBREAK
+  higher-than-expected cases in area
+
+field preparation
+  |
+  v
+verify diagnosis
+  (clinical / lab / both)
+  |
+  v
+case definition
+  |
+  v
+descriptive epidemiology
+  (time, person, place; spot map)
+  |
+  v
+test hypothesis (repeat 2-3 times)
+  |
+  v
+control measures
+  |
+  v
+communicate findings
+
+---
+
+steps run in parallel
+  -> control does not wait
+confirm outbreak exists -> REQUIRED
+confirm every case first -> FALSE
+outbreak subsides
+  -> may persist as endemic
+COVID-19 -> pandemic, not
+            outbreak-investigated
+
+
+
+9. PREVALENCE, INCIDENCE & BURDEN
+
+FORMULAS
+  prevalence = existing cases
+               / population at risk
+  incidence  = new cases
+               / population at risk
+               (time period)
+  CFR        = deaths / cases x 100
+  DALY       = YLL + YLD
+
+---
+
+POINT PREVALENCE -> one moment
+PERIOD PREVALENCE -> time period
+  -> useful for mental illness
+
+EXAMPLE (100 workers)
+  Feb: 20 anaemic -> prevalence 20%
+  May: 30 anaemic (10 new)
+       -> prevalence 30%
+       -> incidence 10%
+
+NEW CASES -> surveillance or cohort
+
+---
+
+PREVALENCE UP
+  in-migration of diseased
+  better treatment
+  longer disease duration
+
+PREVALENCE DOWN
+  out-migration of diseased
+  in-migration of healthy
+  better screening
+  high case-fatality
+
+---
+
+CFR -> SEVERITY, not burden
+  generally < 1%
+  Sri Lanka ~0.06%
+  rabies ~100%
+  deaths x2 but cases x4 -> CFR falls
+
+DISEASE-SPECIFIC DEATH RATE -> BURDEN
+CRUDE DEATH RATE
+  -> not disease-specific burden
+DALY -> best overall burden measure
+  YLL = years of life lost
+  YLD = years LIVED with disability
+
+HEALTH NEEDS
+  -> CD incidence + IMR
+  -> poverty, not unemployment alone
+
+---
+
+UNITS
+  small population -> per 1,000
+  MOH area         -> per 10,000
+  whole country    -> per 100,000
+
+
+
+10. STUDY DESIGNS
+
+STUDY DESIGN
+  |
+  +-> DESCRIPTIVE
+  |     CASE REPORT
+  |       1 rare patient
+  |     CASE SERIES
+  |       ~10-15, selected directly
+  |       hospital = more severe
+  |     CROSS-SECTIONAL
+  |       snapshot -> point prevalence
+  |       chronic non-fatal, KAP
+  |       can compare 2 populations
+  |
+  +-> ANALYTICAL
+  |     case-control, cohort
+  |
+  +-> EXPERIMENTAL
+  |     RCT
+  |     randomise before allocation
+  |
+  +-> QUALITATIVE
+        in-depth interview (~45 min)
+        focus group (3-5 people)
+        observation
+        -> transcribe -> analyse
+
+---
+
+BLINDING
+  single -> patient
+  double -> + doctor
+  triple -> + researcher / analyst
+PLACEBO EFFECT
+  feel better, think got real drug
+SAMPLE SIZE CRITICAL
+  case-control, cross-sectional, RCT
+
+---
+
+CASE-CONTROL (retrospective)
+cases (disease +) vs controls (-)
+  |  look back
+  v
+past exposure
+  -> rare DISEASES
+  -> smaller sample
+  -> recall bias
+  -> no prevalence / incidence
+  -> ODDS RATIO
+controls -> disease-free only
+matching -> 1:1 by age & sex
+         -> rare diseases 1:4
+
+---
+
+COHORT (prospective)
+healthy people
+  |  follow forward
+  v
+exposure -> disease
+  -> rare EXPOSURES
+  -> larger sample, longer
+  -> expensive, loss to follow-up
+  -> no recall bias
+  -> INCIDENCE
+  -> RELATIVE RISK
+
+---
+
+OR = odds of exposure in cases
+     / odds of exposure in controls
+RR = incidence in exposed
+     / incidence in unexposed
+
+OR > 1 -> risk factor
+OR = 1 -> no association
+OR < 1 -> protective
+ATTRIBUTABLE RISK %
+  -> preventable if exposure removed
+  -> RR 10 -> 90%
+
+---
+
+CONSENT
+  research / surgery
+    -> written informed
+  emergency -> verbal
+  routine visit -> implied
+CONFOUNDING
+  third factor distorts
+  exposure-outcome link
+RANDOM ERROR -> unavoidable
+SYSTEMATIC ERROR -> preventable
+  (faulty scale, observer bias)
+
+---
+
+INTERN SCENARIOS
+  first stroke patient
+    -> NOT case report (not rare)
+  group of stroke patients
+    -> case series
+  Alvarado score variation
+    -> cross-sectional
+  contraceptive choice
+    -> cross-sectional
+  IHD + risk factors
+    -> case-control
+
+
+
+11. SCREENING
+
+apparently healthy person
+  |
+  v
+screening test
+  |  positive
+  v
+diagnostic test
+  |
+  v
+treatment (if available)
+
+---
+
+TYPES
+  MASS -> Pap in clinic
+  HIGH-RISK / TARGETED
+    -> syphilis -> screen HIV
+  MULTIPHASIC
+    -> Hb at booking + 28 weeks
+  OPPORTUNISTIC
+    -> father's BP at child's UTI visit
+multiphasic / serial
+  -> yield up, sensitivity up
+
+---
+
+SCREENING
+  asymptomatic, less accurate,
+  cheaper, groups, not for treatment
+DIAGNOSTIC
+  symptomatic / screen +, accurate,
+  costly, individual, basis of
+  treatment
+
+---
+
+2 x 2 TABLE
+            disease +   disease -
+  test +       TP          FP
+  test -       FN          TN
+
+sensitivity = TP / (TP + FN)
+specificity = TN / (TN + FP)
+PPV         = TP / (TP + FP)
+NPV         = TN / (TN + FN)
+FPR         = FP / (FP + TN)
+
+---
+
+high sensitivity
+  -> negative result reassuring
+low specificity
+  -> positive may be false
+PPV denominator = screen-positives
+
+
+
+12. DEMOGRAPHY BASICS & SOURCES
+
+POPULATION SIZE CHANGES
+  fertility  -> increases
+  mortality  -> decreases
+  migration  -> either
+BASIC FEATURES
+  size, composition, distribution
+
+---
+
+DE JURE -> usual residence
+DE FACTO -> present that day / time
+DIGIT METHOD -> not affected by
+                migrants / seasons
+
+---
+
+DATA SOURCES
+  official data -> Department of
+    Census and Statistics
+  vital registration -> most deaths
+  marriage registry -> valid source
+
+CENSUS OF POPULATION AND HOUSING
+  everyone + every house
+  every 10 years
+  last 2024
+  not an MOH duty
+
+DHS
+  ~25,000 households, island-wide
+  every 6 years
+  last 2016
+  ANC/PNC, FP, child welfare,
+  CD/NCD, nutrition, women's
+  empowerment
+
+
+
+13. DEMOGRAPHIC TRANSITION
+
+STAGE 1 HIGH STATIONARY
+  high births, high deaths
+  pyramid, widest base
+  |  death rates fall first
+  v
+STAGE 2 EARLY EXPANDING
+  transient birth rise
+  rapid growth
+  |  birth rates start falling
+  v
+STAGE 3 LATE EXPANDING
+  births falling, deaths low
+  growth slows
+  |
+  v
+STAGE 4 LOW STATIONARY
+  low births, low deaths
+  barrel pyramid
+  |
+  v
+STAGE 5 (proposed)
+  births fall or rise
+  population contracts
+  e.g. Germany, Japan
+
+---
+
+DEATH RATE DOWN
+  antibiotics, vaccination,
+  health education
+BIRTH RATE DOWN
+  female literacy, status of women,
+  family planning
+
+---
+
+SRI LANKA
+  stage 3 (late expanding)
+  -> moving to low stationary
+  -> population cannot double
+DEVELOPING -> up to stage 3
+DEVELOPED  -> stage 4
+LONGEVITY = life expectancy
+
+---
+
+DEMOGRAPHIC WINDOW OF OPPORTUNITY
+  = bonus = dividend
+  ~1990 to 2030
+  peak 2015-2017 (passed)
+
+
+
+14. POPULATION COMPOSITION
+
+SEX RATIO
+  males per 100 females
+  Sri Lanka ~92
+  at birth ~105 worldwide
+  Sri Lanka at birth ~104-105
+  > 100 under 14 years
+  < 100 overall
+  not exact from pyramid
+
+---
+
+MEDIAN AGE -> better than mean age
+DEPENDENT -> >= 60 or >= 65
+          -> trend toward 65
+
+---
+
+PYRAMID
+  broad base -> developing
+  barrel     -> developed
+  Sri Lanka barrel expected 2041
+BACKWARD CALCULATION (2041)
+  0-4   -> born 2037-2041
+  5-9   -> born 2032-2036
+  10-14 -> born 2027-2031
+
+---
+
+50% of population
+  -> Western, Central, Southern
+LITERACY -> assessed age 10+
+
+---
+
+RATIOS (x 100)
+  total dependency
+    = (<15 + >=65) / (15-64)
+  child dependency
+    = <15 / (15-64)
+  old-age dependency
+    = >=65 / (15-64)
+  ageing index
+    = >=65 / <15
+  sex ratio
+    = males / females
+  population density
+    = population / land area
+
+total dependency ~60
+  -> source considered accurate
+
+
+
+15. FERTILITY MEASURES
+
+RATES (x 1000)
+  CBR  = live births
+         / total population
+  GFR  = live births
+         / women 15-49
+  ASFR = live births in age group
+         / women in that age group
+  CWR  = children < 5
+         / women 15-49
+
+---
+
+CBR -> poor (includes non-
+       reproductive people)
+GFR -> better than CBR
+REPRODUCTIVE AGE
+  Sri Lanka 15-49
+  most countries 15-44
+ASFR
+  highest 25-29
+  compares countries
+  reflects contraceptive use
+  denominator = women, not mothers
+
+---
+
+TFR
+  sum of ASFRs
+  ignores mortality
+  Sri Lanka ~2.2 now
+  |  daughters only
+  v
+GRR
+  ignores mortality
+  |  + mother's mortality
+  v
+NRR
+  NRR = 1 -> replacement
+
+GRR always > NRR
+only GRR, NRR use female births
+
+---
+
+REPLACEMENT LEVEL
+  group-level, not individual
+  TFR 2.1 + NRR 1
+PUNCHI PAWULA
+  TFR 2.1 + NRR 1 for ~5 decades
+  -> growth ceases
+
+---
+
+CHILD-WOMAN RATIO
+  numerator -> under-5 survival
+  denominator -> fertility
+
+
+
+16. MORTALITY MEASURES
+
+up to 21 wk + 6 days
+  -> abortion
+  |
+  v
+22 weeks
+  -> early fetal death
+  -> perinatal period starts
+     (or birth weight > 500 g)
+  |
+  v
+28 weeks
+  -> late fetal death
+  -> stillbirth
+  |
+  v
+birth
+  |
+  v
+0-7 days -> early neonatal
+  (perinatal period ends day 7)
+  |
+  v
+8-28 days -> late neonatal
+  |
+  v
+29-365 days -> post-neonatal
+
+INFANT = birth to 1 year
+
+---
+
+RATES (per 1,000)
+  CDR = deaths / total population
+  SBR = stillbirths (>=28 wk)
+        / (stillbirths + live births)
+  PMR = fetal deaths (>=22 wk)
+        + early neonatal deaths
+        / (fetal deaths + live births)
+  NMR = deaths <= 28 days
+        / live births
+  PNMR = deaths 1 month - 1 year
+         / live births
+  IMR = deaths < 1 year
+        / live births
+  U5MR = deaths 0-5 years
+         / live births
+  disease-specific DR
+      = deaths from disease
+        / total population
+        (per 1,000 or 100)
+
+RATIO (per 100,000)
+  MMR = maternal deaths
+        / live births
+
+---
+
+ONLY SBR + PMR -> stillbirths in
+                  denominator
+ALL OTHERS -> live births only
+no "child mortality rate" -> U5MR
+MMR -> ratio, not rate
+    -> treat as rate if grouped
+PMR -> most important child-death
+       indicator; reflects system
+
+---
+
+2 of 3 infant deaths -> neonatal
+EARLY NEONATAL CAUSES
+  congenital anomalies > prematurity
+UNDER-5 CAUSES
+  accidents > congenital anomalies
+deaths < 1 year -> MOH investigates
+CDR -> not calculable from selected
+       disease deaths alone
+
+
+
+17. POPULATION GROWTH & LIFE TABLES
+
+growth = births - deaths
+         + net migration
+
+STATIONARY
+  birth rate = death rate
+  -> zero growth
+STABLE
+  constant non-zero birth and
+  death rates
+  -> constant growth rate
+
+---
+
+LIFE TABLE
+  age-specific mortality rates
+  closed to migration
+  radix 100,000 at birth
+  separate males / females
+  -> life expectancy
+  -> forecast population
+
+
+
+18. CASE EXAMPLES
+
+music as adjunct in chronic pain
+  -> RCT
+online teaching for swimming
+  -> not a study design
+  -> RCT only if taught vs
+     non-taught compared
+
+
+
+19. HIGH-YIELD POINTS
+
+case-control -> rare disease, OR,
+  recall bias, no prev / incidence
+cohort -> rare exposure, RR,
+  incidence
+cross-sectional -> point prevalence
+CFR -> severity
+disease-specific DR -> burden
+DALY = YLL + YLD
+sensitivity = TP / (TP + FN)
+specificity = TN / (TN + FP)
+PPV denominator = screen-positives
+SBR, PMR -> stillbirths in denom
+perinatal -> 22 wk (>500 g) to day 7
+stillbirth rate -> still >= 28 wk
+MMR -> per 100,000 live births
+GRR > NRR
+replacement -> TFR 2.1 + NRR 1
+reproductive age -> 15-49
+Sri Lanka -> stage 3, sex ratio ~92
+census 2024, DHS 2016
+window of opportunity ~1990-2030
+mean +/- 2 SD -> 95% of values
+mean +/- 2 SE -> 95% CI
+probability -> simple random,
+  systematic, cluster
+snowball -> non-probability
+breastfeeding education -> primary
+environmental cleaning -> primordial
+
+
+
+20. SOURCES
+
+EPIDEMIOLOGY_DEMOGRAPHY_N_STATISTICS.pdf
+EPIDEMIOLOGY_DEMOGRAPHY_N_STATISTICS_3e7079cc723e80f98f8bcaf54768f4df.html
+Epidemiology_Demography_Statistics_3f51d366dad1813da4d7c380508dcb3f.html
+COM_MED_EXAMPLES.docx
+
+
+
+21. GAPS
+
+stratified / quota classification
+  -> as lecture notes; verify
+PMR numerator -> 22 wk used; one
+  updated set still says >= 28 wk
+working age -> 15-64 (dependency)
+  vs 15-59 (demographic bonus)
+replacement level reached
+  -> "~2000" vs "1990s"
