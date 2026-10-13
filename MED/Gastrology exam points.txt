@@ -1,0 +1,1442 @@
+GASTRO AND HEPATOLOGY FLOWCHARTS
+================================
+Consolidated rapid-review notes
+
+
+
+1. JAUNDICE
+
+Bilirubin > 50 umol/L = visible
+Sclera first
+  |
+  v
+Which type?
+  |
+  +-- HAEMOLYTIC (pre-hepatic)
+  |     unconjugated high
+  |     urine dark (urobilin)
+  |       no bilirubin (acholuric)
+  |     stool dark
+  |     mild, lemon tinge
+  |     anaemia, tachycardia
+  |
+  +-- OBSTRUCTIVE (post-hepatic)
+        conjugated high
+        urine dark (bilirubin)
+          no urobilin
+        stool PALE (clay)
+        deep, pruritus
+        sinus bradycardia
+---
+Deep jaundice causes
+  +-- hepatitis A
+  +-- alcoholic hepatitis
+  +-- ca head of pancreas
+  +-- NASH
+  +-- NOT simple NAFLD
+---
+Obstructive: painful?
+  |
+  +-- painful -> CBD stone
+  |
+  +-- painless
+        ca head of pancreas
+        peri-ampullary ca
+        cholangiocarcinoma
+        strictures
+---
+Special points
+  Peri-ampullary ca
+    -> intermittent jaundice
+    -> silver-striped stools
+  Courvoisier law:
+    palpable GB + obstructive
+    jaundice -> usually NOT
+    stones -> malignancy
+    exception: Mirizzi
+  Klatskin = cholangioca at
+    hepatic duct confluence
+  Whipple = min 3 anastomoses
+  Head ca -> early (jaundice)
+  Tail ca -> late (mets)
+  No bile salts -> vit A D E K
+    deficiency
+---
+Unconjugated or conjugated?
+  |
+  +-- UNCONJUGATED
+  |     newborn: low glucuronyl
+  |       transferase
+  |     Gilbert: AR, low UGT1A1
+  |       other LFTs normal
+  |       triggers: infection,
+  |       fever, fasting,
+  |       dehydration, menses
+  |       jaundice present ->
+  |       repeat bilirubin after
+  |       fasting unnecessary
+  |       benign, no Rx
+  |     Crigler-Najjar 1: AR,
+  |       enzyme absent
+  |       -> kernicterus
+  |       -> choreoathetoid CP
+  |     Crigler-Najjar 2 (Arias):
+  |       enzyme reduced
+  |       usually asymptomatic
+  |
+  +-- CONJUGATED
+        Rotor, Dubin-Johnson
+        leptospirosis
+
+
+
+2. ACUTE AND CHRONIC HEPATITIS
+
+Prodrome: anorexia, lethargy,
+  fever
+  |
+  v
+Feels better
+  |
+  v
+Jaundice + dark urine
+  tender hepatomegaly
+  AST/ALT > 5x ULN
+  |
+  v
+Chronic if > 6 months
+---
+Acute causes
+  +-- viral: A, B (+/-D), E,
+  |     EBV, CMV
+  +-- infection: toxoplasma,
+  |     leptospira
+  +-- drugs: paracetamol, INH,
+  |     methyldopa, ketoconazole,
+  |     nitrofurantoin
+  +-- other: alcohol, Amanita
+        phalloides, aflatoxin
+Chronic causes
+  HBV (+/-D), HCV, AIH, drugs,
+  Wilson, alcohol, SLE,
+  HEV (immunosuppressed)
+---
+Management
+  bed rest
+  no alcohol / hepatotoxics
+  10% dextrose if poor intake
+  domperidone / metoclopramide
+  cholestasis -> UDCA
+  NO steroids except severe
+    alcoholic hepatitis
+  paracetamol OD -> NAC
+    (or methionine)
+Admit if
+  cannot hydrate
+  HE
+  INR > 1.6
+  diagnosis uncertain
+  complications
+---
+Other clues
+  Tender hepatomegaly:
+    malaria, hep A, right
+    heart failure, dengue
+    haemorrhagic fever,
+    acute leukaemia
+  Viral: splenomegaly (~10%),
+    rare lymphadenopathy,
+    high urinary urobilinogen
+    (prodromal), lymphocytosis
+---
+Viruses
+HAV  RNA, faecal-oral
+     never chronic, vaccine
+HBV  DNA (ds)
+     parenteral, sexual,
+     vertical
+     chronic common, vaccine
+HCV  RNA, parenteral, sexual
+     acute usually mild
+     most progress to chronic
+     HCC risk, no vaccine
+HDV  incomplete RNA, needs HBV
+     co-infection -> fulminant
+     superinfection -> chronic
+     prevent via HBV vaccine
+HEV  RNA, faecal-oral
+     fulminant
+     severe in pregnancy
+     (high mortality)
+     chronic rare
+     (immunocompromised)
+     -> cirrhosis
+     vaccine (active)
+     dx: HEV RNA in stool
+---
+HAV course
+  incubation 1-2 weeks
+    (commonly 2-6 weeks)
+  often anicteric (< 30 yrs)
+    no jaundice does not
+    exclude
+  can cause intrahepatic
+    cholestasis
+  anti-HAV IgM first
+    lasts 4-6 months
+  resolves, no carrier state
+  dx: high AST/ALT (damage)
+    + IgM (cause)
+---
+HBV serology
+HBsAg first
+  acute OR chronic
+  > 6 months = chronic
+  |
+  v
+Anti-HBs = immunity
+  (can rarely coexist
+  with HBsAg)
+IgM anti-HBc = acute
+Total anti-HBc persists
+  ("window period")
+HBeAg = high infectivity
+Anti-HBe = lower infectivity
+HBV DNA = active replication
+Vaccine 3 doses
+  check anti-HBs
+Chronic carrier -> interferon
+  alpha
+Consequences: HCC, chronic
+  active hepatitis,
+  nephrotic/GN,
+  aplastic anaemia
+
+
+
+3. LIVER DISEASE IN PREGNANCY
+
+Third trimester liver problem
+  |
+  +-- ACUTE FATTY LIVER
+  |     severe, high mortality
+  |     pain, N/V, headache,
+  |       fever, confusion
+  |     -> DIC, renal failure,
+  |        liver failure
+  |
+  +-- INTRAHEPATIC CHOLESTASIS
+  |     pruritus, epigastric
+  |       discomfort,
+  |       steatorrhoea
+  |     resolves after delivery
+  |     -> low vit A D E K
+  |     -> low vit K -> PPH
+  |     preterm birth, stillbirth
+  |
+  +-- HELLP syndrome
+---
+Blood loss
+  vaginal ~500 mL
+  caesarean ~1 L
+---
+Granulomatous hepatitis
+  TB, sarcoidosis, drugs, PMR
+  -> disproportionate high ALP
+
+
+
+4. AUTOIMMUNE, METABOLIC, GENETIC LIVER
+
+AUTOIMMUNE HEPATITIS
+Young female, hepatitis picture
+  amenorrhoea
+  premature menopause
+  high IgG
+  HLA-B8, DR3
+  anti-microsomal Ab
+  clusters with autoimmune
+    disease (thyroiditis)
+  |
+  +-- Type 1: ANA + ASMA
+  |     anti-SLA (merged in)
+  +-- Type 2: anti-LKM
+        (children)
+  |
+  v
+Prednisolone + azathioprine
+---
+NAFLD
+Metabolic syndrome
+  ALT > AST, high GGT
+  |
+  v
+Steatosis -> NASH -> fibrosis
+  -> cirrhosis -> HCC
+Fibrosis: FibroScan
+Biopsy: Mallory bodies
+Rx
+  weight loss (most important)
+  vit E (non-diabetic,
+    biopsy-proven NASH)
+  pioglitazone (biopsy-proven
+    NASH +/- diabetes)
+---
+HAEMOCHROMATOSIS
+AR, high GI iron absorption
+Males / postmenopausal females
+  |
+  v
+Bronze diabetes triad
+  hepatomegaly
+  bronze skin
+  diabetes
+Other: cardiomyopathy
+  (may kill before cirrhosis)
+  hypogonadotropic
+  hypogonadism
+  chondrocalcinosis
+Labs
+  high iron
+  high transferrin sat
+  low TIBC
+  high ferritin
+  liver enzymes usually normal
+Diabetes + cirrhosis ->
+  think haemochromatosis
+Best test: hepatic iron content
+Screen family: transferrin
+  sat + ferritin
+  |
+  v
+Venesection
+  if cannot tolerate
+  (heart failure):
+  desferrioxamine
+Transplant: iron re-accumulates
+  slowly (~15 years)
+---
+ALCOHOLIC LIVER DISEASE
+Steatosis (zone 3, reversible)
+  |
+  v
+Hepatitis (centrilobular
+  necrosis, Mallory bodies)
+  fever, RUQ pain, jaundice,
+  tender hepatomegaly,
+  hepatic bruit
+  |
+  v
+Cirrhosis
+Labs
+  AST > ALT (> 2:1)
+  transaminases < 300 IU/L
+  high GGT, high MCV
+  high IgA
+Severe -> Maddrey DF
+  |
+  v
+Prednisolone
+  (alt: pentoxifylline)
+Also AST > ALT: cirrhosis,
+  ischaemic liver, Wilson,
+  dengue
+---
+WILSON DISEASE
+AR, ATP7B
+Copper in liver, brain, eyes
+  |
+  +-- children -> liver disease
+  +-- adults -> neuro
+        parkinsonian, chorea,
+        wing-beating tremor
+        psychiatric
+  haemolytic anaemia
+KF rings (cornea, not specific)
+Labs
+  low ceruloplasmin
+  low total copper
+  high free copper
+  high 24-h urine copper
+  AST > ALT, ALP usually low
+  |
+  v
+Lifelong D-penicillamine
+  (rash, leukopenia,
+  nephrotic syndrome)
+  alt: trientine
+  neuro may worsen at first
+  -> continue
+---
+ENZYME PATTERNS
+  dengue -> AST > ALT
+  leptospirosis -> mainly
+    ALP rise
+  thousands -> viral, toxins
+    (paracetamol), shock liver
+Hepatic bruit: HCC, liver
+  mets, AV malformation,
+  alcoholic hepatitis
+HCC causes: HCV,
+  haemochromatosis, aflatoxin
+
+
+
+5. CIRRHOSIS
+
+Types
+  macronodular (> 3 mm)
+    -> viral
+  micronodular (< 3 mm)
+    -> alcohol, biliary
+---
+Causes
+  alcohol (most common)
+  NAFLD
+  HBV (+/-D), HCV
+  AIH
+  PBC, PSC
+  Wilson, haemochromatosis
+  alpha-1 antitrypsin def
+    (COPD + cirrhosis)
+  Budd-Chiari
+  methotrexate
+---
+Signs
+  jaundice, parotid swelling
+  gynaecomastia, spider naevi
+  palmar erythema
+  testicular atrophy
+  clubbing, Dupuytren
+  asterixis, leukonychia
+  caput medusae
+---
+DECOMPENSATION if any
+  ascites
+  HE
+  variceal bleed
+  coagulopathy with bleeding
+  new/worse jaundice
+---
+Complications
+  portal HTN
+    varices
+    portal hypertensive
+    gastropathy -> haematemesis
+  SBP
+  HE
+  hepatorenal syndrome
+  coagulopathy
+  hypersplenism
+    thrombocytopenia most
+    common -> pancytopenia
+  HCC
+  pulmonary hypertension
+  hepatopulmonary syndrome
+Splanchnic vasodilation
+  -> low SVR + low Na
+  -> RAAS on
+  -> low urine Na
+---
+Numbers
+  portal pressure 5-12 mmHg
+  portal vein < 1.4 cm (M)
+                < 1.3 cm (F)
+---
+Investigations
+  USG: shrunken nodular liver,
+    splenomegaly, ascites
+  FBC: low platelets
+    -> pancytopenia
+  high INR (acute + chronic)
+  low albumin (chronic only,
+    half-life ~28 days)
+  persistent low Na (severe)
+  transaminases mild/normal
+    in advanced disease
+  AFP for HCC
+Biopsy if cause unclear
+  usually intercostal
+  bleeding risk early (within
+    3 hrs) or late
+  hepatobiliary imaging first
+  high risk -> TRANSJUGULAR
+---
+Scores
+  Child-Pugh: ascites,
+    encephalopathy (clinical)
+    + INR, bilirubin, albumin
+  MELD: INR, bilirubin,
+    creatinine, sodium
+    (low = worse)
+    fully objective
+Poor prognosis
+  low albumin, low Na,
+  PT > 6 s above normal,
+  high creatinine
+---
+Management
+  treat cause
+  salt restriction
+  vegetable protein
+  vaccinate: A, B,
+    pneumococcal, influenza
+Hyponatraemia
+  dilutional in decompensated
+  thiazides, furosemide too
+
+
+
+6. VARICEAL BLEEDING
+
+Haematemesis
+  |
+  v
+RESUSCITATE
+  ABC, 2 large-bore lines
+  target SBP > 90, HR < 100
+  transfuse only if
+    Hb < 7 g/dL
+    (< 9 in IHD)
+  over-transfusion worsens
+    bleeding
+  correct INR first
+    FFP (vit K slower)
+  platelets if < 50,000
+  |
+  v
+DRUGS
+  IV omeprazole 80 mg bolus
+    -> 8 mg/h (48-72 hrs)
+  terlipressin (low mortality)
+  IV ceftriaxone
+  |
+  v
+ENDOSCOPY within 12-24 h
+  +-- oesophageal -> banding
+  +-- gastric -> cyanoacrylate
+        glue
+  |
+  v
+Uncontrolled?
+  +-- Sengstaken-Blakemore tube
+  +-- refractory -> TIPS
+        high HE risk
+        contraindicated if HE
+---
+Classification
+  oesophageal: GOV1, GOV2
+  gastric: IGV1, IGV2
+---
+Prevention
+OESOPHAGEAL SMALL
+  primary: NSBB
+    (carvedilol, propranolol,
+    nadolol)
+OESOPHAGEAL LARGE
+  primary: banding preferred
+  secondary best: NSBB + banding
+  secondary 2nd: banding alone
+GASTRIC
+  primary: NSBB (no banding)
+  secondary: NSBB + glue
+Secondary banding every
+  2-4 weeks until eradication
+  then follow-up at 3 and
+  6 months
+No routine role for isosorbide
+  mononitrate alone
+
+
+
+7. ASCITES AND SBP
+
+Mechanisms
+  portal HTN
+  low albumin
+  RAAS on
+Detect
+  shifting dullness ~500 mL
+  USG > 100 mL
+---
+SAAG = serum albumin minus
+       ascitic fluid albumin
+  |
+  +-- >= 1.1 g/dL
+  |     portal hypertension
+  |     (uncomplicated cirrhotic)
+  |
+  +-- < 1.1 g/dL
+        non-portal: malignancy,
+        TB, infection,
+        pancreatitis
+Ascitic protein normally low
+  < 15 g/L -> SBP risk
+  -> prophylaxis
+---
+Treatment
+Salt restriction
+  |
+  v
+Spironolactone (K retention)
+  + furosemide (K loss)
+  combo balances K
+  ratio 100 mg : 40 mg
+  max 400 : 160 mg
+  titrate every 3-5 days
+  target 0.5 kg/day loss
+  |
+  v
+Tense ascites -> LVP
+  up to 5 L/day
+  albumin if > 5 L
+  (~6-10 g per litre removed)
+  |
+  v
+Resistant -> TIPS
+  (or surgical shunt)
+Monitor: daily weight
+  (best indicator)
+---
+SBP
+Cause: infected ascites
+  E. coli, Klebsiella,
+  S. pneumoniae (usually one)
+Features: fever, abdominal pain
+  tenderness not always
+  |
+  v
+Ascitic tap (most important)
+  neutrophils > 250/mm3
+  OR WBC > 500/mm3
+  neutrophil-predominant
+  (TB: lymphocytes)
+  |
+  v
+IV ceftriaxone or cefotaxime
+  (NOT rifaximin)
+  + IV albumin
+    1.5 g/kg day 1
+    1 g/kg day 3
+  |
+  v
+Prophylaxis
+  primary (protein < 15 g/L):
+    norfloxacin or
+    co-trimoxazole
+  secondary: lifelong
+    norfloxacin
+---
+Secondary peritonitis
+  perforation / rupture
+    (e.g. toxic megacolon)
+  multiple organisms
+  WBC in thousands
+  protein > 10 g/L
+  + low glucose + high LDH
+
+
+
+8. HEPATORENAL AND HEPATOPULMONARY
+
+Cirrhosis + pre-renal pattern
+  renal failure
+  |
+  v
+HEPATORENAL SYNDROME
+  |
+  +-- 1st: IV terlipressin
+  |     + albumin
+  +-- 2nd: IV noradrenaline
+  |     + albumin
+  +-- definitive: transplant
+---
+Cirrhosis + dyspnoea
+  worse sitting/standing
+  |
+  v
+PLATYPNEA + orthodeoxia
+  (saturation falls upright)
+  |
+  v
+HEPATOPULMONARY SYNDROME
+
+
+
+9. HEPATIC ENCEPHALOPATHY
+
+Cause
+  high ammonia
+  portosystemic shunting
+  low BCAA / high aromatic AA
+Types
+  A: acute liver failure
+  B: shunt, no liver disease
+  C: cirrhosis (most common)
+---
+West Haven
+  Minimal -> normal exam,
+    abnormal psychometrics
+  G1 -> sleep reversal,
+    mild confusion
+  G2 -> drowsy, slurred,
+    ASTERIXIS
+  G3 -> somnolent,
+    disoriented, hyperreflexia
+  G4 -> coma
+Also: fetor hepaticus,
+  constructional apraxia
+  seizures rare
+Ix: ammonia
+  EEG (low alpha, high delta)
+---
+Precipitants
+  GI bleed
+  constipation (direct)
+  high protein
+  infection
+  electrolytes
+    (diarrhoea acts only
+    via this)
+  dehydration
+  drugs (benzodiazepines)
+  TIPS, surgery
+  diuretics -> low K
+    -> high renal ammonia
+---
+Management
+First exclude HYPOGLYCAEMIA
+  |
+  v
+Treat precipitant
+  |
+  v
+LACTULOSE 30 ml, 3-4x/day
+  target 3-4 soft stools/day
+  |
+  v
+RIFAXIMIN (treat + prevent)
+  better than metronidazole
+  |
+  v
+Severe: mannitol (high ICP)
+  |
+  v
+Transplant (definitive)
+
+
+
+10. ACUTE LIVER FAILURE
+
+ALF
+  |
+  +-- viral -> NAC role
+  +-- paracetamol: normal
+  |     abdominal exam,
+  |     high PT/INR
+  +-- Reye: aspirin in children
+---
+Complications
+  high ammonia -> HE
+  hypoglycaemia
+  high ICP
+  coagulopathy
+  bacteraemia
+  may lack prominent jaundice
+  no hepatosplenomegaly
+  low vit D 25-hydroxylation
+    -> hypocalcaemia
+
+
+
+11. LIVER ABSCESS AND CHOLESTATIC DISEASE
+
+AMOEBIC LIVER ABSCESS
+E. histolytica
+  gut -> portal vein -> liver
+  can follow colitis by years
+  |
+  v
+Fever, chills, right
+  hypochondrial pain,
+  hepatomegaly
+  contaminated toddy
+  right pleural effusion
+  normocytic normochromic
+  anaemia
+  |
+  v
+Serology: does NOT confirm
+Aspiration = definitive
+  |
+  v
+Metronidazole 14 days
+  |
+  v
+No response -> percutaneous
+  drainage
+Complications: secondary
+  infection, septicaemia
+Pyogenic: elderly, chronic
+  diarrhoea / UC
+---
+Cholestatic vs hepatocellular
+  biliary -> high ALP
+  hepatocellular -> high
+    AST/ALT
+---
+PBC
+Female, 35-50 (~40, pruritus)
+  autoimmune destruction of
+  intrahepatic bile ducts
+  high ALP (hallmark)
+  high cholesterol
+  high IgM
+  AMA positive
+  transaminases normal
+  xanthelasma
+  |
+  v
+UDCA
+---
+PSC
+  strong IBD link (esp UC)
+  jaundice
+  chronic diarrhoea + jaundice
+---
+Immunoglobulins
+  IgM -> PBC
+  IgG -> AIH
+  IgA -> alcoholic hepatitis
+---
+CASE EXAMPLE
+50 yr female
+  ascites + pruritus
+  mild high AST/ALT
+  HIGH ALP
+  -> PBC
+
+
+
+12. GALLSTONES AND BILIARY SEPSIS
+
+Stone type
+  |
+  +-- CHOLESTEROL (90%)
+  |     solitary, spherical
+  |     radiolucent
+  |     OCP / oestrogen
+  |
+  +-- PIGMENT (~10%)
+        multiple, faceted
+        radiopaque
+        haemolysis
+Mixed = most common overall
+TPN -> low CCK -> stasis
+Classic: fat, fertile
+  female of 40
+---
+Biliary sepsis
+  |
+  +-- ACUTE CHOLANGITIS
+  |     bile duct infection
+  |     Charcot: fever, RUQ
+  |       pain, jaundice
+  |     Reynolds: + shock
+  |       + confusion
+  |     Rx: ERCP decompression
+  |
+  +-- ACUTE CHOLECYSTITIS
+        cystic duct obstruction
+        fever + RUQ pain
+        Murphy sign
+        -> sepsis, gangrene,
+           perforation
+        Rx: cholecystectomy
+---
+Post-ERCP pain next morning
+  +-- acute pancreatitis
+  +-- perforation
+  +-- cholangitis
+---
+Proteus: urease -> alkaline
+  urine -> struvite stones
+
+
+
+13. PANCREAS
+
+ACUTE PANCREATITIS
+Epigastric pain -> back
+  hypoxia, hyperglycaemia
+  amylase > 3x upper limit
+  (high in acute, not chronic)
+  CRP > 200 = poor prognosis
+  ARDS early
+  Sri Lanka: alcohol = most
+    common cause
+Collection
+  < 4 weeks = acute collection
+  > 4 weeks = pseudocyst
+  |
+  v
+Cystogastrostomy preferred
+  (external drainage ->
+  enzymes digest skin)
+---
+Causes
+ACUTE ONLY
+  gallstones, trauma,
+  post-ERCP, pancreas divisum
+  heavy alcohol binge
+  mumps, Coxsackie
+BOTH
+  severe hypertriglyceridaemia
+  hypercalcaemia
+  alcohol
+  hereditary pancreatitis
+CHRONIC ONLY
+  strictures, tumours
+  tobacco
+  tropical
+  autoimmune (IgG4)
+Gallstones -> acute,
+  NOT chronic
+---
+High amylase also
+  upper GI perforation
+  salivary disorders
+  ectopic pregnancy, torsion
+  retroperitoneal haematoma
+  renal failure, peptic ulcer
+  DKA, morphine overdose
+---
+CHRONIC PANCREATITIS
+Epigastric pain relieved by
+  bending forward
+  |
+  +-- exocrine failure
+  |     -> steatorrhoea
+  |        (main cause of
+  |        diarrhoea)
+  |
+  +-- endocrine failure
+        -> diabetes (late,
+           needs insulin)
+Splenic vein thrombosis
+H2 antagonists may help
+AXR calcifications
+  (alcoholic, hereditary,
+  tropical)
+Autoimmune: sausage-shaped
+  pancreas, no calcification
+---
+Malabsorption threshold
+  exocrine loss > 85-90%
+Bacterial overgrowth
+  (dysmotility, blind loop)
+  fat malabsorption
+  low B12, high folate
+
+
+
+14. MALABSORPTION AND COELIAC
+
+Foul stool = steatorrhoea
+  stool fat > 7 g/24 hrs
+  |
+  v
+Small bowel or pancreas?
+  |
+  v
+Best test: upper GI endoscopy
+  + duodenal biopsy
+  (likely coeliac)
+USG poor for pancreas
+  (bowel gas from transverse
+  colon)
+---
+COELIAC
+Trigger: gliadin (wheat,
+  barley)
+90% HLA-DQ2
+  chronic diarrhoea, poor
+  weight gain, steatorrhoea,
+  mouth ulcers
+  |
+  v
+Complications
+  tetany, osteomalacia,
+  malnutrition
+Blood
+  iron def -> microcytic
+  B12 def -> macrocytic
+  both -> DIMORPHIC
+  splenic atrophy ->
+    Howell-Jolly bodies
+Antibodies
+  anti-endomysial
+  anti-tTG
+Biopsy
+  subtotal villous atrophy
+  + crypt hyperplasia
+  |
+  v
+Gluten-free diet
+Dermatitis herpetiformis
+  itchy blistering rash
+  (elbows, knees)
+
+
+
+15. OESOPHAGUS
+
+Dysphagia: which?
+  |
+  +-- ACHALASIA
+  |     liquids > solids
+  |     intermittent
+  |     loss of Auerbach
+  |       plexus ganglion cells
+  |     failed peristalsis +
+  |       failed LES relaxation
+  |     manoeuvres: arms up,
+  |       straining
+  |     Ix: manometry (LES
+  |       fails to relax)
+  |       barium: bird's beak /
+  |       rat-tail
+  |       CXR: wide mediastinum
+  |       +/- air-fluid level
+  |     Rx: botulinum toxin
+  |       nitrates / CCB
+  |       Heller myotomy / POEM
+  |
+  +-- CANCER
+        solids > liquids
+        progressive
+        barium: apple-core
+Diffuse spasm: corkscrew
+---
+Other dysphagia causes
+  aortic aneurysm
+  systemic sclerosis
+  myasthenia gravis
+  syringobulbia
+  reflux oesophagitis
+---
+GERD
+  worse lying down
+  morning hoarseness
+  iron deficiency anaemia
+  Dx: 24-h pH monitoring
+  medical management
+  consider H. pylori
+    eradication
+  Nissen rare
+---
+Hiatal hernia
+  +-- sliding: GEJ above
+  |     diaphragm -> GERD
+  +-- rolling: GEJ normal
+        -> gastric volvulus
+
+
+
+16. STOMACH
+
+ACID SECRETION (parietal cell)
+  stimulate: ACh (vagal),
+    gastrin, histamine,
+    H. pylori
+  inhibit: PGE2
+---
+NSAIDs
+  block COX -> low
+    prostaglandins
+  COX-1: protects mucosa
+  COX-2: anti-inflammatory
+  celecoxib: fewer gastric
+    effects
+  misoprostol: prostaglandin
+    analogue
+NSAID ulcer
+  -> stop NSAID
+  -> PPI first line
+---
+Acid drugs
+  PPI (omeprazole): blocks
+    H+/K+ ATPase
+    caution in pregnancy
+    risks: low Mg,
+    osteoporosis
+    with NSAIDs: high-risk
+    patients only
+  H2 blockers: gynaecomastia
+---
+UGIB with coagulopathy
+  correct INR first
+  FFP, vit K (slower)
+---
+PUD
+  duodenal > gastric
+  endoscopy not needed in
+    every patient
+  ~90% duodenal ulcers are
+    H. pylori
+  acute bleed -> no routine
+    H. pylori test
+  serology cannot separate
+    current vs past
+---
+H. PYLORI
+Gram-negative bacillus
+  faecal-oral
+Tests: urea breath, stool
+  antigen, biopsy (rapid
+  urease / culture / histology)
+Eradication -> low gastric ca
+  risk, MALT remission
+  |
+  +-- TRIPLE (7-14 days)
+  |     PPI + amoxicillin +
+  |     clarithromycin
+  |     penicillin allergy:
+  |     metronidazole instead
+  |     of amoxicillin
+  |
+  +-- QUADRUPLE (7-10 days)
+        PPI + bismuth +
+        metronidazole +
+        tetracycline
+14 days -> ~5% higher cure
+---
+Gastric ca
+  weight loss, lymphadenopathy
+  joint disease
+  spreads -> porta hepatis nodes
+
+
+
+17. CHRONIC DIARRHOEA, IBS, COLON CA
+
+Definitions
+  chronic: > 4 weeks
+  persistent: 2-4 weeks
+  250 g stool/day OR >= 3
+    loose stools/day
+Causes
+  infective: amoebiasis,
+    giardiasis, TB
+  inflammatory: Crohn, UC
+  functional: IBS
+  diabetic autonomic
+    neuropathy (nocturnal)
+  metformin
+  thyrotoxicosis
+  colonic neoplasia
+  carcinoid: diarrhoea +
+    flushing + episodic SOB
+  hypercalcaemia ->
+    CONSTIPATION
+Nocturnal -> usually organic
+---
+Fasting test
+  |
+  +-- improves -> malabsorptive
+  +-- persists -> secretory
+        (cholera)
+Ix: stool osmolarity,
+  HIV serology, TSH,
+  fasting glucose,
+  AXR (chronic pancreatitis)
+Complications
+  HUS (low platelets)
+  seizures: electrolytes,
+  hypoglycaemia, dehydration
+  -> CVT, Shiga toxin
+---
+Small vs large bowel
+SMALL
+  undigested food
+  malabsorption
+  epigastric / midgut pain
+  no tenesmus
+  less PR bleeding
+  oedema, steatorrhoea,
+  low B12
+  Whipple, Crohn
+LARGE
+  blood + mucus
+  no malabsorption
+  hypogastric pain
+  tenesmus
+  more PR bleeding
+  amoebic cysts / oocysts
+---
+IBS
+Rome
+  >= 3 months
+  pain >= 1 day/week with
+  >= 2 of
+    pain with defecation
+    stool frequency change
+    stool form change
+Features: LIF pain, urinary
+  urgency/frequency,
+  headache, poor sleep,
+  menstrual tension
+Supports: long history,
+  normal ESR/CRP, normal
+  stool report
+NEVER diagnose if PR bleed,
+  anorexia, weight loss
+  |
+  v
+Exclude organic causes
+  |
+  v
+Reassure, high-fibre diet
+  mebeverine
+  anti-diarrhoeals /
+  laxatives
+  antidepressants / anxiolytics
+---
+Colon ca
+  +-- right: anaemia
+  |     (distensible, liquid
+  |     stool, grows along
+  |     wall -> rarely
+  |     obstructs)
+  +-- left: obstruction
+        (circumferential,
+        solid stool)
+
+
+
+18. IBD AND INTESTINAL TB
+
+ULCERATIVE COLITIS
+  rectum + colon, continuous
+  mucosa / submucosa
+  ulcers, pseudopolyps
+  crypt abscesses, goblet
+    depletion
+  p-ANCA
+  pancolitis more common
+  bloody diarrhoea + mucus
+  toxic megacolon, perforation
+  high cancer risk
+  Rx: steroids (acute)
+      5-ASA maintenance
+      immunosuppressants /
+      biologics
+---
+CROHN
+  mouth to anus (terminal
+    ileum)
+  transmural, skip lesions
+  cobblestone
+  non-caseating granulomas
+  ASCA
+  RIF pain +/- mass
+  perianal abscess
+  fistulas, strictures,
+    abscesses
+  low B12 (terminal ileum)
+  Rx: steroids, azathioprine,
+      infliximab (perianal)
+      5-ASA less effective
+---
+Faecal calprotectin
+  high in BOTH UC and Crohn
+  separates IBD from IBS
+  NOT UC from Crohn
+---
+Extra-intestinal
+  activity-related
+    peripheral arthritis
+    erythema nodosum
+    episcleritis
+    osteoporosis
+  independent
+    pyoderma gangrenosum
+    uveitis
+    PSC
+---
+INTESTINAL TB vs CROHN
+  |
+  +-- TB
+  |     caecum > ileum
+  |     transverse ulcers
+  |     caseating granulomas
+  |
+  +-- CROHN
+        ileum > caecum
+        longitudinal ulcers
+        non-caseating
+Unsure?
+  |
+  v
+Anti-TB FIRST (9 months)
+  |
+  v
+No response -> treat as Crohn
+Immunosuppressants in TB
+  -> dissemination
+
+
+
+19. INFECTIVE DIARRHOEA AND OTHERS
+
+TRAVELLERS
+  ETEC (~30-70%)
+  >= 3 unformed stools/day
+  also Shigella, Salmonella,
+  Campylobacter, viral, Giardia
+---
+CHOLERA
+  secretory
+  painless watery
+  early dehydration
+  Rx: rehydration (main)
+      + doxycycline
+  Classical and El Tor
+---
+FOOD POISONING
+Vomiting right after eating
+  |
+  v
+Preformed toxin
+  S. aureus (not typhoid)
+Fried rice -> B. cereus
+  more abdominal pain
+Incubation 1-6 hrs
+---
+AMOEBIC COLITIS
+  transverse colon
+  bloody mucus, colic,
+  tenesmus, high fever
+  -> perforation, abscess,
+     hepatic abscess
+---
+C. DIFFICILE
+  Gram-positive spore-forming
+  anaerobe, toxins A + B
+Risk: fluoroquinolones,
+  cephalosporins, clindamycin,
+  PPIs
+Fever, pain, mild -> bloody
+  diarrhoea, high CRP/WBC
+Dx: stool toxin A + B
+  (NOT culture)
+  colonoscopy: yellow plaques
+  |
+  +-- NON-SEVERE
+  |     WBC <= 15,000 and
+  |     Cr < 1.5
+  |     oral vancomycin or
+  |     fidaxomicin
+  |     metronidazole only if
+  |     unavailable
+  |
+  +-- SEVERE
+  |     WBC > 15,000 or Cr > 1.5
+  |     oral vancomycin or
+  |     fidaxomicin
+  |     metronidazole alone
+  |     NEVER
+  |
+  +-- FULMINANT
+        hypotension, shock,
+        ileus, megacolon
+        high-dose vancomycin
+        via NG + IV metronidazole
+        complete ileus: add
+        rectal vancomycin
+---
+OTHER
+  Typhoid: bone marrow culture
+    best; RIF pain; coated
+    tongue; mimics appendicitis
+  Pernicious anaemia:
+    anti-parietal cell Ab
+Altered consciousness
+  -> exclude hypoglycaemia
+
+
+
+20. HIGH-YIELD POINTS
+
+AST > ALT (> 2:1) -> alcohol
+ALT > AST -> NAFLD / viral
+---
+IgM -> PBC
+IgG -> AIH
+IgA -> alcohol
+---
+Bronze diabetes -> venesection
+Wilson -> low ceruloplasmin,
+  high urine copper,
+  lifelong penicillamine
+---
+SAAG >= 1.1 g/dL -> portal HTN
+SBP > 250/mm3 neutrophils
+  -> ceftriaxone / cefotaxime
+  + albumin
+---
+Variceal bleed
+  terlipressin + ceftriaxone
+  + PPI -> endoscopy
+  band oesophageal
+  glue gastric
+---
+HE: lactulose + rifaximin
+  exclude hypoglycaemia
+HRS: terlipressin + albumin
+TIPS -> high HE risk
+  contraindicated in HE
+---
+Courvoisier: palpable GB
+  -> malignancy
+Amoebic abscess:
+  metronidazole 14 days
+  drain only if no response
+---
+Intestinal TB vs Crohn
+  -> treat TB first
+UC p-ANCA, Crohn ASCA
+Calprotectin: IBD vs IBS
+---
+Coeliac: HLA-DQ2, anti-tTG,
+  villous atrophy, gluten-free
+Achalasia: liquids > solids,
+  bird's beak
+Oesophageal ca: solids >
+  liquids, apple-core
+C. diff: toxin A + B
+  oral vancomycin or
+  fidaxomicin first-line
+---
+Sources: MED_GASTRO_.pdf,
+GASTRO_3dd079cc723e80cc85ffe118
+149df15b.html, MED_EXAMPLES.docx
+---
+Gaps
+Mallory bodies: lecture lists
+  under alcoholic hepatitis;
+  updated notes list under
+  NAFLD; both kept as written
+Coeliac dimorphic: updated
+  notes name iron + folate,
+  then describe B12
+  deficiency; kept as written
+Chronic diarrhoea stool weight:
+  source shows "250 g stool/
+  day" with no comparison
+  symbol; left as written
+Hep A incubation: lecture also
+  gives 15-45 days; updated
+  value used
+Case examples cover only PBC
+  for this topic
