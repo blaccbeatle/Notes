@@ -1,0 +1,1487 @@
+```text
+ENDOCRINOLOGY FLOWCHARTS
+========================
+
+
+
+1. SIADH
+
+High ADH (pituitary/ectopic)
+  |
+  v
+Water retention
+  |
+  v
+Dilutional hyponatraemia
+  |-- Mild: confusion, nausea,
+  |   irritability
+  |-- Severe: seizures, coma
+  '-- Serious often <115 mmol/L
+
+---
+
+Causes (any lung/brain pathology)
+  |-- Tumour: small cell lung Ca,
+  |   pancreatic Ca, lymphoma
+  |-- Lung: pneumonia, TB, abscess
+  |-- CNS: tumour, head injury,
+  |   SDH, meningitis
+  |-- Drugs: carbamazepine, SSRIs
+  |   (fluoxetine), TCAs,
+  |   chlorpropamide,
+  |   cyclophosphamide
+  '-- SLE, vasculitis, alcohol
+      withdrawal
+
+---
+
+Low serum Na
+  + low serum osmolality
+  + urine osm >100 mOsm/kg
+  + urine Na >40 mmol/L
+  + euvolaemic
+  + normal renal/adrenal/thyroid
+  |
+  v
+SIADH
+
+---
+
+Treat cause
+  |
+  |-- Mild/moderate
+  |     -> fluid restriction
+  |     -> loop diuretics
+  |     -> demeclocycline
+  '-- Severe/symptomatic
+        -> 3% hypertonic saline
+  |
+  v
+Chronic: correct <= ~10 mmol/L
+per day
+  |
+  v
+Too fast -> osmotic
+demyelination -> locked-in
+
+
+
+2. SIADH vs DI vs CSW
+
+Serum Na + volume status
+  |
+  |-- Low Na + euvolaemic
+  |     -> SIADH
+  |        urine osm high
+  |        urine Na >40 mmol/L
+  |        Rx: fluid restriction,
+  |            loop diuretics
+  |
+  |-- Low Na + hypovolaemic
+  |     -> CSW (eg head injury)
+  |        urine osm high
+  |        urine Na >100 mmol/L
+  |        Rx: fluid + salt
+  |
+  '-- High Na + hypovolaemic
+        -> DI
+           urine osm low
+           urine Na low/normal
+           Rx: fluids, desmopressin
+               (central)
+
+
+
+3. DIABETES INSIPIDUS
+
+ADH -> V2 receptor
+  -> aquaporin-2
+  -> water reabsorption
+  |
+No effective ADH action
+  |
+  v
+Polyuria 10-15 L/day
+  high plasma osm
+  low urine osm
+  high/high-normal Na
+
+---
+
+Central DI (low ADH)
+  idiopathic (autoimmune),
+  familial, tumours
+  (craniopharyngioma), TB,
+  meningitis, sarcoid,
+  post-surgery, Sheehan
+
+Nephrogenic DI (kidney resistant)
+  hypokalaemia, hypercalcaemia,
+  RTA, lithium, sickle cell,
+  familial
+
+---
+
+Polyuria + polydipsia
+  |
+  v
+Water deprivation test
+  |
+  |-- Urine concentrates
+  |     -> psychogenic polydipsia
+  |        (low serum + urine osm)
+  |
+  '-- Fails to concentrate -> DI
+        |
+        v
+      Desmopressin
+        |-- Concentrates
+        |   (>50% rise)
+        |     -> CENTRAL DI
+        |     -> Rx desmopressin
+        '-- Still fails
+              -> NEPHROGENIC DI
+              -> Rx cause,
+                 hydration
+
+---
+
+Polyuria/polydipsia DDx
+  DM, DI, psychogenic
+  polydipsia, hypercalcaemia,
+  hypokalaemia
+
+
+
+4. THYROID PHYSIOLOGY + TFTS
+
+Hypothalamus -> TRH
+  |
+  v
+Anterior pituitary -> TSH
+  |
+  v
+Thyroid -> mainly T4 (some T3)
+  |
+  v
+Peripheral T4 -> T3 (active)
+  -> nuclear receptor
+  |
+T4 + T3 -> negative feedback
+on TRH + TSH
+
+---
+
+Binding
+  T4 ~99.95%
+    ~67% TBG
+    ~20% transthyretin
+    ~13% albumin
+  T3 ~99.8% (mostly TBG)
+  Only free T4/T3 active
+  TBG rises in pregnancy
+  Normal TSH: 0.4 - 4.0 mIU/L
+
+---
+
+TFT pattern
+  |
+  |-- T4 hi, T3 hi, TSH lo
+  |     -> hyperthyroidism
+  |-- T4 N, T3 hi, TSH lo
+  |     -> T3 toxicosis
+  |-- T4 N, T3 N, TSH lo
+  |     -> subclinical hyper
+  |-- T4 lo, T3 lo, TSH hi
+  |     -> primary hypothyroid
+  |-- T4 N, T3 N, TSH mild hi
+  |     -> subclinical hypo
+  |-- T4 lo, T3 lo,
+  |   TSH lo/inappropriate N
+  |     -> central hypothyroid
+  |-- T4 lo, T3 very lo,
+  |   TSH N/lo, acutely ill
+  |     -> sick euthyroid
+  '-- On thyroxine: T4 N/hi,
+      TSH hi
+        -> poor compliance
+           (dose just before
+           test)
+
+
+
+5. HYPERTHYROIDISM
+
+Causes
+  Graves' (most common), toxic
+  MNG, toxic adenoma, TSH-oma,
+  thyroiditis, amiodarone,
+  iatrogenic, struma ovarii
+
+---
+
+High BMR + high beta sensitivity
+  |
+  v
+Heat intolerance, sweating,
+weight loss + high appetite,
+palpitations, fine tremor,
+oligomenorrhoea, systolic HTN,
+high-output HF, AF,
+cerebellar signs
+
+---
+
+Graves' =
+  diffuse goitre
+  + eye signs
+  + pretibial myxoedema
+  + acropachy
+  + TRAb positive
+  + diffuse high uptake
+  (vitiligo may co-occur)
+Eye Rx: steroids, orbital RT,
+  surgery
+
+---
+
+Start immediately
+  propranolol (also lowers
+  T4 -> T3), bridge until
+  carbimazole acts
+  asthma -> verapamil/diltiazem
+  |
+  v
+Antithyroid drug
+  |
+  |-- Carbimazole (active form
+  |   methimazole, preferred)
+  |     start high -> reduce
+  |     max ~18 months
+  |     methimazole 6 :
+  |       carbimazole 10
+  |     FBC before starting
+  |     sore throat/fever -> stop
+  |       + FBC (agranulocytosis)
+  |     monitor free T4 (TSH
+  |       normal in 2-3 months)
+  |
+  '-- PTU
+        allergy, 1st trimester
+        (carbimazole -> aplasia
+        cutis), severe disease
+        risk: hepatotoxicity
+  |
+  v
+Definitive (euthyroid first)
+  |
+  |-- RAI: first-line option
+  |     control eye disease first
+  |     CI: pregnancy,
+  |         breastfeeding
+  |     -> hypothyroidism
+  |
+  '-- Surgery: 5 Ms
+        malignancy
+        mechanical compression
+        mediastinal extension
+          (Pemberton's sign)
+        medical failure
+        marring beauty
+
+
+
+6. THYROID STORM
+
+Precipitant
+  infection/sepsis, DKA,
+  surgery, RAI, iodine contrast,
+  stopping antithyroid drugs
+  |
+  v
+Fever, confusion/agitation, AF,
+HTN, HF, vomiting/diarrhoea,
+abnormal LFTs
+(worst complication: jaundice)
+  |
+  v
+PTU (preferred, fast)
+  or carbimazole
+  + Lugol's iodine / KI
+  + lithium carbonate
+  + cholestyramine
+  + steroids
+  + beta blockers
+  + chlorpromazine (agitation)
+  + cooling, hydration
+  |
+  v
+Refractory -> plasma exchange /
+dialysis
+
+---
+
+DDx: carcinoid syndrome
+  flushing, diarrhoea,
+  bronchospasm, right-sided
+  valve disease
+  -> 24-h urine 5-HIAA
+
+
+
+7. HYPOTHYROIDISM
+
+Primary (most common)
+  -> high TSH
+Secondary (pituitary/hypothal.)
+  -> inappropriately normal TSH
+
+---
+
+Causes
+  Hashimoto's, iodine
+  deficiency, thyroidectomy,
+  RAI, antithyroid overdose,
+  lithium, amiodarone
+
+---
+
+Low BMR + low thermogenesis
+  |
+  v
+Fatigue, sleepiness, poor memory,
+weight gain, cold intolerance,
+constipation, hoarse voice,
+slow-relaxing reflexes,
+effusions, peripheral
+neuropathy, proximal myopathy
+
+---
+
+TSH (alone sufficient)
+  |
+  v
+Associated: high cholesterol,
+hyponatraemia, high CPK,
+macrocytic anaemia, anti-TPO
+
+---
+
+Exclude adrenal insufficiency
+  |
+  v
+Levothyroxine 1.6 ug/kg/day
+  elderly/IHD -> 25 ug, titrate
+  empty stomach, morning
+  |
+  v
+Treat thyroid BEFORE statins
+(rhabdomyolysis)
+
+---
+
+Subclinical (TSH hi, T4 N)
+  |-- TSH >10 -> treat
+  '-- TSH 5-10 + symptoms/
+      goitre/anti-TPO/
+      subfertility/pregnancy
+      plans/CVD risk
+        -> treat
+
+---
+
+Myxoedema coma
+  coma, hypothermia,
+  bradycardia, resp depression,
+  HF, hyponatraemia
+  precip: cold, infection,
+  CNS depressants
+  |
+  v
+Gradual rewarming
+  + correct Na
+  + antibiotics
+  + IV hydrocortisone
+  + T3 (or high-dose T4 via NG)
+
+---
+
+Sick euthyroid (acutely ill)
+  -> no treatment
+  -> repeat TFT after recovery
+
+
+
+8. THYROIDITIS
+
+Hashimoto's
+  F>M, anti-TPO, goitre
+  |
+  v
+Hashitoxicosis
+  -> permanent hypothyroidism
+
+---
+
+De Quervain's (post-viral)
+  tender thyroid, fever,
+  high ESR, globally low uptake
+  |
+  v
+Pre-formed hormone release
+  -> NO carbimazole
+  |
+  v
+High-dose NSAIDs
+  |-- no response -> steroids
+  '-- propranolol for symptoms
+  |
+  v
+Thyrotoxic -> transient
+euthyroid -> hypothyroid
+-> return to normal
+
+---
+
+Postpartum
+  self-limiting, hyper -> hypo
+
+
+
+9. THYROID CANCER
+
+Risk: radiation before age 20
+
+---
+
+Papillary (~80%)
+  best prognosis
+  lymphatic -> check nodes
+  -> lateral aberrant thyroid
+
+Follicular (~15%)
+  FNAC cannot diagnose
+  needs capsular/vascular
+  invasion
+  haematogenous -> bone/scalp
+  (pulsatile)
+  hemithyroidectomy
+    -> carcinoma -> completion
+
+Anaplastic
+  aggressive, hard, fixed
+  poor prognosis
+
+Medullary
+  C-cells -> calcitonin
+  MEN 2
+
+---
+
+Post-op: high-dose thyroxine
+  -> suppress TSH
+
+
+
+10. THYROIDECTOMY COMPLICATIONS
+
+Post-op stridor
+  |-- Laryngeal oedema
+  |-- Tracheomalacia (large/long
+  |   MNG) -> AP + lateral XR
+  |-- Haemorrhage -> venous
+  |   obstruction -> laryngeal
+  |   oedema
+  |-- Hypocalcaemia
+  '-- Bilateral partial RLN
+      (abductors > adductors)
+
+---
+
+RLN injury
+  |-- Bilateral partial
+  |     -> stridor
+  |-- Bilateral complete
+  |     -> cadaveric position,
+  |        no stridor
+  '-- Unilateral complete
+        -> usually no major
+           problem
+
+---
+
+Parathyroid ischaemia
+(supply: inferior thyroid a.)
+  |
+  v
+Hypocalcaemia
+  perioral numbness,
+  Chvostek, Trousseau
+  |
+  v
+IV calcium gluconate
+
+---
+
+Late: hypothyroidism
+
+---
+
+Amiodarone
+  hypo or hyper
+  lowers T4 -> T3
+  monitor TSH, long half-life
+
+
+
+11. ACROMEGALY
+
+GH excess (usually macroadenoma)
+  -> IGF-1
+  |-- children -> gigantism
+  '-- adults -> acromegaly
+~30% co-secrete prolactin
+
+---
+
+Features
+  enlarged hands/feet,
+  macroglossia -> OSA
+    -> pulmonary HTN,
+  bitemporal hemianopia
+    (upper outer first),
+  DM/IGT, prognathism,
+  frontal bossing, organomegaly,
+  thick nerves, osteoporosis
+Activity: sweating, skin tags,
+  poor BP/DM control
+
+---
+
+IGF-1 (screen; random GH
+unreliable)
+  |
+  v
+OGTT
+  |-- GH suppresses -> normal
+  '-- GH fails to suppress
+      (~30% paradoxical rise)
+        -> acromegaly
+  |
+  v
+MRI, prolactin, visual fields,
+colonoscopy (polyps/colonic Ca)
+
+---
+
+Transsphenoidal surgery
+  |
+  v
+Residual -> radiotherapy
+  |
+  v
+Medical: octreotide, dopamine
+agonists, pegvisomant
+
+Untreated -> death from HTN,
+cardiomyopathy, CAD
+
+
+
+12. HYPERPROLACTINAEMIA
+
+Dopamine inhibits
+TRH stimulates
+  |
+  v
+High prolactin
+  -> inhibits pulsatile GnRH
+  -> low gonadal activity
+
+---
+
+Causes
+  pregnancy, lactation, stress,
+  sleep, coitus
+  prolactinoma
+  stalk compression (not as high)
+  primary hypothyroidism
+    (not marked)
+  PCOS, renal/liver failure,
+  oestrogen
+  metoclopramide, domperidone,
+  antipsychotics
+
+---
+
+Galactorrhoea, amenorrhoea,
+low libido, subfertility,
+macroadenoma -> bitemporal
+hemianopia
+
+---
+
+Serum prolactin
+  |-- >2000 mU/L -> likely
+  |   microadenoma (<10 mm)
+  '-- >5000 mU/L -> usually
+      macroadenoma (>10 mm)
+  |
+  v
+Exclude hypothyroidism +
+hypopituitarism -> MRI
+
+---
+
+Dopamine agonist
+  cabergoline (preferred)
+  bromocriptine
+  |
+  v
+Fails -> surgery / RT
+
+
+
+13. HYPOPITUITARISM + SHEEHAN
+
+Order of loss
+  FSH/LH -> GH -> TSH/ACTH
+Insulin tolerance test
+  -> GH fails to rise
+Alabaster skin, low FBS, low BP
+
+---
+
+PPH -> hypovolaemia
+  |
+  v
+Pituitary ischaemic infarction
+(Sheehan)
+  |
+  v
+Low FSH/LH -> amenorrhoea
+Low ACTH -> low BP,
+  hypoglycaemia (secondary
+  adrenal insufficiency)
+MRI normal
+
+Bleeding into pituitary
+  -> apoplexy (separate)
+
+
+
+14. CUSHING'S SYNDROME
+
+Excess glucocorticoid
+  -> Na/water retention + K loss
+  -> HTN, hypokalaemia
+
+---
+
+Specific: purple striae >1 cm,
+proximal weakness, easy
+bruising, facial plethora,
+osteoporosis
+Clues: DM + HTN; HTN + low K
+Complications: DM, HTN,
+osteoporosis, DVT, psychosis,
+infections
+
+---
+
+Exclude exogenous steroids
+  |
+  v
+Screen (>=2)
+  24-h urinary free cortisol
+  1 mg overnight DST
+  low-dose DST
+    (0.5 mg q6h x48h)
+  midnight salivary cortisol
+  |
+  v
+Plasma ACTH
+  |
+  |-- Low/suppressed
+  |     -> ACTH-INDEPENDENT
+  |        adrenal adenoma/Ca,
+  |        exogenous steroids
+  |        no pigmentation
+  |        -> adrenal CT/MRI
+  |
+  '-- High/normal
+        -> ACTH-DEPENDENT
+           hyperpigmentation
+           |
+           v
+        High-dose DST
+           |-- ~90% suppress
+           |     -> pituitary
+           |     -> MRI, IPSS
+           '-- ~10% suppress
+                 -> ectopic
+                    (SCLC,
+                    carcinoid)
+                    severe low K
+                    often not
+                    Cushingoid
+                 -> chest/abdo
+                    imaging
+
+---
+
+Pre-op: metyrapone,
+ketoconazole
+  |
+  v
+Pituitary -> transsphenoidal
+Adrenal -> adrenalectomy
+Ectopic -> resect tumour
+  |
+  v
+Residual pituitary -> RT
+  |
+  v
+Last resort: bilateral
+adrenalectomy
+  -> Nelson's syndrome
+     (pigmentation)
+
+
+
+15. ADDISON'S / HYPOADRENALISM
+
+Causes
+  #1 autoimmune
+  #2 TB -> abdo XR (adrenal
+     calcification)
+  Waterhouse-Friderichsen,
+  infiltration
+
+---
+
+Primary (adrenal)
+  low cortisol -> high ACTH
+    -> hyperpigmentation
+  low aldosterone -> low Na,
+    high K, salt craving
+  hypoglycaemia, postural
+  hypotension, mild metabolic
+  acidosis
+
+Secondary (pituitary)
+  no pigmentation
+  electrolytes usually normal
+
+HTN + high glucose -> Cushing's
+Low BP + low glucose -> Addison's
+
+---
+
+Short Synacthen
+  normal: cortisol >500 nmol/L
+  |
+  v
+Impaired -> hypoadrenalism
+  |
+  v
+Plasma ACTH
+  |-- High -> primary
+  '-- Low/inappropriate N
+        -> secondary
+Long Synacthen: secondary
+recovers, primary does not
+
+---
+
+Exclude Addison's BEFORE
+thyroxine (thyroxine raises
+cortisol clearance -> crisis)
+
+---
+
+Hydrocortisone 10 + 5 + 5 mg
+  (or 2/3 am, 1/3 pm)
+Fludrocortisone 50-300 ug/day
+Sick days: double / >=40 mg
+Medical alert bracelet
+
+---
+
+Crisis (low BP, low Na,
+low glucose, high K)
+  |
+  v
+Take bloods -> treat now
+  |
+  v
+IV hydrocortisone 100 mg stat
+  -> 200 mg/24 h
+  (dexamethasone if cortisol
+  assay planned)
+  + IV saline
+  + IV glucose
+  + treat precipitant
+  |
+  v
+Stable -> oral hydrocortisone
+  + fludrocortisone
+
+
+
+16. PRIMARY HYPERALDOSTERONISM
+
+Excess aldosterone
+  -> Na retention + K loss
+  |
+  v
+HTN + hypokalaemia
+  + metabolic alkalosis
+  + proximal weakness
+  + polyuria (nephrogenic DI)
+NO oedema (aldosterone escape)
+
+---
+
+Aldosterone + renin
+  |-- Aldo hi, renin lo
+  |     -> PRIMARY
+  |-- Aldo hi, renin hi
+  |     -> secondary (eg renal
+  |        artery stenosis)
+  '-- Both low -> other cause
+
+---
+
+Primary
+  |-- Adenoma (Conn's,
+  |   mainly F)
+  |     -> adrenalectomy
+  '-- Bilateral hyperplasia
+      (mainly M)
+        -> spironolactone
+           (high K,
+           gynaecomastia)
+        -> eplerenone
+           (no gynaecomastia)
+
+
+
+17. PHEOCHROMOCYTOMA
+
+Chromaffin cell tumour
+  ~90% adrenal medulla
+  extra-adrenal = paraganglioma
+  (organ of Zuckerkandl)
+10% rule: bilateral, malignant,
+  extra-adrenal, normal BP
+Assoc: MEN 2, VHL, NF1
+
+---
+
+Episodic HTN, headache,
+sweating, palpitations
+  + postural/intra-op
+    hypotension
+  + hyperglycaemia
+  + hypercalcaemia
+
+---
+
+Episodic palpitations
+  |
+  |-- Normal BP -> pheo unlikely
+  |     -> 24-h Holter
+  '-- High BP
+        |
+        v
+      24-h urinary metanephrines
+      (better than VMA)
+        |
+        v
+      CT/MRI abdomen
+        |
+        v
+      Alpha blocker FIRST
+      (phenoxybenzamine)
+        |
+        v
+      Then beta (propranolol)
+        |
+        v
+      Surgery
+
+Beta first -> unopposed alpha
+  -> hypertensive crisis
+
+
+
+18. CALCIUM PHYSIOLOGY
+
+PTH: high Ca, low PO4
+  bone resorption
+  renal Ca reabsorption
+  PO4 excretion
+  1-alpha hydroxylation
+Vit D: high Ca + PO4
+Calcitonin: mild low Ca
+
+---
+
+Low Vit D -> low Ca + low PO4
+  -> high PTH (secondary
+     hyperPTH)
+
+
+
+19. HYPERCALCAEMIA
+
+Causes
+  primary hyperPTH (commonest)
+  tertiary hyperPTH (CKD)
+  malignancy (myeloma, mets)
+  Vit D/A excess, sarcoid
+  thyrotoxicosis, Addison's
+  thiazides, immobility, FHH
+NOT a cause: secondary hyperPTH
+
+---
+
+Bones, stones, groans,
+psychic moans
+Constipation + polyuria
++ polydipsia
+
+---
+
+PTH first
+  |
+  v
+Urinary Ca/Cr ratio
+  |-- <0.01 -> FHH
+  '-- >0.02 -> PHPT
+ESR 15 -> myeloma unlikely
+
+---
+
+IV normal saline
+  |
+  v
+IV bisphosphonates
+(pamidronate/zoledronate)
+  |
+  v
+Calcitonin
+  |
+  v
+Dialysis (last resort)
+
+Steroids: malignancy/sarcoid
+Furosemide: caution
+  (dehydration)
+Thiazide raises Ca
+Furosemide lowers Ca
+
+
+
+20. HYPOCALCAEMIA
+
+Causes
+  CKD, post-surgery, DiGeorge,
+  low Mg, acute pancreatitis,
+  malabsorption, massive
+  transfusion (citrate),
+  Conn's (alkalosis),
+  calcitonin/bisphosphonates
+Pseudohypoparathyroidism
+  high PTH, resistance
+  -> short 4th metacarpal
+
+---
+
+Perioral paraesthesia, tetany,
+Chvostek, Trousseau, seizures,
+stridor, prolonged QT
+
+---
+
+Ca, PO4, PTH, Vit D, Mg
+  |
+  v
+Treat cause + Vit D3 + Ca
+
+
+
+21. DM DIAGNOSIS + TYPES
+
+Any one (if unequivocal)
+  FPG >=126 mg/dL
+    (>=7.0 mmol/L)
+  2-h OGTT >=200 mg/dL
+    (>=11.1 mmol/L)
+  HbA1c >=6.5%
+  Random >=200 mg/dL
+    + symptoms
+  |
+  |-- Symptomatic -> 1 test
+  '-- Asymptomatic -> repeat
+      on another day
+
+Prediabetes
+  IFG 100-125
+  IGT 140-200
+  HbA1c 5.6-6.5%
+HbA1c = last 8-12 weeks
+1 mmol/L ~ 18 mg/dL
+Screen all >40 years
+
+---
+
+Type 1
+  autoimmune -> absolute
+  deficiency
+  anti-GAD65, islet cell
+  HLA DR3/DR4
+  C-peptide absent
+  screen complications after
+  5 yrs
+
+Type 2
+  resistance -> progressive
+  deficiency
+  no antibodies
+  C-peptide present
+  complications may exist
+  -> screen at diagnosis
+
+---
+
+GDM -> macrosomia
+Pregestational -> IUGR
+MODY -> sulfonylureas
+Secondary: Cushing's,
+  acromegaly, pheo, steroids,
+  thiazides
+
+
+
+22. T2DM MANAGEMENT
+
+Lifestyle + drugs at diagnosis
+  |
+  v
+HbA1c at diagnosis
+  |-- <9%  -> monotherapy
+  |-- >9%  -> dual therapy
+  '-- >10% or glucose >=300
+      + symptoms
+        -> injectable + orals
+
+---
+
+First-line: metformin
+  |
+  v
+Comorbidity?
+  |-- ASCVD -> GLP-1 RA/SGLT2i
+  |-- HF    -> SGLT2i
+  |-- CKD   -> SGLT2i
+  |-- Obese -> GLP-1 RA/SGLT2i
+  '-- IHD on metformin
+        -> add SGLT2i
+  |
+  v
+Recheck HbA1c 3-6 months
+(check compliance first)
+  |
+  v
+Add 2nd -> 3rd drug
+  |
+  v
+Injectable: GLP-1 RA preferred
+  -> else insulin
+
+---
+
+Targets
+  pre-meal 80-130 mg/dL
+  post-meal <180 mg/dL
+  critically ill 140-180 mg/dL
+  HbA1c ~6.5% (young)
+  HbA1c ~8% (elderly)
+BP 130/80
+Aspirin: age >40 + 10-yr CV
+  risk >10%
+Statins modestly raise HbA1c
+
+---
+
+Metformin
+  weight loss, CV benefit
+  GI, B12 deficiency,
+  lactic acidosis
+  eGFR <45 -> reduce
+  eGFR <30 -> stop
+  stop before surgery
+
+Sulfonylureas
+  highest hypo risk
+  weight gain
+  gliclazide preferred
+
+Pioglitazone
+  PPAR-gamma, weight gain
+  avoid HF, fractures, liver
+  haematuria -> exclude
+  bladder Ca first
+
+DPP-4i
+  neutral, well-tolerated
+
+GLP-1 RA (exenatide,
+liraglutide, semaglutide)
+  weight loss, CV benefit
+  delayed gastric emptying
+  pancreatitis
+
+SGLT2i (empa-, dapa-,
+canagliflozin)
+  weight loss, CV + HF + CKD
+  UTI, genital infection,
+  euglycaemic DKA
+
+---
+
+GLP-1 (L-cells, ileum)
+GIP (K-cells, duodenum)
+  -> high insulin, low glucagon
+  -> broken down by DPP-4
+
+
+
+23. INSULIN
+
+Start 0.5 units/kg/day
+  + continue metformin
+T2DM indications
+  acute MI, septicaemia
+  (poor compliance is NOT)
+Absorption: abdomen > deltoid
+  > thigh
+
+---
+
+Rapid (lispro, aspart,
+glulisine)
+  onset 5-15 min, peak ~1 h,
+  lasts 3-5 h
+Short (soluble/regular)
+  30 min, 2-3 h, 5-8 h
+Intermediate (NPH, lente)
+  1-3 h, 4-12 h, 12-18 h
+Long (glargine, detemir,
+degludec)
+  1-2 h, no peak, ~24 h
+
+---
+
+Regimens
+  basal-bolus
+  twice-daily mixed
+  basal + orals
+
+
+
+24. DM COMPLICATIONS
+
+Macro: CAD, PVD, stroke
+
+---
+
+Retinopathy: annual review
+  |
+  v
+Urgent referral
+  macular oedema
+  -> severe NPDR
+  -> any PDR
+  |
+  v
+PDR -> panretinal
+photocoagulation
+
+---
+
+Hyperfiltration (earliest
+functional) + GBM thickening
+(earliest structural)
+  |
+  v
+Silent -> microalbuminuria
+  -> macroalbuminuria -> ESKD
+Kimmelstiel-Wilson nodules
+  |
+  v
+Fundoscopy
+  |-- Retinopathy -> likely
+  |   diabetic
+  '-- None -> consider biopsy
+  |
+  v
+ACEi (drug of choice) / ARB
+BP control > glycaemic control
+
+---
+
+Neuropathy
+  |-- Distal symmetric
+  |   (glove-and-stocking)
+  |-- Cranial: CN III > VI
+  |-- Amyotrophy: asymmetric
+  |   quadriceps wasting, pain,
+  |   low knee reflex
+  |   -> insulin
+  |   (full recovery rare)
+  '-- Autonomic
+        postural hypotension
+          -> fludrocortisone
+        loss of sinus arrhythmia
+        gastroparesis
+          -> metoclopramide
+        ED -> sildenafil
+Pain: gabapentin/pregabalin,
+  amitriptyline, duloxetine
+
+---
+
+Foot: Charcot foot, ulcers
+  ABPI falsely high
+Skin: necrobiosis lipoidica,
+  acanthosis nigricans
+Joint: cheiroarthropathy
+  (prayer sign)
+
+
+
+25. DKA vs HHS
+
+Very high glucose
+  |
+  v
+pH / HCO3 / ketones
+  |
+  |-- pH <7.3, HCO3 <18,
+  |   AG >10, ketones,
+  |   glucose >250 mg/dL
+  |     -> DKA
+  |
+  '-- pH >7.3, HCO3 >15,
+      minimal ketones
+        -> HHS
+        -> aggressive hydration
+           + insulin
+
+---
+
+DKA
+  |
+  v
+IV 0.9% NS (alt: Hartmann's)
+  1 L / 30 min
+  1 L / 1 h
+  1 L / 2 h
+  1 L / 4 h
+  + KCl with saline
+    (even if K normal)
+  |
+  v
+K <3.5 mmol/L?
+  |-- Yes -> correct K first,
+  |          delay insulin
+  '-- No  -> IV soluble insulin
+             0.1 units/kg bolus
+             + 0.1 units/kg/h
+  |
+  v
+Glucose <250 mg/dL
+  -> add 5% dextrose
+  -> halve insulin
+  |
+  v
+pH <7.0 -> bicarbonate
++ enoxaparin
++ antibiotics if infection
+
+Fluid loss 5-7 L
+Leukocytosis without
+infection possible
+
+
+
+26. HYPOGLYCAEMIA
+
+Altered consciousness
+  -> rule out hypoglycaemia
+  |-- Level 1 <70 mg/dL
+  |-- Level 2 <54 mg/dL
+  '-- Level 3 impaired
+      consciousness
+  |
+  v
+Conscious?
+  |-- Yes -> oral glucose
+  '-- No
+        |-- IV access
+        |     -> IV 50% dextrose
+        |        (50 mL)
+        '-- No IV
+              -> IM glucagon
++ infection -> consider malaria
+
+---
+
+Insulin + C-peptide
+  |-- both high -> insulinoma
+  '-- insulin high,
+      C-peptide low
+        -> factitious
+
+
+
+27. MEN + APS
+
+MEN 1 (3 Ps)
+  parathyroid, pituitary,
+  pancreas
+MEN 2A (RET)
+  medullary thyroid, pheo,
+  parathyroid
+MEN 2B (RET)
+  medullary thyroid, pheo,
+  mucosal neuromas, marfanoid
+  |
+  v
+MEN 2: exclude pheo BEFORE
+thyroid surgery
+
+---
+
+APS 1 (AIRE): >=2 of
+  candidiasis, Addison's,
+  hypoPTH
+APS 2: Addison's + T1DM or
+  autoimmune thyroid
+
+
+
+28. MISCELLANEOUS
+
+Metabolic syndrome (>=3 of 5)
+  waist >102 cm M / >88 cm F
+  high TG, low HDL, high BP,
+  high glucose
+
+---
+
+Refeeding
+  low K, Mg, PO4
+  arrhythmias, pulmonary
+  oedema, thiamine deficiency
+
+---
+
+PCOS
+  high LH:FSH, >12 follicles
+  COCP, anti-androgens,
+  metformin, clomiphene
+
+---
+
+Isolated high TG -> fibrates
+  (eruptive xanthomas)
+Porphyria: acute abdomen +
+  flaccid weakness
+  (phenobarbital, alcohol)
+HRT: breast/endometrial Ca,
+  VTE, stroke
+Inhaled steroids: dysphonia,
+  oral candidiasis
+
+
+
+29. CASE EXAMPLE
+
+Young HTN, BP 220/120
+  + recurrent palpitations,
+    sweating
+  + FHx: goitre (father),
+    kidney stone (brother)
+  |
+  v
+Pheo secondary to MEN2A
+
+
+
+30. HIGH-YIELD POINTS
+
+SIADH euvolaemic, CSW
+  hypovolaemic
+Correct Na <= ~10 mmol/L/day
+Desmopressin: central
+  concentrates, nephrogenic
+  does not
+Carbimazole -> agranulocytosis
+PTU -> 1st trimester + storm
+De Quervain's -> NSAIDs +
+  propranolol, never
+  carbimazole
+Papillary ~80%; medullary ->
+  calcitonin, MEN 2
+Exclude Addison's before
+  thyroxine
+Treat hypothyroid before
+  statins
+Acromegaly: IGF-1 -> OGTT ->
+  surgery
+Prolactinoma -> cabergoline
+Cushing's: >=2 screens -> ACTH
+  -> high-dose DST
+Addison's crisis: hydrocortisone
+  100 mg IV stat
+Conn's: HTN + low K +
+  alkalosis, low renin
+Pheo: metanephrines; alpha
+  before beta
+Hypercalcaemia: PTH first;
+  IV NS first
+DM: FPG >=126, HbA1c >=6.5%
+Metformin stop eGFR <30
+DKA: K <3.5 -> delay insulin;
+  0.1 units/kg/h
+Insulinoma high C-peptide;
+  factitious low C-peptide
+
+
+
+31. SOURCES
+
+Sources: MED_ENDO.pdf,
+ENDO_3dd079cc723e8054bfecf9
+defe692bdf.html,
+MED_EXAMPLES.docx
+
+
+
+32. GAPS
+
+- Prolactin "level
+  interpretation" heading has
+  no content.
+- RLN law spelled "Siemens'"
+  and "Semon's" in different
+  places.
+- PPI -> hypocalcaemia link
+  flagged unconfirmed.
+- Carcinoid treatment not
+  stated in source.
+```
