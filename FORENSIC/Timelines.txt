@@ -1,81 +1,350 @@
-WOUND AGING TIMELINE
-====================
+KEY TIMELINES: FORENSIC NOTES
+=============================
 
-1. ABRASION
+1. TIME SINCE DEATH
 
-0 - 4 d
- |
- +-- 0 ......... immediate
- +-- 24 h
- +-- 2-3
- +-- 4-6 [Y] ... scab contracts
+AT DEATH
+  Cadaveric spasm: instant
+  (freezes the last act)
 
 ---
-
-6 d - 2 w
- |
- +-- 6-10 d
- +-- 2-3 w [G]
-
-
-
-2. CONTUSION
-
-0 - 4 d
- |
- +-- 0 ......... immediate
- +-- 1-2
- +-- 2-4
- +-- 4-5 [Y] ... green
-
----
-
-6 d - 2 w
- |
- +-- 6-8 d
- +-- 10-14 d [G]
-
-
-
-3. CUTS
-
-3 d healed edges
- |
- +-- 12 h
- +-- 36 h
- +-- 7 d
- +-- 3-4 w
-
-
-
-4. FRACTURES
-
-2-3 w callus
- |
- +-- 12-36 h
- +-- 2-4 mo
-
-
-
-5. WOUND HEALING TIMELINE
-
-0 min ......... H
+COOLING (algor mortis)
+  Rectal temp every ~30 min
+  over ~6 h
+  Not usable in first hour
+  |
+  v
+  Plateau ~1-3 h
+  |
+  v
+  Fast drop ~6 h
+  USE THIS PHASE TO CALCULATE
+  |
+  v
+  Slow fall
+  |
+  v
+  Equilibrium with environment
 
 ---
-
-24 - 48 h ..... M
- |
- +-- 30 min - 1 h ... N
- +-- 48 - 72 h ..... F
+FORMULA (stage 2 cooling)
+  TSD = (98.4F - rectal temp)
+        / cooling rate (F/h)
 
 ---
+HYPOSTASIS
+  ~30 min: reddish blotches
+  |
+  v
+  4-6 h: well-developed
+  |
+  v
+  after ~12 h: FIXED
+  
+  Position change:
+    <6 h    shifts to new site
+    6-12 h  present in both
+    >12 h   fixed in original
 
-3 w
- |
- +-- 3 d ... P
- +-- 2 y ... R
+---
+RIGOR MORTIS
+  Starts ~2 h (all muscles
+  at once, detected first
+  in small muscles)
+  |
+  v
+  Order of detection:
+  ~2 h    jaw
+  2-4 h   face/neck
+  4-6 h   trunk
+  6-8 h   large joints
+  8-10 h  small joints
+  |
+  v
+  Complete ~6-12 h
+  |
+  v
+  Persists ~12-24 h
+  |
+  v
+  Secondary flaccidity
+  |
+  v
+  Decomposition begins
+  24-36 h
+
+  Quicker onset in infants
+
+---
+EYES AND STOMACH
+  Cornea:
+    4-6 h    lacy/cloudy
+    8-12 h   dull/opaque
+  Tache noire:
+    normally >12 h
+    sometimes 4-6 h
+  Stomach:
+    empty = ~6-8 h after
+    last meal
+
+---
+USE
+  Cooling + rigor = first ~24 h
+  Later changes = longer periods
+  Cooling = most reliable
+  Rigor = 2nd
+  Hypostasis = least of the three
 
 
-[Y] = yellow highlight
-[G] = green highlight
-H M N F P R = red letters as written
+
+2. PUTREFACTION (WARM, AVERAGE)
+
+  ~18 h   green, right iliac fossa
+   |
+   v
+  ~24 h   green spreads to abdomen
+          + gas distension
+   |
+   v
+  ~36 h   marbling
+   |
+   v
+  ~48 h   puffy face, eyelids,
+          genitalia
+   |
+   v
+  ~72 h   whole body distended
+   |
+   v
+  ~4 days glove & stocking
+   |
+   v
+  3-4 wk  soft tissue gone,
+          skeleton exposed
+   |
+   v
+  3 mo-1 yr  full skeletonization
+             + disarticulation
+
+---
+ALTERNATIVE
+  Adipocere: whole body ~1 year
+
+
+
+3. INJURY DATING
+
+BRUISE COLOUR
+  Immediate   red
+   |
+   v
+  1-2 days    blue/purple
+   |
+   v
+  2-4 days    black/bluish-black
+   |
+   v
+  4-6 days    green
+   |
+   v
+  6-8 days    yellow
+   |
+   v
+  Fades within 1-2 weeks
+  (10-14 days)
+  Elderly: weeks to a couple
+  of months (Perls' stain)
+
+---
+ABRASION
+  ~10 min   clotting
+   |
+   v
+  ~30 min   neutrophils
+   |
+   v
+  ~24 h     dry scab
+  Fades within 1-2 weeks
+  "1 week" = accepted true
+  "1-2 weeks" = not accepted
+
+---
+BURNS (aging)
+  0-12 h    moist exudate
+   |
+   v
+  12-24 h   dry exudate
+   |
+   v
+  24-36 h   brown crust
+   |
+   v
+  36-48 h to ~4 days
+            inflammation gone
+   |
+   v
+  ~2 weeks  superficial slough
+            falls off
+   |
+   v
+  Few weeks deep slough falls off
+   |
+   v
+  Scarring
+
+---
+WOUND HEALING
+  0 min        hemostasis
+   |
+   v
+  30 min-1 hr  neutrophils
+               (peak 24-48 hrs)
+   |
+   v
+  24-48 hrs    macrophages
+               (dominant 48-72 hrs)
+   |
+   v
+  48-72 hrs    fibroblasts
+               (days 3-5)
+   |
+   v
+  Day 3        proliferative
+               (through day 21)
+   |
+   v
+  Weeks        remodeling
+               (up to 1-2 years)
+
+---
+FRACTURE HEALING
+  12-36 h    haematoma
+   |
+   v
+  ~2-3 wk    callus
+   |
+   v
+  ~2-4 mo    consolidation
+   |
+   v
+  Many months remodelling
+
+  Upper limb: 3 weeks
+  Lower limb: 6 weeks
+  "Heals within 6 weeks" = TRUE
+  (may extend 6 wk-3 mo)
+  "Heals within 1 month" = FALSE
+
+---
+SUBDURAL HAEMORRHAGE
+  Acute      up to ~48 hours
+  Subacute   2-14 days
+  Chronic    2-3 weeks
+             (months possible)
+
+
+
+4. MEDICO-LEGAL
+
+GRIEVOUS HURT (I)
+  Severe pain / unable to
+  follow ordinary pursuits
+  = 20 DAYS
+  |
+  v
+  Review after 3 weeks
+  (grievous E and I)
+
+---
+MATERNAL DEATH
+  Pregnancy -> delivery ->
+  puerperium (6 weeks
+  postpartum)
+
+---
+MEDICAL CERTIFICATES
+  Viral fever:
+    1 day usually enough
+    3 days if needed
+    7 days NOT justified
+  ERPC:           3-5 days
+  Small abscess:  3 days
+  Major surgery:  3-4 weeks
+                  minimum
+  20 days -> consider
+  grievous hurt
+
+
+
+5. DROWNING, SEXUAL, ABORTION
+
+WASHERWOMAN'S HANDS
+  Fingertips: ~2 h
+  Whole hand: 8-12 h
+
+---
+SPERM IN VAGINA
+  Motile complete: up to 16 h
+  Dead complete:   up to 24 h
+  Fragmented:      up to 4 days
+
+---
+ABORTION / GESTATION
+  Conception to 22 wk
+    = spontaneous abortion
+  22-28 wk  early foetal death
+  28 wk to birth
+            late foetal death
+
+  Methods by gestation:
+  ~5 wk    syringe aspiration
+  ~12 wk+  suction termination
+  >14 wk   hysterotomy etc.
+
+
+
+6. TOXICOLOGY
+
+  Alcohol:
+    absorbed within 2 hours
+
+---
+ORGANOPHOSPHATE
+  Management within 1-2 hrs
+  |
+  v
+  Intermediate syndrome
+  ~24-96 h to 4 days
+
+---
+PARAQUAT
+  Within ~24 h
+  early destructive phase
+  |
+  v
+  ~7 days onward
+  late proliferative phase
+
+
+
+7. AGE ESTIMATION
+
+TEETH
+  Primary erupt:
+    ~6 months-2 years
+  Permanent erupt:
+    ~6 years to 24-25 years
+  After ~25 years:
+    UNRELIABLE
+
+---
+CRANIAL SUTURES
+  Sagittal:
+    begins early 20s
+    complete by 30-40
+  Coronal, lambdoid:
+    closure after 30
+  Whole vault: 30-60+ years
+
+
+
