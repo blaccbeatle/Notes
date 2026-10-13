@@ -1,0 +1,1455 @@
+INFECTIOUS DISEASES: RAPID REVIEW
+=================================
+
+
+
+1. TYPHOID (ENTERIC FEVER)
+
+S. typhi        -> typhoid
+S. paratyphi    -> paratyphoid (A,B,C)
+Non-typhoidal   -> gastroenteritis
+
+---
+
+Faecal-oral (infective dose 10^5)
+  |
+  v
+Incubation 5-21 days
+  |
+  v
+Ileal Peyer's patches
+  |
+  v
+Mesenteric lymph nodes
+  |
+  v
+Primary bacteraemia
+  |
+  v
+Seeds liver, GB, spleen, kidney, BM
+  |
+  v
+Secondary bacteraemia
+
+---
+
+Fever + altered bowel habits
+  -> always consider typhoid
+Risk: unhygienic food/water,
+      travel, food handlers
+
+WEEK 1
+  |- sustained high fever
+  |- coated tongue, constipation
+  |- BLOOD culture +
+  v
+WEEK 2
+  |- step-ladder fever
+  |- relative bradycardia
+  |- rose spots (trunk/abdomen)
+  |- soft splenomegaly
+  |- diarrhoea may start
+  |- STOOL culture +, Widal +
+  v
+WEEK 3
+  |- recovery or complications
+  |- haemorrhage
+  |- perforation -> peritonitis
+  |- URINE culture +
+
+RIF pain     -> ddx appendicitis
+FBC          -> can be normal
+Other compl. -> encephalitis,
+                meningitis, abscesses,
+                myocarditis, carrier
+
+---
+
+INVESTIGATIONS
+Blood culture   wk 1   most practical
+                       (can be false -)
+Stool culture   wk 2
+Urine culture   wk 3
+Bone marrow     any    MOST SENSITIVE
+                       last resort
+Widal (SAT)     wk 2+  poor sens/spec
+                       rising titre
+
+---
+
+TREATMENT
+1st line -> Ceftriaxone
+Alt      -> Ciprofloxacin,
+            Co-amoxiclav
+AVOID    -> Chloramphenicol
+            (resistance + BM suppr.)
+
+---
+
+CHRONIC CARRIER
+Excretion > 1 year
+  |
+  +-- site: gallbladder (most common)
+  |         or kidney
+  +-- risk: females, biliary disease,
+            bladder schistosomiasis
+  +-- food handlers -> public health
+      (Typhoid Mary)
+
+
+
+2. TYPHUS (RICKETTSIOSES)
+
+Scrub     Orientia tsutsugamushi
+          -> trombiculid mite
+Murine    Rickettsia typhi
+          -> rat flea
+Epidemic  Rickettsia prowazekii
+          -> human body louse
+
+---
+
+Mite/flea moves on skin
+  |
+  v
+Stops at tight areas
+(undergarments, clothing folds)
+  |
+  v
+Bite -> ESCHAR
+  painless, brown, crusted
+  "cigarette burn"
+  VIRTUALLY DIAGNOSTIC
+  + regional lymphadenopathy
+
+---
+
+Incubation ~2 weeks
+  |
+  v
+High swinging fever, headache,
+myalgia, red eyes, HSM, meningism
+  |
+  +-- LN: regional -> generalised
+  |       (after 1st week)
+  +-- rash: macular/maculopapular
+  |         (trunk) -> petechial
+  +-- NO prominent jaundice or
+      renal failure (vs lepto)
+
+Fever + rash      -> think typhus
+Fever + deafness  -> think typhus
+Fever + tinnitus  -> think typhus
+
+---
+
+COMPLICATIONS
+Resp    -> pneumonia, effusion
+Neuro   -> meningitis, encephalopathy,
+           deafness, tinnitus
+Vasculitis -> bleeding, multi-organ
+
+---
+
+DIAGNOSIS
+Mainly clinical
+FBC -> often normal, non-specific
+       (leukopenia +/- neutrophilia,
+        thrombocytopenia)
+Weil-Felix -> low sens/spec
+Immunoperoxidase / IF -> better
+Antibody testing -> confirms
+
+---
+
+TREATMENT
+Suspect typhus
+  |
+  v
+DOXYCYCLINE x 10 days
+  |
+  v
+Response in 1-2 days
+  -> confirms diagnosis
+
+Alt: chloramphenicol,
+     fluoroquinolones
+NO response: beta-lactams,
+             aminoglycosides,
+             ceftriaxone
+
+
+
+3. DENGUE
+
+4 serotypes (DEN-1 to DEN-4)
+Vector: Aedes aegypti
+  |
+  v
+1st infection -> type-specific
+                 immunity
+  |
+  v
+2nd infection (different serotype)
+  |
+  v
+Antibody-dependent enhancement
+  -> high viral load
+  -> severe disease
+  -> haemorrhage more common
+
+Viraemia: first 3-5 days
+  -> mosquito transmission risk
+
+---
+
+COURSE
+Mosquito bite
+  |
+  v
+FEBRILE PHASE (2-7 days)
+same in DF and DHF
+  |
+  +--> DF  ----------> RECOVERY
+  |
+  +--> DHF --> CRITICAL --> RECOVERY
+               (24-48 h)
+
+DF and DHF = distinct courses
+Mismanagement cannot turn DF -> DHF
+DHF hallmark = LEAKAGE
+               (not haemorrhage)
+
+---
+
+FEBRILE PHASE
+|- high fever, facial flushing
+|- headache, retro-orbital pain
+|- arthralgia > myalgia
+|- nausea, vomiting, mild bleeding
+|- WBC < 5000
+|- platelets < 150,000
+|- lymphocyte predominance
+|- TENDER HEPATOMEGALY
+   -> warning sign, favours DHF
+
+---
+
+ADMISSION
+Platelets < 100,000       -> ADMIT
+Warning signs after day 3 -> ADMIT
+  abdominal pain/tenderness
+  persistent vomiting
+  suspected leakage
+  mucosal bleeding
+  lethargy/restlessness
+  liver > 2 cm
+  rising HCT + falling platelets
+Platelets 100,000-150,000
+  + rapidly dropping   -> consider
+Platelets > 100,000    -> repeat
+                          next day
+
+---
+
+FEBRILE FLUIDS (>= 50 kg)
+100 cc/hour (~2500 cc/day)
+Give:  ORS, fruit juice, kanji, soup
+Avoid: plain water (main fluid)
+       red drinks
+       NSAIDs, steroids
+Fever: paracetamol only
+
+---
+
+CRITICAL PHASE (DHF)
+Day 5-6, as fever settles
+  |
+  v
+Capillary permeability up
+  |
+  v
+SELECTIVE leakage
+  -> pleural effusion
+  -> ascites
+  |
+  v
+Peak leak at 24 h
+  -> highest shock risk
+
+Generalised/periorbital oedema
+  -> FLUID OVERLOAD (not leakage)
+Gallbladder oedema
+  -> monitor (not diagnostic)
+
+---
+
+CONFIRM LEAKAGE
+1. HCT rise > 20%
+   (baseline unknown:
+    40% male / 36% female)
+2. FAST scan (USG) -> BEST
+3. Albumin < 3.5 g/dL
+4. Non-fasting chol < 100 mg/dL
+
+Not reliable: calcium,
+              urine output,
+              pulse pressure
+
+---
+
+ONSET ESTIMATE (FAST)
+Pleural effusion only   -> ~6 h ago
+Effusion + ascites      -> ~12 h ago
+Larger effusion         -> earlier
+
+---
+
+PCV INTERPRETATION
+Dehydration   -> PCV up ~10%
+Leaking       -> PCV up ~20%
+Shock         -> PCV up ~30%
+
+Leak (PCV up) + bleed (PCV down)
+  -> cancel out
+  -> PCV looks NORMAL
+
+Shock + normal/low PCV
+  -> BLEEDING
+
+---
+
+CRITICAL-PHASE FLUIDS
+Monitor:
+  vitals hourly (PR, BP, CRT)
+  I/O 3-hourly
+  HCT 3-hourly
+  catheter if high risk/shock
+  |
+  v
+Give exactly what leaks
+  |
+  +-- less -> more leak -> shock
+  +-- more -> overload in recovery
+  |
+  v
+Urine output target
+0.5-1 ml/kg/h
+  |
+  +-- < 0.5 -> leaking > given
+  +-- > 1   -> giving > leaking
+  |
+  v
+Rate: start ~1 ml/kg/h
+      -> up to 7 at 24 h peak
+      -> taper
+
+---
+
+FLUID QUOTA
+Total (48 h) = Maintenance + 5%
+Weight = lesser of ideal/actual
+         MAX 50 kg
+Maintenance = 100/50/20 ml/kg
+5%          = 50 ml/kg
+50 kg       -> 4600 ml
+
+Example:
+  0-20 h   1300 ml (stable)
+  20-28 h  2500 ml (shock, boluses)
+  at 28 h  3800 ml used
+  left     800 ml for 20 h
+Can slightly exceed if needed
+
+---
+
+SHOCK SIGNS
+Symptoms:
+  sweating, abdominal pain,
+  vomiting, restlessness,
+  postural dizziness,
+  UO < 0.5 ml/kg/h
+Signs:
+  cold extremities, CRT > 2 s
+  tachycardia, rising diastolic
+  PP < 20 mmHg
+  postural drop > 20 mmHg
+  increased RR
+
+---
+
+SHOCK STAGES
+Compensated   -> PP <= 20 mmHg
+Decompensated -> SBP < 90, or
+                 SBP fall > 30%, or
+                 MAP < 60
+Profound      -> BP/pulse
+                 unrecordable
+
+---
+
+SHOCK MANAGEMENT
+Compensated
+  |
+  v
+O2 + urgent HCT
+NS/Hartmann 10 ml/kg over 1 h
+(max 500 ml)
+  |
+  v
+Reassess at 1 h
+  |
+  +-- Improved (PP > 25, CRT < 2 s)
+  |     -> 10-7-5-3-1.5 ml/kg/h
+  |
+  +-- Not improved -> check HCT
+        |
+        +-- HCT high
+        |     -> 2nd crystalloid bolus
+        |
+        +-- HCT normal/low = bleeding
+              -> PRBC 5 ml/kg
+        |
+        v
+      Still not improved
+        |
+        v
+      Correct ABCS
+      (Acidosis, Bleeding,
+       Calcium, Sugar)
+        |
+        v
+      Group + cross-match FIRST
+        |
+        v
+      Colloid
+        Dextran 40 max 3/24 h
+        Hetastarch max 5
+
+Decompensated/profound
+  -> rapid free-flow bolus until
+     BP + pulse recordable
+  -> then same protocol
+
+Monitor: vitals + HCT every 15 min
+         (before + after bolus)
+
+---
+
+BOLUS -> EXPECTED PCV FALL
+500 ml NS        -> 3-4% (up to 5%)
+250 ml dextran   -> 4-5%
+5 ml/kg PRC      -> 5%
+PCV falls 10%    -> suggests bleeding
+
+Platelets < 10,000 alone
+  -> NOT an indication for
+     transfusion in DHF
+
+---
+
+RECOVERY (after 48 h)
+Leaked fluid reabsorbed
+  -> risk of FLUID OVERLOAD
+Signs: well-being, appetite,
+       bradycardia, stable HCT,
+       diuresis
+Rash: "white islands in red sea"
+      +/- itching
+
+---
+
+CONFIRMATION
+Day 1-5   -> NS1 antigen + PCR
+After 6   -> IgM antibody
+
+
+
+4. HIV
+
+RNA retrovirus
+HIV-1 -> most common worldwide
+HIV-2 -> West Africa, less
+         pathogenic, slower
+
+---
+
+Transmission
+  sexual 0.005-0.5% per act
+  blood, IVDU, perinatal,
+  needle stick
+  |
+  v
+gp120 binds CD4+ T cells
+  |
+  v
+Replication -> CD4 destruction
+  |
+  v
+Impaired immunity
+
+---
+
+STAGES
+Acute -> often asymptomatic
+  |
+  v
+Seroconversion (3-12 weeks)
+  60-80% symptomatic
+  glandular fever-like:
+  sore throat, LN, rash,
+  arthralgia, diarrhoea
+  Antibody may be NEGATIVE
+    -> HIV RNA PCR or p24
+  Ddx: EBV, syphilis
+  |
+  v
+Chronic/symptomatic
+  fever, sweats, weight loss
+  oral candida, hairy leukoplakia,
+  zoster, seborrhoeic dermatitis
+  |
+  v
+AIDS
+  HIV + AIDS-defining illness
+  OR CD4 < 200 cells/uL
+
+Can mimic almost any picture
+FBC -> pancytopenia, low lymphocytes
+Fever + rash + LN + sore throat
+  -> consider IM AND HIV
+
+---
+
+CD4 STAGING
+Stage 1 -> > 500
+Stage 2 -> 200-500
+Stage 3 -> < 200
+Clinical A/B/C
+  (C = AIDS-defining)
+
+---
+
+AIDS-DEFINING
+Cancers: Kaposi, Burkitt,
+         primary CNS lymphoma,
+         cervical cancer
+Infections: PCP, TB, oesophageal
+            candida, CMV, crypto,
+            toxo, cryptosporidium,
+            PML, MAC, chronic HSV
+Other: HIV encephalopathy, wasting
+
+---
+
+DIAGNOSIS
+4th-gen ELISA (Ab + p24)
+  ~2 weeks
+  |
+  v
+Western blot (confirm)
+  |
+  v
+ELISA + / WB -
+  -> repeat in 1 month
+  -> still discordant = negative
+Window period -> p24 or PCR
+
+---
+
+OPPORTUNISTIC
+Lungs -> PCP -> cotrimoxazole
+         (prophylaxis if CD4 < 200)
+      -> TB (test all TB for HIV)
+Eyes  -> CMV retinitis
+         (fundus in PUO)
+Gut   -> oesophageal candida
+         CD4 < 100
+         dysphagia/odynophagia
+         -> fluconazole/itraconazole
+CNS   -> toxo, crypto, PML
+Skin  -> recurrent/multidermatomal
+         zoster -> THINK HIV
+Hepatitis + pneumonitis
+  + diarrhoea -> CMV
+
+---
+
+TREATMENT
+Start ART IMMEDIATELY
+(do not wait for CD4)
+  |
+  v
+2 NRTIs + (NNRTI or PI or INSTI)
+NRTI:  zidovudine, lamivudine,
+       abacavir, tenofovir
+NNRTI: efavirenz
+PI:    atazanavir
+INSTI: dolutegravir
+  |
+  v
+Monitor viral load + CD4
+Normal life expectancy
+
+---
+
+PEP
+High-risk exposure
+  |
+  v
+Start within 6-8 h (max 72 h)
+Duration 28 days
+  |
+  +-- low risk  -> 2 NRTIs
+  +-- high risk -> 2 NRTIs
+                   + boosted PI
+  |
+  v
+Test at 6 wk, 3 mo (+/- 6 mo)
+
+---
+
+PREGNANCY
+Caesarean preferred
+Bottle feeding preferred
+(SL: breastfeed if bottle unsafe)
+
+
+
+5. INFECTIOUS MONONUCLEOSIS (EBV)
+
+Adolescents / young adults
+Incubation 4-8 weeks
+  |
+  v
+Fever, malaise, sore throat
+  |- palatal petechiae
+  |- tonsillar enlargement
+  |    -> airway risk (peds)
+  |- POSTERIOR cervical LN
+  |- splenomegaly -> rupture risk
+  |- mild hepatitis +/- jaundice
+  |- AIHA
+
+---
+
+Presumed strep -> amoxicillin
+  |
+  v
+Transient red macular rash
+(drug-related, not disease)
+
+---
+
+BLOOD
+WBC UP (unlike most viruses)
+Lymphocytes > 50%
+Atypical lymphocytes >= 10%
+  (CD8+ Downey cells)
+Same pattern: CMV, toxoplasmosis
+
+Dx: Monospot (Paul-Bunnell)
+    or EBV IgM
+
+---
+
+COMPLICATIONS
+splenic rupture, airway block,
+haemolysis, thrombocytopenia,
+myocarditis, meningitis,
+encephalitis, mesenteric adenitis
+
+Long term: Burkitt lymphoma,
+           nasopharyngeal ca
+
+---
+
+MANAGEMENT
+Self-limiting -> supportive
+Steroids if:
+  airway obstruction
+  neuro complications
+  marked thrombocytopenia
+  haemolytic anaemia
+No contact sports until
+spleen normal
+
+
+
+6. LEPTOSPIROSIS
+
+L. interrogans  -> pathogenic
+L. biflexa      -> non-pathogenic
+Serovar icterohaemorrhagiae
+  -> icterus + haemorrhage
+
+---
+
+Rodent (rats), cattle, dogs, pigs
+  |
+  v
+Colonises renal tubules
+(persists despite antibodies)
+  |
+  v
+Shed in urine
+  |
+  v
+Stagnant water (paddy, ditches)
+  |
+  v
+Enters abraded skin / mucosa
+  |
+  v
+Incubation 5-14 days
+
+High risk: farmers, sewage/vet
+           workers, river bathing
+Human-to-human: rare
+
+---
+
+PHASE 1: BACTERAEMIC (week 1)
+|- high fever
+|- CONJUNCTIVAL SUFFUSION
+|- headache
+|- MYALGIA > arthralgia
+|- CALF TENDERNESS
+|- jaundice ~1/3 (Weil's)
+|- NO lymphadenopathy
+  |
+  v
+PHASE 2: IMMUNE (after week 1)
+  antibody-mediated
+  multi-organ damage
+
+---
+
+COMPLICATIONS
+Renal   -> ATN, AIN, rhabdo
+           K+ LOW (tubular loss)
+Heart   -> early myocarditis
+Lung    -> pulmonary haemorrhage
+           (can be fatal)
+CNS     -> aseptic meningitis
+           (pyogenic rare)
+Other   -> haemolysis, liver failure,
+           acalculous cholecystitis,
+           thrombocytopenia
+NOT     -> pyelonephritis
+
+Improving pt + arrhythmia
+  -> hypokalaemia
+
+---
+
+LEPTO vs DENGUE
+Lepto  -> myalgia > arthralgia
+          calf tenderness
+          conjunctival suffusion
+Dengue -> arthralgia > myalgia
+          leukopenia, lymphocytosis
+
+LEPTO vs TYPHUS
+LN        lepto absent / typhus +
+WBC       lepto neutrophilia /
+          typhus leukopenia
+Platelets both low
+Urine     lepto abnormal
+
+---
+
+INVESTIGATIONS
+Week 1 -> Lepto-PCR (best early)
+After day 7 -> MAT (GOLD STD)
+  positive: >= 1:320 or 4-fold rise
+  also IgM ELISA
+FBC  -> neutrophil leukocytosis,
+        low platelets
+LFT  -> ALP up, AST > ALT
+UFR  -> protein, blood, pus cells,
+        granular casts, bilirubin
+RFT  -> creatinine up, K+ low
+CXR  -> infiltrates, haemorrhage
+ECG  -> myocarditis
+
+---
+
+MANAGEMENT
+Admit, 4-hourly temp, strict I/O
+  |
+  +-- severe -> IV CEFTRIAXONE
+  |   alt: IV benzylpenicillin,
+  |        IV cefotaxime
+  +-- mild   -> oral doxycycline
+  |
+  v
+Pulmonary haemorrhage
+  -> IV methylprednisolone pulses
+Renal failure
+  -> correct electrolytes,
+     dialysis if indicated
+  -> dialysis drops K+ further
+  -> ADD K+ TO DIALYSATE
+
+---
+
+PREVENTION
+Vaccinate farm animals
+Boots + protective clothing
+Doxycycline 200 mg weekly
+  (start before exposure)
+
+Farmer + fever + calf pain
+  + red eyes -> LEPTOSPIROSIS
+
+
+
+7. MALARIA
+
+Currently non-endemic in SL
+Indigenous P. ovale reported
+Travel (India, Africa) -> suspect
+Fever + confusion + India travel
+  -> malaria
+
+---
+
+Female Anopheles (definitive)
+  |
+  v
+Sporozoites -> LIVER
+(exoerythrocytic schizogony)
+  |  hypnozoites (vivax/ovale)
+  |  -> no symptoms
+  v
+Merozoites -> RBC
+(erythrocytic schizogony)
+  |  -> ALL symptoms
+  v
+Gametocytes -> mosquito
+
+---
+
+SPECIES
+P. vivax / P. ovale
+  benign tertian, every 48 h
+  reticulocytes, enlarged RBC
+  single parasite/RBC
+  HYPNOZOITES -> relapse
+  round gametocyte
+  incubation 10-17 d
+  vivax -> thrombocytopenia
+
+P. falciparum
+  malignant tertian, irregular
+  any RBC, normal size
+  MULTIPLE parasites/RBC
+  no hypnozoites -> no relapse
+  CRESCENT gametocyte
+  incubation 7-14 d
+  chloroquine-resistant
+  worse in pregnancy
+
+P. malariae
+  quartan, every 72 h
+  mature RBC
+  incubation 18-40 d
+
+P. knowlesi -> zoonotic
+
+---
+
+PAROXYSM
+Cold (15-60 min) -> chills, rigors
+  |
+  v
+Hot (2-6 h) -> high fever,
+               headache, vomiting
+  |
+  v
+Sweating -> temp falls
+
+Signs: haemolysis, jaundice, HSM
+NO rash, NO lymphadenopathy
+
+---
+
+SEVERE (falciparum)
+|- cerebral (coma, seizures)
+|    -> SEQUESTRATION
+|    -> full recovery in majority
+|- HYPOGLYCAEMIA
+|- lactic/metabolic acidosis
+|- ARDS / pulmonary oedema
+|- AKI
+|- blackwater fever
+|- severe anaemia, jaundice
+|- DIC (bad sign)
+|- very high ESR
+
+Fever + jaundice + anaemia
+  -> falciparum
+Fever + hypoglycaemia
+  -> falciparum
+
+---
+
+RENAL
+Falciparum -> ATN / interstitial
+              -> AKI, oliguria,
+                 blackwater
+Malariae   -> membranoproliferative
+              GN -> NEPHROTIC
+
+---
+
+DIAGNOSIS
+Thick film -> detects parasite
+Thin film  -> species
+RDT        -> antigen
+Always rule out mixed infection
+
+---
+
+TREATMENT
+Confirm species
+  |
+  +-- P. vivax (uncomplicated)
+  |     |
+  |     v
+  |   Chloroquine x 3 days
+  |     |
+  |     v
+  |   CHECK G6PD
+  |     |
+  |     v
+  |   Primaquine x 14 days
+  |   (hypnozoites + gametocytes)
+  |
+  +-- P. falciparum
+        |
+        +-- uncomplicated
+        |     -> ACT
+        |     -> single-dose
+        |        primaquine
+        |        (gametocytes)
+        |
+        +-- severe
+              -> IV ARTESUNATE
+              -> oral ACT when stable
+              -> single-dose
+                 primaquine
+
+ACT -> avoid 1st trimester
+       safe later
+
+
+
+8. MENINGITIS
+
+Suspected meningococcal
+  |
+  v
+Blood culture IMMEDIATELY
+  |
+  v
+Dexamethasone at/before 1st dose
+  |
+  v
+IV ceftriaxone / cefotaxime
+  |
+  v
+LP later (never delay abx)
+
+---
+
+Bacterial vs viral unclear
+  -> 3rd-gen ceph + IV acyclovir
+Bacterial likely -> omit acyclovir
+
+Adjustments
+  resistant pneumococcus
+    -> add VANCOMYCIN
+  > 50 yrs (Listeria)
+    -> add AMPICILLIN
+Duration >= 14 days
+
+Bugs: N. meningitidis,
+      S. pneumoniae, Hib
+
+---
+
+CSF
+TB         protein very high
+           sugar very low
+           lymphocytes
+Viral      protein normal/mild up
+           sugar normal/mild down
+           lymphocytes
+Bacterial  protein high
+           sugar low
+           neutrophils
+Partially  protein high
+treated    sugar low
+           lymphocytes (mimics TB)
+
+---
+
+TB MENINGITIS
+Hard to confirm
+ADA -> poor sens/spec
+GeneXpert -> ~50%
+Basal meningitis -> CN VI palsy
+SIADH / Addison's -> low Na+
+TB -> erythema nodosum
+
+
+
+9. SEPSIS
+
+Suspected sepsis
+  |
+  v
+Cultures ASAP
+  |
+  v
+IV antibiotics
+(never withhold for results)
+  |
+  v
+IV normal saline
+  |
+  v
+BP not improved
+  -> NORADRENALINE (choice)
+  |
+  v
+Still not improved
+  -> VASOPRESSIN
+
+---
+
+MONITORING
+ABG in any acutely unwell pt
+  -> hypoxia, hypercarbia
+  -> metabolic acidosis
+  -> lactate
+  -> NOT renal function
+Lactate target < 2 mmol/L
+Urine bag: adequate + dilute
+  -> stable perfusion
+
+---
+
+ADJUNCTS
+Low-moderate dose steroids
+  -> lower mortality
+Diabetics: glucose 140-180 mg/dL
+
+Distributive shock
+Risk: extremes of age
+
+
+
+10. OTHER LECTURE TOPICS
+
+MYCOPLASMA
+Mycoplasma -> haemolysis
+  -> haemoglobinuria (dark urine)
+Ddx: myoglobinuria (rhabdo)
+Rhabdo -> hyperuricaemia
+       -> hydration + NaHCO3
+
+---
+
+MELIOIDOSIS (B. pseudomallei)
+Soil/water contact
+  |
+  v
+Risk: farmers, soldiers,
+      diabetics
+  |
+  v
+Abscesses anywhere
+  lung, brain, liver, spleen, skin
+  multiple sites characteristic
+  large-joint monoarthritis
+  cranial nerve palsy, meningitis
+Assoc: Sweet syndrome,
+       long-segment TM
+  |
+  v
+INTENSIVE: IV ceftazidime or
+           IV meropenem 4-8 wk
+           (+/- co-trimoxazole)
+  |
+  v
+CONTINUATION: oral co-trimoxazole
+              (BM suppression)
+              alt doxycycline
+
+---
+
+CHICKENPOX
+Infective: 2 days before rash
+           -> all lesions crusted
+Rash day 1 (with fever)
+PLEOMORPHIC (macules, papules,
+             vesicles together)
+CENTRIPETAL (face, scalp, trunk)
+
+SHINGLES
+VZV latent in dorsal root ganglia
+  -> reactivation
+  -> single dermatome
+  -> oral acyclovir
+Severe -> post-herpetic neuralgia
+
+---
+
+RASH DAY MNEMONIC
+"Very Sick Person Must
+ Take Double Tablets"
+V  Varicella      day 1
+S  Scarlet fever  day 2
+P  Smallpox       day 3
+M  Measles        day 4
+T  Typhus         day 5
+D  Dengue         day 6
+T  Typhoid        day 7
+(rough guide only)
+
+PALMS + SOLES "CARS"
+C/A  Coxsackievirus A
+R    Rickettsia (typhus)
+S    Secondary syphilis
+
+
+
+11. LYMPHADENOPATHY
+
+Fever + cervical LN
+  |- EBV (glandular fever)
+  |- toxoplasmosis
+  |- CMV, rubella
+  |- SLE
+  |- KIKUCHI
+       young women
+       fever + PAINFUL cervical LN
+       -> mimics SLE
+
+---
+
+GENERALISED
+Secondary syphilis
+  (tertiary -> absent)
+Toxoplasmosis
+  posterior cervical,
+  suboccipital, submental
+Sarcoidosis
+  +/- bilateral hilar LN
+
+LOCALISED -> filariasis
+NONE      -> malaria
+
+---
+
+TOXOPLASMOSIS
+Immunocompetent
+  -> cervical LN (+/- generalised,
+     HSM)
+  -> atypical lymphocytes
+     (mimics IM)
+  -> self-limiting, no Rx
+
+
+
+12. STI / GENITAL ULCER
+
+Painless ulcer (1 month earlier)
+  |
+  v
+Secondary syphilis
+  -> palms/soles rash
+  -> generalised LN
+  -> condylomata lata (no ulcer)
+
+---
+
+PAINLESS
+Primary syphilis (T. pallidum)
+  solitary, 2-4 wk post-contact
+LGV (C. trachomatis)
+  -> later LN -> doxycycline
+
+PAINFUL
+Chancroid (H. ducreyi)
+  necrotising, regional LN
+  -> azithromycin or ceftriaxone
+Genital herpes
+
+OTHER
+Gonorrhoea -> NO ulcers
+Behcet's   -> oral + genital
+EM major   -> genital ulceration
+
+
+
+13. ANTIBIOTICS
+
+MRSA        -> vancomycin
+Pseudomonas -> ceftazidime/cefepime
+               alt: meropenem,
+               imipenem, pip-taz
+Chlamydia   -> doxycycline
+
+---
+
+Penicillin allergy
+  -> cross-reaction: ceftriaxone
+  -> use MACROLIDES
+
+Vancomycin rapid infusion
+  -> red man syndrome
+  -> give slowly
+
+Doxycycline uses
+  -> scrub typhus
+  -> lepto prevention
+
+
+
+14. HOSPITAL INFECTIONS
+
+DIALYSIS LINE SEPSIS
+Neck-line / fem-line
+  |
+  v
+S. aureus incl. MRSA
+  |
+  v
+Vancomycin
+
+CVC PREVENTION
+Transparent dressings
+Avoid unnecessary line access
+Strict hand hygiene
+Commonest: Staphylococcus
+
+---
+
+NEEDLE-STICK RISK
+HBV  ~33% (higher if HBeAg +)
+HCV  ~3%
+HIV  ~0.3%
+
+---
+
+Needle-stick injury
+  |
+  +-- Source status unknown
+  |     |
+  |     +-- HBV
+  |     |   check pt HBsAg
+  |     |   check worker anti-HBs
+  |     |   vaccine 0, 1, 6 months
+  |     |   non-responder -> booster
+  |     |
+  |     +-- HIV
+  |     |   test BOTH immediately
+  |     |   4th-gen ELISA (Ab + p24)
+  |     |
+  |     +-- HCV
+  |         baseline +
+  |         antibodies at 4-6 months
+  |
+  +-- Source HIV +
+  |     -> PEP ASAP (no waiting)
+  |
+  +-- Source HBsAg +
+        -> HBIG + vaccine
+        (none if worker immune)
+
+
+
+15. OTHER INFECTIONS
+
+TETANUS
+C. tetani (G+, spore, anaerobe)
+  |
+  v
+Tetanospasmin -> nerve terminal
+  -> presynaptic inhibition
+  |
+  v
+Trismus, risus sardonicus,
+opisthotonus, rigid abdomen,
+spasms, autonomic instability
+  |
+  v
+Dx: clinical
+Rx: debridement
+    metronidazole, penicillin
+    human tetanus Ig
+    MgSO4 (mainstay)
+Risk: respiratory failure
+
+---
+
+RABIES
+Neurologic dysfunction,
+not structural damage
+Aerophobia ("fan sign")
+Paralytic -> starts at wound
+Ig      -> passive immunity
+Vaccine -> active immunity
+Severe/cat/monkey bites -> Ig
+
+---
+
+LEISHMANIASIS
+Visceral (L. donovani)
+  fever, weight loss, HSM,
+  pancytopenia, low albumin,
+  high globulin
+  -> stibogluconate or
+     liposomal amphotericin
+Cutaneous (L. major, tropica)
+  -> cryotherapy
+Mucocutaneous (L. braziliensis)
+
+---
+
+POST-COVID MUCORMYCOSIS
+COVID + steroids
+  |
+  v
+Immunosuppression
+  |
+  v
+~2 wk later: diplopia,
+CN III/IV/VI palsy, proptosis,
+fever, ESR/CRP > 100
+  |
+  v
+Orbit -> cavernous sinus
+  |
+  v
+Antifungals + AGGRESSIVE
+debridement
+
+COVID-19
+Incubation 5-7 d (2-14)
+Bilateral CXR changes
+More transmissible than SARS
+MERS -> higher mortality
+
+---
+
+CELLULITIS vs ERYSIPELAS
+Cellulitis -> ill-defined border
+              Group A strep
+Erysipelas -> dermis, sharply
+              demarcated
+Both -> can cause sepsis
+     -> PENICILLIN
+
+---
+
+MISC
+Aedes  -> Zika, yellow fever,
+          chikungunya
+RMSF   -> rodent reservoir
+Anthrax -> G+ bacillus
+Measles -> rash, pneumonitis
+Eosinophilia + asthma +
+neuropathy + p-ANCA
+  -> Churg-Strauss
+
+
+
+16. CASE EXAMPLES
+
+MELIOIDOSIS
+45yo soldier
+  prolonged fever
+  + multiple lung abscesses
+  + skin abscesses
+  |
+  v
+Blood culture: G- bacilli
+  |
+  v
+Melioidosis
+
+---
+
+MENINGITIS
+18M, headache + neck stiffness
+  |
+  v
+CSF: protein ~100,
+     sugar ~50% of blood,
+     lymphocytes
+Prior oral antibiotics
+  |
+  v
+Empirical abx, no anti-TB
+  |
+  v
+Improved at 3 weeks
+(TB would worsen)
+Repeat LP + MRI normal
+  |
+  v
+Partially treated bacterial
+
+
+
+17. HIGH-YIELD POINTS
+
+Typhoid
+  blood culture wk 1
+  bone marrow most sensitive
+  ceftriaxone
+
+Typhus
+  eschar -> doxycycline
+  no response to ceftriaxone
+
+Dengue
+  hallmark = leakage
+  HCT rise > 20%, FAST best
+  4600 ml / 50 kg, max 50 kg
+  decompensated: SBP < 90,
+    fall > 30%, MAP < 60
+  shock + low PCV -> bleeding
+    -> PRBC 5 ml/kg
+
+Leptospirosis
+  suffusion + calf tenderness
+  no LN, LOW K+
+  MAT >= 1:320
+
+Malaria
+  vivax -> primaquine 14 d + G6PD
+  falciparum -> ACT
+  severe -> IV artesunate
+  malariae -> nephrotic
+
+HIV
+  AIDS = CD4 < 200
+  ART immediately
+  PEP <= 72 h x 28 days
+
+IMN
+  amoxicillin rash
+  >= 10% atypical lymphocytes
+
+Sepsis
+  noradrenaline -> vasopressin
+  lactate < 2
+
+Needle-stick
+  HBV 33% > HCV 3% > HIV 0.3%
