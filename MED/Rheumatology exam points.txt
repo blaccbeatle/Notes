@@ -1,0 +1,895 @@
+RHEUMATOLOGY: CONSOLIDATED FLOWCHARTS
+=====================================
+
+
+
+1. ARTHRITIS BASICS
+
+Joint pain
+  |
+  +--> Inflammatory
+  |      +-- Pathology: synovitis
+  |      +-- AM stiffness: yes
+  |      +-- Worse rest, better activity
+  |      +-- RA, seronegative, crystal,
+  |          post-viral
+  |
+  +--> Mechanical (e.g. OA)
+         +-- No significant inflammation
+         +-- AM stiffness: no/minimal
+         +-- Worse activity, better rest
+         +-- Osteoarthritis
+
+---
+
+Joint count
+  |
+  +--> Mono (1 joint)
+  |      +-- Common: gout, pseudogout,
+  |      |   septic arthritis
+  |      +-- Occasional: psoriatic,
+  |          reactive, RA
+  |
+  +--> Poly (>1 joint)
+         +-- RA, reactive, seronegative,
+             post-viral, enteropathic
+
+---
+
+DIP involvement
+  |
+  v
+Almost never RA
+  |
+  v
+Consider PsA or OA
+
+RA + PsA -> raised CAD risk
+(similar to diabetes)
+
+---
+
+Infection-associated arthritis
+  +-- Rubella, chlamydial urethritis,
+  |   chikungunya
+  +-- Hep B -> immune-complex
+      arthritis (prodromal phase)
+
+
+
+2. RHEUMATOID ARTHRITIS
+
+Bilateral, symmetrical polyarthritis
+  +-- MCP + PIP; DIP spared
+  +-- F > M; HLA-DR4; age 30-50
+  +-- Synovitis -> pannus
+
+---
+
+Serology
+  |
+  +--> RF (IgM vs Fc of IgG)
+  |      +-- Present: does not confirm
+  |      +-- Absent: does not exclude
+  |
+  +--> Anti-CCP
+         +-- More specific
+         +-- Predicts erosions,
+             worse prognosis
+
+---
+
+Deformities
+  +-- Ulnar deviation, boutonniere,
+  |   swan neck, Z-thumb
+  +-- Ulnar styloid subluxation
+  +-- Atlantoaxial subluxation
+        |
+        v
+      Cord compression
+        |
+        v
+      Quadriparesis
+
+---
+
+Extra-articular
+  +-- Lung: Caplan nodules, effusion,
+  |   fibrosis/ILD, obliterative
+  |   bronchiolitis
+  +-- Eye: scleritis, episcleritis,
+  |   scleromalacia perforans
+  +-- Kidney: AA amyloidosis
+  |   -> nephrotic syndrome
+  +-- Vasculitis -> mononeuritis
+  |   multiplex
+  +-- Neuro: carpal tunnel
+  +-- Felty: RA + splenomegaly +
+  |   neutropenia (+/- pancytopenia)
+  +-- Anaemia: chronic disease;
+      iron deficiency (NSAID/steroid
+      -> GI bleed)
+
+---
+
+X-ray hands
+  |
+  v
+Soft tissue swelling
+  |
+  v
+Peri-articular osteoporosis
+  |
+  v
+Instability + deformity
+
+Monitoring score: DAS-28
+
+---
+
+Treatment
+  |
+  v
+Start DMARD ASAP
+  +-- Interim pain: diclofenac
+  +-- Steroids: short bridge only
+  |
+  v
+Methotrexate (1st line)
+  +-- Never start 2 DMARDs together
+  |
+  v
+Not responding
+  |
+  v
+DMARD combination
+  |
+  v
+Uncontrolled on 2 DMARDs
+  |
+  v
+Exclude TB (incl. latent)
+  |
+  v
+Biologic: anti-TNF-alpha
+  +-- Risk: raised lymphoma
+
+---
+
+DMARDs
+  |
+  +--> Methotrexate
+  |      +-- Inhibits DHF reductase
+  |      +-- Once weekly; folic acid
+  |      |   on a different day
+  |      +-- GI, hepatotoxicity
+  |      +-- Marrow suppression
+  |      |   (macrocytic anaemia)
+  |      +-- Pneumonitis -> fibrosis
+  |      +-- Oral/skin ulcers
+  |      +-- Monitor FBC
+  |      +-- CI in pregnancy
+  |
+  +--> Sulfasalazine
+  |      +-- GI, leukopenia,
+  |          marrow suppression
+  |
+  +--> Hydroxychloroquine
+  |      +-- Less effective, fewer SE
+  |      +-- Retinal toxicity
+  |          -> regular eye checks
+  |
+  +--> Leflunomide
+         +-- Blocks pyrimidine synthesis
+         +-- GI, liver toxicity
+         +-- CI in pregnancy
+
+---
+
+MTX + fever + sore throat
+  |
+  v
+Suspect neutropenic sepsis
+  +-- Admit
+  +-- Stop MTX
+  +-- FBC
+  +-- Reverse barrier nursing
+  +-- Folinic acid (NOT folic acid)
+  +-- Consider G-CSF
+  +-- Antibiotics + blood cultures
+
+---
+
+Biologics
+  +-- Anti-TNF-alpha: infliximab,
+  |   adalimumab, etanercept
+  +-- IL-1: anakinra
+  +-- Anti-CD20: rituximab
+
+---
+
+2010 ACR/EULAR (score >=6 = RA)
+  |
+  +--> Joints (max 5)
+  |      +-- 1 large ............ 0
+  |      +-- 2-10 large ......... 1
+  |      +-- 1-3 small .......... 2
+  |      +-- 4-10 small ......... 3
+  |      +-- 10 (>=1 small) ..... 5
+  |
+  +--> Serology (max 3)
+  |      +-- Negative ........... 0
+  |      +-- Low positive ....... 2
+  |      +-- High positive ...... 3
+  |
+  +--> ESR/CRP (max 1)
+  |      +-- Normal ............. 0
+  |      +-- Abnormal ........... 1
+  |
+  +--> Duration (max 1)
+         +-- <6 weeks ........... 0
+         +-- >=6 weeks .......... 1
+
+Small: MCP, PIP, MTP 2-5,
+       thumb IP, wrist
+NOT:   DIP, 1st CMC, 1st MTP
+
+
+
+3. SERONEGATIVE SPONDYLOARTHROPATHIES
+
+RF neg + anti-CCP neg
+  +-- HLA-B27
+  +-- Enthesitis
+  +-- Sacroiliitis
+  +-- Typically asymmetrical
+  +-- Uveitis/iritis: painful
+      -> visual impairment
+
+---
+
+Ankylosing spondylitis
+  +-- Axial (spine + SI); M >> F
+  +-- Onset 16-40; >80% before 30
+  +-- Back pain: worse morning /
+  |   2nd half of night; better
+  |   with exercise
+  +-- Reduced neck extension/rotation
+  +-- Reduced chest expansion
+  |   (costochondritis + fibrosis)
+  +-- Achilles tendinitis,
+  |   plantar fasciitis
+  +-- Peripheral: lower limb, large
+      joints, asymmetrical
+
+---
+
+Suspected AS
+  |
+  v
+Best test: HLA-B27
+  |
+  v
+MRI SI joints/spine (key imaging;
+early sacroiliitis)
+  |
+  v
+X-ray: erosions
+  |
+  v
+Syndesmophytes
+  |
+  v
+Bamboo spine
+
+Schober's test: spinal stiffness
+
+---
+
+AS treatment
+  +-- Exercise, NSAIDs
+  +-- Anti-TNF: persistent activity
+  +-- MTX: peripheral, NOT spinal
+
+AS complications
+  +-- Aortic regurgitation
+  +-- Heart block
+  +-- Apical fibrosis
+
+---
+
+Psoriatic arthritis
+  +-- DIP; M = F
+  +-- HLA-B27 less strong
+  +-- Dactylitis
+  +-- Nails: pitting, onycholysis,
+  |   oil drop sign
+  +-- Arthritis mutilans
+  |   -> telescopic fingers
+  +-- X-ray: pencil-in-cup
+  +-- Check scalp, umbilicus,
+  |   natal cleft
+  +-- Poor skin-joint correlation
+  +-- MTX effective; anti-TNF
+      (skin + joints)
+
+---
+
+Infection (1-4 weeks before)
+  |
+  +--> Dysentery: Yersinia,
+  |    Salmonella, Shigella,
+  |    Campylobacter
+  |
+  +--> Urethritis (NSU):
+       Chlamydia, Ureaplasma
+  |
+  v
+REACTIVE ARTHRITIS
+  +-- Triad: urethritis + arthritis
+  |   + conjunctivitis
+  +-- Asymmetric lower-limb
+  |   oligoarthritis
+  +-- Knee, ankle, MTP; dactylitis
+  +-- Plantar fasciitis, Achilles
+  +-- Keratoderma blennorrhagica
+  +-- Circinate balanitis
+  +-- Erythema nodosum-like lesions
+  +-- Serositis
+  +-- Non-destructive; usually
+      single attack
+
+---
+
+IBD (UC/Crohn's) + arthritis
+  |
+  v
+ENTEROPATHIC ARTHRITIS
+  +-- Asymmetrical, large joints
+  +-- May precede bowel symptoms
+  +-- Colectomy: helps UC > Crohn's
+
+
+
+4. CRYSTAL ARTHRITIS
+
+Acute monoarthritis
+  |
+  v
+Joint aspiration (essential)
+  |
+  +--> Needle, negative
+  |    birefringence -> GOUT
+  |
+  +--> Rhomboid, weakly positive
+  |    birefringence -> PSEUDOGOUT
+  |
+  +--> Pus cells >50,000 -> SEPTIC
+
+---
+
+Gout
+  +-- 1st MTP (podagra)
+  +-- Causes: reduced renal excretion
+  |   (most), metabolic syndrome,
+  |   thiazides, low-dose aspirin,
+  |   alcohol, polycythaemia rubra
+  |   vera, CKD
+  +-- Polyarticular / chronic
+  |   tophaceous gout <-> CKD
+  +-- Uric acid normal/low in acute
+  |   attack (low != exclude,
+  |   high != confirm)
+  +-- X-ray: punched-out erosions,
+      overhanging edges, preserved
+      joint space
+
+---
+
+Gout treatment
+  |
+  +--> Acute
+  |      +-- NSAIDs
+  |      +-- Colchicine (diarrhoea)
+  |      +-- Steroids
+  |
+  +--> Long-term (attacks, tophi,
+       stones, CKD)
+         +-- Allopurinol, febuxostat,
+         |   probenecid
+         +-- Do NOT start in acute
+             attack
+
+---
+
+Pseudogout (CPPD)
+  +-- Elderly
+  +-- Young: haemochromatosis,
+  |   hyperparathyroidism, Wilson's,
+  |   hypomagnesaemia, alkaptonuria
+  +-- Knee/wrist
+  +-- X-ray: chondrocalcinosis
+  +-- Tx: aspiration, NSAIDs,
+      colchicine, IA steroids
+
+
+
+5. SEPTIC ARTHRITIS
+
+Hot joint
+  |
+  v
+Joint aspiration (Gram stain +
+culture) = investigation of choice
+  |
+  v
+Pus cells >50,000 -> septic
+  +-- Most common: Staph aureus
+  +-- Pustular rash + arthritis
+      -> gonococcal (oligoarticular)
+
+
+
+6. SLE
+
+Profile
+  +-- Females; adolescents/young
+  |   adults (peak 20-40)
+  +-- Drugs: hydralazine,
+  |   procainamide, penicillamine
+  +-- Most common: arthralgia, rash
+  +-- Most serious: kidney, brain
+
+---
+
+Clinical
+  +-- Malar rash (spares nasolabial
+  |   folds); episcleritis
+  +-- Raynaud's: 20-28%
+  +-- Joints: non-erosive;
+  |   Jaccoud's arthropathy
+  +-- AVN hip (high-dose steroids)
+  +-- Pericarditis: worse lying,
+  |   relieved leaning forward
+  +-- Libman-Sacks endocarditis
+  +-- Renal: nephritic, nephrotic,
+      AKI, CKD
+
+---
+
+Blood
+  +-- Predominant lymphopenia
+  +-- Warm AIHA -> microspherocytes
+  +-- Thrombocytopenia
+  +-- CTD + pancytopenia -> SLE
+
+---
+
+SLE + altered consciousness
+  |
+  +--> Cerebral lupus (assoc. APLS)
+  +--> Uraemic encephalopathy
+  +--> + papilloedema -> CVT
+  +--> On immunosuppressants
+       -> infection
+
+---
+
+Lupus nephritis classes
+  1  Minimal mesangial
+  2  Mesangial proliferative
+  3  Focal proliferative
+  4  Diffuse proliferative
+  5  Membranous
+  6  Advanced sclerosing
+
+---
+
+Labs
+  +-- ESR raised
+  +-- CRP normal, even in flare
+  |   -> rise = arthritis/infection
+  +-- C3/C4 reduced in flare
+  +-- ANA: almost always +,
+  |   low specificity
+  +-- Anti-dsDNA: very specific;
+  |   sensitivity ~70%
+  +-- Anti-Sm: low prevalence,
+  |   very specific
+  +-- Anti-Ro/La -> cross placenta
+      -> fetal complete heart block
+
+---
+
+Flare
+  +-- Raised ESR
+  +-- Raised anti-dsDNA
+  +-- Reduced C3/C4
+  +-- Raised proteinuria (renal)
+
+---
+
+Diagnosis
+  +-- ACR: 11 items, need >=4
+  +-- SLICC: >=4 (>=1 clinical +
+  |   >=1 immunologic)
+  +-- ANA + biopsy-proven lupus
+      nephritis
+
+---
+
+Management
+  +-- Sun avoidance; reduce CV risk
+  +-- Hydroxychloroquine for ALL
+  |   (monitor eyes; reduced
+  |   thrombosis, better pregnancy,
+  |   CV protection)
+  +-- Lupus nephritis
+  |     |
+  |     v
+  |   IV pulse methylprednisolone
+  |   (1st line)
+  |     |
+  |     v
+  |   Alternative: cyclophosphamide
+  +-- Major organ: steroids,
+  |   mycophenolate, rituximab
+  +-- MTX: can use, not 1st line
+
+---
+
+Pregnancy
+  +-- Not absolute contraindication
+  +-- Control disease >=3 months
+  |   before conception
+  +-- Most drugs safe EXCEPT
+      cyclophosphamide
+
+
+
+7. ANTIPHOSPHOLIPID SYNDROME
+
+Clinical criterion (>=1)
+  +-- Arterial/venous thrombosis
+  +-- >=1 fetal death >=10 weeks
+  +-- >=1 premature birth
+  |   <34 weeks
+  +-- >=3 consecutive losses
+      <20 weeks
+        +
+Lab criterion (>=2 tests,
+12 weeks apart)
+  +-- Lupus anticoagulant
+  +-- Anti-cardiolipin
+  +-- Anti-beta-2 glycoprotein I
+        |
+        v
+      APLS (primary or 2nd to SLE)
+        +-- Low platelets
+        +-- Prolonged aPTT
+        +-- False-positive VDRL
+        +-- Tx: warfarin or heparin
+
+
+
+8. OVERLAP SYNDROMES
+
+2 CTDs in one patient
+  +-- RA + SLE (most common)
+  +-- Scleroderma + SLE
+  +-- Scleroderma + myositis
+  +-- Scleroderma + RA
+  +-- Any + Sjogren's
+
+---
+
+MCTD (SLE + scleroderma +
+polymyositis)
+  +-- Swollen hands
+  +-- Synovitis, myositis
+  +-- Raynaud's, acrosclerosis
+  +-- Anti-U1-RNP (high titer)
+
+
+
+9. SJOGREN'S SYNDROME
+
+Dry eyes + dry mouth (+ vagina)
+  |
+  +--> Primary (alone)
+  +--> Secondary (RA, SLE)
+  |
+  v
+Tests
+  +-- Schirmer's test
+  +-- RF usually +; ANA ~80%
+  +-- Anti-Ro / anti-La
+  +-- Best confirm: labial gland
+      biopsy
+
+---
+
+Associations
+  +-- RTA, DI, lung fibrosis
+  +-- Raised non-Hodgkin's lymphoma
+
+Tx: artificial tears, saliva
+substitutes, hydroxychloroquine
+
+
+
+10. SYSTEMIC SCLEROSIS
+
+Skin tightening
+  |
+  +--> LIMITED (CREST)
+  |      +-- Not beyond MCP joints
+  |      +-- Raynaud's early
+  |      +-- Pulmonary HTN early
+  |      +-- Anti-centromere
+  |
+  +--> DIFFUSE
+         +-- Beyond elbows/knees
+         |   + trunk
+         +-- Raynaud's later
+         +-- Lung fibrosis
+         |   -> pulm HTN later
+         +-- GIT (diarrhoea), heart,
+         |   kidneys
+         +-- Anti-Scl-70
+
+CREST = Calcinosis, Raynaud's,
+Esophageal dysmotility,
+Sclerodactyly, Telangiectasia
+
+ANA ~95% (both); RF ~30%
+Raynaud's: more than in SLE
+
+---
+
+Reduced urine output + renal
+failure + high BP
+  |
+  v
+Renal crisis
+  |
+  v
+ACE inhibitor
+
+---
+
+Symptom treatment
+  +-- Raynaud's: nifedipine
+  +-- Oesophagus: domperidone + PPI
+  +-- Pulm HTN: prostaglandin
+  |   analogs
+  +-- Fibrosis: steroids +
+      cyclophosphamide
+
+
+
+11. POLYMYOSITIS / DERMATOMYOSITIS
+
+Proximal symmetrical weakness
+  |
+  v
+Raised CK + EMG + biopsy
+  |
+  +--> Muscle only -> POLYMYOSITIS
+  |      +-- Endomysial infiltrate
+  |
+  +--> + skin -> DERMATOMYOSITIS
+         +-- Perifascicular
+         +-- Stronger malignancy link
+         |   (gastric, ovarian)
+         +-- Screen at diagnosis
+
+Tx: steroids; MTX, azathioprine,
+mycophenolate
+
+---
+
+Antisynthetase syndrome
+  +-- Myositis
+  +-- Mechanic's hands, Raynaud's
+  +-- Lung fibrosis
+  +-- Non-erosive arthritis
+  +-- Anti-Jo-1
+
+---
+
+New weakness on steroids
+  |
+  v
+Check CK / stop steroid briefly
+  |
+  +--> CK high, worsens
+  |      -> RELAPSE
+  |      -> increase steroids
+  |
+  +--> CK normal, improves
+         -> STEROID MYOPATHY
+         -> reduce/stop steroids
+
+
+
+12. OTHER CONDITIONS
+
+Elderly + girdle pain
+  |
+  v
+Check CK
+  |
+  +--> Normal -> PMR
+  |      +-- Age + ESR usually >50
+  |      +-- Apparent weakness only
+  |      +-- 10-15% have GCA
+  |
+  +--> Raised -> polymyositis
+
+Large vessel vasculitis:
+GCA, Takayasu
+
+---
+
+Fever + transient rash + arthritis
+  |
+  v
+ADULT-ONSET STILL'S
+  +-- Serositis
+  +-- Neutrophil leucocytosis
+  +-- RF negative
+  +-- Ferritin very high
+  |   (thousands)
+  +-- Complication: MAS (HLH)
+  +-- Excellent NSAID response
+
+---
+
+Child + purpura legs/buttocks
+  |
+  v
+HSP
+  +-- No anaemia/thrombocytopenia
+  +-- IgA nephropathy-like
+  +-- Type III hypersensitivity
+  +-- Mesenteric vasculitis
+  |   -> intussusception
+  +-- Diagnosis: clinical
+
+---
+
+Carpal tunnel
+  +-- RA complication
+  +-- Exclude hypothyroidism
+  +-- Worse at night
+  +-- Thenar wasting
+  +-- Tx: nocturnal splinting first
+
+---
+
+Misc
+  +-- Behcet's: oral + genital
+  |   ulcers; arterial + venous
+  |   thrombosis
+  +-- Tietze: costochondritis
+  +-- Raynaud's: beta blockers,
+  |   vibrating tools, cervical rib
+  +-- Long bone fracture + upper
+      limb rash -> fat embolism
+
+---
+
+Back pain
+  |
+  v
+Red flags? (fever, weight loss,
+nocturnal pain, neuro signs)
+  |
+  v
+Start with X-ray
+(not everyone needs MRI)
+
+
+
+13. OSTEOARTHRITIS
+
+Cartilage loss
+  |
+  v
+Bone-on-bone
+  +-- Subchondral sclerosis
+  +-- Osteophytes
+  +-- Subchondral cysts
+
+---
+
+Clinical
+  +-- Pain with activity,
+  |   better with rest
+  +-- AM stiffness <30 min
+  +-- Gelling, crepitus,
+  |   mild effusion
+  +-- Heberden's = DIP
+  +-- Bouchard's = PIP
+  +-- Knee: medial compartment
+  +-- TMJ: not common
+  +-- Obesity = risk;
+      osteoporosis = protective
+
+---
+
+Investigations
+  +-- ESR normal; RF/ANA negative
+  +-- X-ray: space narrowing,
+      sclerosis, osteophytes
+
+---
+
+Management
+  |
+  v
+Weight loss (most important)
++ exercise
+  |
+  v
+Analgesics / NSAIDs
+  |
+  v
+IA steroids (flares)
+  |
+  v
+Joint replacement (severe)
+
+
+
+14. OSTEOPOROSIS
+
+Osteoclasts > osteoblasts
+  |
+  v
+Fragility fractures
+  +-- Colles' (dinner fork)
+  +-- Vertebral (kyphosis,
+  |   reduced height)
+  +-- NOF intracapsular -> AVN
+
+Labs: Ca, PO4, ALP all normal
+
+---
+
+Risk factors
+  +-- Oestrogen deficiency /
+  |   early menopause
+  +-- Steroids, heparin, PPIs,
+  |   aromatase inhibitors
+  +-- Loop diuretics
+  +-- Excess caffeine
+  +-- Low BMI, bed rest
+  +-- Maternal hip fracture
+  +-- NOT thiazides
+  +-- Obesity protective
+
+---
+
+Clinical risk
+  |
+  v
+FRAX (ages 40-90; 10-yr risk)
+  |
+  v
+DEXA if indicated
+  +-- F >65, high FRAX,
+  |   willing to treat
+  +-- Fragility fracture,
+  |   young female
+  +-- Long-term steroids
+  +-- Osteopenia on X-ray
+  +-- NOT for worry alone
+
+---
+
+T-score (spine/femoral neck/
+total hip/1/3 radius)
+  |
+  +--> 
