@@ -892,4 +892,172 @@ DEXA if indicated
 T-score (spine/femoral neck/
 total hip/1/3 radius)
   |
-  +--> 
+  +--> <= -2.5 -> osteoporosis
+  |      -> TREAT
+  |
+  +--> -1 to -2.5 -> osteopenia
+         |
+         +--> + fragility fracture
+         |      -> TREAT
+         |
+         +--> 10-yr femoral neck
+              risk > 3% -> TREAT
+
+---
+
+Treatment
+  +-- Bisphosphonate (alendronate)
+  |     +-- Empty stomach, full
+  |     |   glass water
+  |     +-- Upright 30 min
+  |     +-- Limit 5 years
+  |     +-- Oesophagitis, ONJ,
+  |     |   atypical femoral fx
+  |     +-- Dental hygiene
+  |     |   -> reduced ONJ
+  |     +-- IV/zoledronic acid
+  |         -> flu-like reaction
+  +-- Raloxifene (SERM, not
+  |   tamoxifen) -> raised VTE
+  +-- Denosumab: anti-RANK ligand
+  +-- Teriparatide: PTH (anabolic)
+
+---
+
+Steroids >3 months
+  |
+  v
+Assess osteoporosis risk
+(spine most affected; early loss)
+  |
+  v
+Calcium + vit D + alendronate
+(PMR >10 mg -> bisphosphonate)
+
+
+
+15. OSTEOMALACIA AND PAGET'S
+
+Liver disease -> 25-hydroxylation
+Renal disease -> 1-alpha-
+hydroxylation
+  |
+  v
+OSTEOMALACIA
+  +-- Bone pain, tenderness
+  +-- Proximal weakness
+  |   -> waddling gait
+  +-- Low Ca, low PO4,
+  |   high ALP, high PTH
+  +-- Looser's zones
+  +-- Proximal RTA can cause
+  +-- Renal defect -> alfacalcidol
+      / calcitriol
+
+---
+
+Raised resorption -> raised
+formation -> woven bone
+  |
+  v
+PAGET'S
+  +-- Pelvis, vertebrae, skull
+  +-- Skull -> CN VIII -> deafness
+  +-- Warmth over legs
+  +-- High-output HF
+  +-- Osteosarcoma (rare)
+  +-- Isolated very high ALP;
+  |   Ca normal
+  +-- Tx: bisphosphonates
+
+
+
+16. BONE LAB CHART
+
+Condition       Ca   PO4  ALP  PTH
+Osteoporosis    N    N    N    N
+Osteomalacia    low  low  hi   hi
+1ary HPT        hi   low  hi   hi
+Paget's         N    N    hi+  N
+CKD (2ary HPT)  low  hi   hi   hi
+
+---
+
+High ALP
+  |
+  +--> + high Ca
+  |      -> bone metastasis,
+  |         primary HPT
+  |
+  +--> + low Ca
+         -> osteomalacia, CKD
+
+
+
+17. CASE EXAMPLES
+
+45yo, 3 wk fever + rash +
+lymphadenopathy + pleuritic pain
++ very high ferritin
+  |
+  v
+Adult-onset Still's
+
+---
+
+Dysphagia + Raynaud's + small
+mouth opening + BP 230/130 +
+creatinine 240 + MAHA
+  |
+  v
+Scleroderma renal crisis
+  |
+  v
+ACE inhibitor
+
+
+
+18. HIGH-YIELD POINTS
+
+- DIP spared in RA; DIP -> PsA/OA
+- Anti-CCP most specific for RA
+- MTX 1st; 2 DMARDs fail ->
+  anti-TNF; exclude TB first
+- MTX neutropenic sepsis ->
+  folinic acid, not folic acid
+- AS: 16-40, >80% before 30;
+  HLA-B27 best test; MRI key
+- Gout: negative, needles
+- Pseudogout: positive, rhomboid
+- No urate-lowering in acute gout
+- SLE: CRP normal even in flare;
+  low C3/C4; HCQ for all
+- Lupus nephritis -> IV pulse
+  methylprednisolone
+- Anti-Ro/La -> heart block
+- Anti-centromere = limited
+- Anti-Scl-70 = diffuse
+- Renal crisis -> ACEi
+- Anti-U1-RNP = MCTD
+- Anti-Jo-1 = antisynthetase
+- Relapse = high CK;
+  steroid myopathy = normal CK
+- PMR: CK normal; 10-15% GCA
+- T-score <= -2.5 = osteoporosis
+- Treat -1 to -2.5 if 10-yr
+  femoral neck risk > 3%
+- Bisphosphonate: upright 30 min,
+  max 5 years
+- Septic: >50,000; Staph aureus
+- Paget's = isolated high ALP
+- Osteomalacia = Looser's zones
+
+
+
+Sources: MED_RHEUMATO.pdf,
+RHEUMATO_3dd079cc723e8097b85ec6ed
+82216cec.html, MED_EXAMPLES.docx
+
+Gaps:
+- Lyme/post-viral arthritis: no detail
+- GCA/Takayasu: named only
