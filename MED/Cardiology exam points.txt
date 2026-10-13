@@ -1,0 +1,980 @@
+CARDIOLOGY RAPID REVIEW
+=======================
+
+
+1. HYPERTENSION
+---
+DIAGNOSIS
+
+Office BP >= 140/90
+  |
+  v
+Confirm out-of-office (preferred)
+  |
+  +-- Home >= 135/85 -> HTN
+  |
+  +-- 24h ABPM >= 130/80 -> HTN
+  |     day   >= 135/85
+  |     night >= 120/70
+  |
+  +-- Clinic high, but home <135/85
+  |   or ABPM <130/80
+  |     -> WHITE-COAT
+  |
+  +-- Clinic <140/90, but home
+      >=135/85 or ABPM >=130/80
+        -> MASKED
+        (suspect if organ damage)
+
+Elevated BP (2024 ESC, new):
+  office 120-139 / 70-89
+ABPM = best CV prognosis predictor
+Orthostatic hypotension:
+  drop >20 sys or >10 dia
+  (check at 1 and 3 min standing)
+Arm diff >10 sys -> use higher arm
+---
+SECONDARY HTN
+
+Suspect if:
+  young onset (<30 y)
+  RENAL = most common cause
+  |
+  +-- HTN + low K -> RAS, Conn's,
+  |                  Cushing
+  +-- Episodic headache, sweat,
+  |   palpitations -> phaeo
+  +-- Radio-femoral delay, rib
+  |   notching -> coarctation
+  +-- Kidney size diff >1.5 cm
+      -> RAS
+---
+DRUG TREATMENT
+
+2 drugs: A + C (or A + D)
+  |  not controlled
+  v
+A + C + D
+  |  not controlled
+  v
+add SPIRONOLACTONE
+  (= resistant HTN pathway)
+
+Never ACEI + ARB
+Monotherapy only if:
+  SBP <150 + low CV risk
+  high-normal BP + very high risk
+  very elderly
+Beta-blocker only if: angina,
+  post-MI, HF, rate control
+ACEI cough ~15% -> switch to ARB
+Isolated systolic HTN -> CCB
+TARGET <130/80
+  preferred 120-129 / 70-79
+Salt <5 g/day; exercise
+  >=150 min/week
+---
+RESISTANT HTN
+
+Target not reached on 3 drugs
+(incl diuretic)
+  |
+  v
+Commonest pseudo-cause:
+  POOR ADHERENCE
+  |
+  v
+Look for secondary cause
+  |
+  v
+Add spironolactone
+---
+CRISES
+
+BP >180/110
+  |
+  +-- acute organ damage
+  |     -> EMERGENCY
+  |     IV: nitroprusside, GTN,
+  |         labetalol
+  |     MAP down 25% or DBP
+  |     100-110 in 1-2 h
+  |     Encephalopathy/ICH:
+  |       nitroprusside
+  |
+  +-- no organ damage
+        -> URGENCY
+        oral; MAP down 25%
+        over hours to days
+
+MAP = DBP + 1/3 (SBP - DBP)
+PP  = SBP - DBP
+---
+PREGNANCY HTN
+
+Safe: labetalol, ER nifedipine,
+      methyldopa
+Avoid: ACEI, ARB
+---
+KEITH-WAGENER-BARKER
+
+Gr 1: thickening, tortuosity,
+      silver wiring
+Gr 2: + AV nipping
+Gr 3: + flame haemorrhage,
+        cotton wool spots
+Gr 4: + papilloedema
+        (malignant HTN)
+
+
+
+2. ISCHAEMIC HEART DISEASE / ACS
+---
+STABLE ANGINA vs ACS
+
+Stable:
+  mature plaque, thick cap
+  70-80% narrowing
+  collaterals present
+  pain on exertion only
+  relieved by rest / GTN
+ACS:
+  young plaque, thin cap
+  -> rupture -> thrombus
+  no collaterals
+  pain at rest
+  not relieved by rest / GTN
+---
+ACS PATHWAY
+
+Acute chest pain
+(ACS until proven otherwise)
+  |
+  v
+ECG within 10 min of FMC
+(first ECG normal -> repeat)
+  |
+  +-- ST elevation / new LBBB
+  |     -> STEMI (100% occlusion)
+  |
+  +-- no ST elevation
+        |
+        v
+      Troponin
+        +-- positive -> NSTEMI
+        +-- negative -> Unstable
+                        angina
+
+Don't miss: aortic dissection,
+oesophageal rupture
+(antithrombotics -> fatal bleed)
+
+Immediate drugs:
+  aspirin 300 mg
+  clopidogrel 300 mg
+  atorvastatin 80 mg
+  IV morphine ~5 mg
+  IV metoclopramide 10 mg
+Ticagrelor/prasugrel more
+  effective (in Sri Lanka now)
+O2 only if SpO2 <90%
+---
+STEMI ECG
+
+Evolution:
+  hyperacute T -> ST up (convex)
+  -> Q waves -> T inversion
+
+Criteria (>=2 consecutive leads):
+  chest leads: >=2 small squares
+  limb leads:  >=1 small square
+
+Leads -> artery:
+  V1-V4      antero-septal -> LAD
+  II,III,aVF inferior -> RCA
+  I, aVL     lateral -> LCx
+  tall R + ST down V1-V2
+             posterior -> LCx/RCA
+             confirm V7-V9 ST up
+  ST up aVR + widespread ST down
+             left main/prox LAD
+
+STEMI equivalent (aVR up + down
+elsewhere) -> urgent angio + PCI,
+NOT lysis
+Isolated ST up aVR -> not lysis
+Posterior MI: 15-20% of STEMIs
+  needs emergency reperfusion
+
+Other ST up causes: Prinzmetal,
+  pericarditis, early repol, LBBB,
+  LVH, LV aneurysm, raised ICP,
+  V pacing, Takotsubo
+---
+REPERFUSION
+
+STEMI
+  |
+  v
+Can PCI be done in <=120 min
+from FMC?
+  |
+  +-- YES -> PRIMARY PCI
+  |
+  +-- NO  -> FIBRINOLYSIS
+        (onset <12 h, ST changes
+         present; needle <30 min,
+         ideally <10)
+        |
+        v
+      ECG at 60-90 min
+        +-- >=50% ST resolution
+        |     -> success
+        +-- failed -> RESCUE PCI
+
+Raised troponin alone is NOT an
+indication for lysis
+Reperfusion arrhythmias = good sign
+---
+FIBRINOLYTICS
+
+Tenecteplase (preferred,
+  fibrin-specific), bolus by wt:
+  <60 kg    30 mg
+  60-69 kg  35 mg
+  70-79 kg  40 mg
+  80-89 kg  45 mg
+  >=90 kg   50 mg
+Streptokinase:
+  1.5 million units in 100 mL NS
+  IV over 1 h
+  non-fibrin-specific
+  antibodies with repeat use
+
+Contraindications:
+  prior intracranial haemorrhage
+  ischaemic stroke in last 3 mo
+  structural cerebral vascular
+    lesion (e.g. AVM)
+  malignant intracranial tumour
+  aortic dissection
+  active bleeding
+
+SK hypotension:
+  mild (140/90 -> 105/65)
+    -> foot of bed up, slow drip
+  severe (-> 70/50)
+    -> STOP, saline bolus,
+       inotropes
+---
+NSTEMI / UA
+
+NO thrombolysis
+Enoxaparin 1 mg/kg SC BD
+  NSTEMI: 72 h
+  UA: 48-72 h
+Enoxaparin > heparin
+  (lower HIT risk)
+DAPT: aspirin + clopidogrel
+---
+POST-MI DRUGS
+
+Aspirin 75-100 mg lifelong
+Clopidogrel 75 mg >=1 year
+Beta-blocker (HR >=60,
+  SBP >=100); avoid propranolol
+ACEI
+Statin even if LDL normal
+LDL target <70 mg/dL
+  (aggressive <50-55)
+No routine antiarrhythmics
+---
+BIOMARKERS
+
+Marker       Rise    Peak  Normal
+Troponin
+ conv        ~6 h    n/s   ~10 d
+ hs          ~2 h    n/s   -
+CK-MB        4-6 h   12-24h 72 h
+Myoglobin    1-3 h   6-9 h 24-36 h
+
+hs-TnI: on arrival, repeat 1 h
+  (or 2 h)
+Troponin also up in CKD,
+  non-cardiac surgery
+REINFARCTION -> use CK-MB
+---
+COMPLICATIONS
+
+Post-MI
+  |
+  +-- Arrhythmia
+  |     ventricular = commonest
+  |     VF = major cause of death
+  +-- Inferior MI -> heart block
+  |     atropine up to 3 mg
+  |     -> temporary pacemaker
+  +-- Papillary muscle rupture
+  |     (2-7 d) -> MR
+  +-- Pericarditis
+  |     fibrinous 1-4 days
+  |     Dressler: weeks-months
+  +-- LV aneurysm
+  |     persistent ST up + Q
+  |     -> mural thrombus
+  +-- RV infarct (inferior MI)
+        low BP + high JVP
+        + clear lungs
+        -> V3R/V4R -> IV fluids
+
+ACS + HF/shock -> urgent
+  angio + PCI
+Stunning: recovers spontaneously
+Hibernating: recovers with
+  timely revascularisation
+---
+STABLE ANGINA
+
+Antianginals:
+  nitrates (GTN mainly down
+    preload; no PDE5 inhibitors)
+  beta-blocker
+  CCB
+NEVER beta-blocker + non-DHP CCB
+Aspirin reduces events
+Triple vessel / diabetic /
+  left main -> CABG preferred
+Prinzmetal: transient ST up
+  -> CCB + nitrates
+Stress test:
+  horizontal/down ST down =
+    ischaemia
+  upsloping ST down can be normal
+
+
+
+3. HEART FAILURE
+---
+CLASSIFICATION
+
+HFrEF   EF <40%
+HFmrEF  EF 40-49%
+HFpEF   EF >=50%
+
+Left HF: dyspnoea, orthopnoea,
+  PND, crepitations
+Right HF: high JVP, tender
+  hepatomegaly, ascites, oedema
+S3 = classic sign
+Commonest cause of death:
+  arrhythmias
+Cor pulmonale: RAD, RVH +/- RBBB
+  CO2 retention -> warm
+  peripheries, bounding pulse
+---
+DIAGNOSIS
+
+BNP / NT-proBNP (preferred)
+  >300; >1000 in acute HF
+  best test: HF vs asthma
+CXR progression:
+  upper lobe diversion
+  -> Kerley B
+  -> bat wing
+  -> snowstorm
+---
+ACUTE PULMONARY OEDEMA
+
+Sit upright; O2 if SpO2 <90%
+  |
+  v
+IV furosemide 40-120 mg
+(rapid venodilation)
+  |  still dyspnoeic
+  v
+IV GTN (if BP normal/high)
+  |  not responding, falling
+  v  sats
+CPAP / BiPAP
+
+Cardiogenic shock (low BP):
+  HOLD furosemide + GTN
+  -> dobutamine
+---
+CHRONIC HFrEF
+
+ACEI (or ARNI) + beta-blocker
+(carvedilol, bisoprolol,
+ metoprolol)
+  |  uptitrate to max tolerated
+  v
+still symptomatic + EF <=35%
+  -> add SPIRONOLACTONE
+  |
+  v
+still symptomatic + EF <35%
+  +-- ivabradine (sinus rhythm,
+  |    HR >70)
+  +-- CRT (sinus rhythm,
+  |    QRS >130 ms, esp LBBB)
+  +-- ARNI
+
+No mortality benefit:
+  furosemide, digoxin
+Digoxin: HF + AF
+Avoid: NSAIDs, verapamil
+High-output HF: anaemia,
+  thyrotoxicosis, wet beriberi,
+  Paget's, AV malformation,
+  pregnancy, septic shock
+
+
+
+4. VALVULAR DISEASE & CARDIOMYOPATHY
+---
+MURMURS
+
+MS
+  mid-diastolic rumble
+  + presystolic accentuation
+  loud S1, opening snap
+  tapping apex, not displaced
+  almost always rheumatic
+  ECG: P mitrale
+MR
+  pansystolic, apex -> axilla
+  apex displaced, hyperdynamic
+  repair > replacement
+AS
+  ejection systolic, aortic
+  area -> carotids
+  slow-rising pulse
+  heaving apex, not displaced
+  triad: dyspnoea, syncope,
+         angina
+AR
+  early diastolic, LLSE
+  leaning forward, expiration
+  collapsing pulse
+  Austin Flint (apex)
+  Marfan, syphilis
+TR
+  pansystolic, LLSE
+  up on inspiration
+  CV waves, pulsatile liver
+  IVDU endocarditis
+MVP
+  mid-systolic click
+  + late systolic murmur
+  Marfan
+---
+MS DETAILS
+
+Normal valve area 4-6 cm2
+AF -> presystolic accentuation
+  lost
+Calcified valve -> opening snap
+  lost
+PTMC contraindicated if:
+  significant MR
+  calcified valve
+  LA thrombus
+Graham Steell = pulmonary
+  regurgitation (pulm HTN)
+Lutembacher = MS + ASD
+Pregnancy: avoid ergometrine
+---
+AS DETAILS
+
+Severe AS:
+  valve area <1 cm2
+  narrow / reverse split S2
+  narrow pulse pressure, S4
+  -> AVR if symptomatic + severe
+Aortic sclerosis:
+  no carotid radiation
+  normal pulse volume
+Pulsus bisferiens = AS + AR
+---
+S2 SPLITTING
+
+Wide        RBBB, ASD, pulm
+            stenosis (delayed P2)
+Wide fixed  ASD
+Narrow      AS (delayed A2)
+Reverse     severe AS (A2 after P2)
+---
+MANOEUVRES
+
+            Right  Left   HOCM
+Inspiration  up    down    -
+Expiration   down  up      -
+Valsalva     down  down    UP
+                   (incl AS)
+---
+CARDIOMYOPATHY
+
+Dilated: alcoholics; chronic MR
+HOCM: S4, jerky pulse, double
+  apex, sudden death risk
+  -> beta-blockers
+Restrictive: amyloidosis,
+  sarcoidosis
+
+
+
+5. CONGENITAL HEART DISEASE
+---
+LESIONS
+
+VSD
+  pansystolic LLSE
+  no increase on inspiration
+  highest IE risk
+ASD (secundum ~80%)
+  wide fixed split S2
+  RAD + incomplete RBBB
+TOF
+  PS + RVH + VSD + overriding
+  aorta
+  boot-shaped heart, soft P2
+  tet spell -> knee-chest
+Eisenmenger
+  shunt reversal
+  loud P2, NO defect murmur
+  differential cyanosis (PDA)
+  pregnancy = absolute CI
+TGA   -> egg on a string
+TAPVR -> snowman
+Coarctation
+  rib notching, figure-of-3
+  radio-femoral delay; Turner
+Ebstein
+  low tricuspid valve
+  wide-split S1, TR
+
+Paediatric murmurs:
+  ejection systolic: above
+    nipple line
+  pansystolic: below nipple line
+
+
+
+6. ATRIAL FIBRILLATION
+---
+FEATURES
+
+Atria ~300/min
+No P waves
+Irregularly irregular
+Pulse deficit
+Absent A wave in JVP
+Types:
+  paroxysmal  <7 d (usually
+              <48 h)
+  persistent  >7 d
+  permanent
+---
+STRATEGY
+
+Rate control
+  (>65 y, IHD)
+  non-DHP CCB or beta-blocker
+  digoxin if HF
+Rhythm control
+  (<65 y, symptomatic, first
+   episode, HF)
+  DC cardioversion
+  amiodarone, flecainide,
+  sotalol
+
+Onset >48 h or unknown
+  |
+  v
+Anticoagulate 3 weeks
+  OR TEE to exclude thrombus
+  |
+  v
+Cardiovert
+---
+ANTICOAGULATION
+
+AF
+  |
+  +-- Valvular
+  |   (rheumatic MS or
+  |    prosthetic valve)
+  |     -> WARFARIN
+  |     AS + AF is NOT valvular
+  |
+  +-- Non-valvular
+        -> CHA2DS2-VASc
+        male   >=2 treat; 1 consider
+        female >=3 treat; 2 consider
+        DOACs preferred
+
+CHA2DS2-VASc points:
+  1 each: CHF, HTN, diabetes,
+    vascular disease, age 65-74,
+    female
+  2 each: age >=75, prior
+    stroke/TIA
+
+
+
+7. CONDUCTION, ECG & ARRHYTHMIA
+---
+HEART BLOCK
+
+1st      PR >200 ms
+Mobitz I progressive PR
+         lengthening -> dropped QRS
+Mobitz II sudden dropped QRS
+3rd      complete AV dissociation
+         cannon A waves
+         variable S1
+---
+BUNDLE BRANCH BLOCK
+
+LBBB = WiLLiaM
+  W in V1, M in V6
+RBBB = MaRRoW
+  M in V1, W in V6
+---
+HYPERTROPHY
+
+LVH: systemic HTN
+  S(V1) + R(V6) > 35 mm
+  QRS voltage up, duration
+  unchanged
+RVH: pulmonary HTN
+  tall R V1
+  T inversion V1-V2
+  deep S V6, RAD
+---
+QT / PRE-EXCITATION
+
+QT normal 0.4-0.44 s
+Low Mg -> long QT -> VF
+WPW: short PR + delta wave
+Brugada: RBBB-like ST -> ICD
+---
+SVT
+
+Regular narrow-complex
+tachycardia
+  |
+  v
+Stable?
+  +-- NO -> synchronised
+  |         cardioversion
+  +-- YES
+        |
+        v
+      Valsalva
+        |  fails
+        v
+      Carotid massage
+      (right first, 5 sec)
+        |  fails
+        v
+      Adenosine IV
+      6 -> 12 -> 12 mg
+      (1-2 min apart)
+
+Asthma -> IV verapamil
+  instead of adenosine
+---
+BROAD COMPLEX TACHYCARDIA
+
+QRS >120 ms, HR >100
+VT favoured by:
+  QRS >160 ms
+  extreme axis
+  AV dissociation
+  capture / fusion beats
+Unstable -> DC cardioversion
+---
+ALS
+
+Compression:ventilation = 30:2
+  |
+  +-- Shockable
+  |     amiodarone 300 mg after
+  |     3rd shock, 150 mg
+  |     after 5th
+  +-- Non-shockable
+        adrenaline ASAP, then
+        every 3-5 min
+Reversible causes:
+  4H: hypoxia, hypovolaemia,
+      hypo/hyperK, hypothermia
+  4T: thrombosis, tension
+      pneumothorax, tamponade,
+      toxins
+---
+JVP
+
+Absent Y descent -> tamponade
+Steep X and Y -> constriction
+Non-pulsatile raised -> SVC
+  obstruction
+Exertional LOC: ECG first
+  -> if normal, 2D echo
+  (e.g. HOCM)
+
+
+
+8. INFECTIVE ENDOCARDITIS
+---
+DUKE (DEFINITE)
+
+2 major
+OR 1 major + 3 minor
+OR 5 minor
+
+Major:
+  blood cultures
+    typical organism x2
+    OR >=2 positive >12 h apart
+    OR majority of >=4 (first
+       and last >=1 h apart)
+    Coxiella phase I IgG >1:800
+  echo
+    vegetation, abscess, new
+    prosthetic dehiscence,
+    new regurgitation
+Minor:
+  predisposition
+  fever >=38 C
+  vascular phenomena
+  immunological phenomena
+  microbiology not meeting major
+---
+ORGANISMS
+
+Strep viridans
+  most common overall; dental
+Staph aureus
+  increasing; lines, dialysis,
+  IVDU (tricuspid)
+Strep bovis -> bowel cancer
+Enterococcus -> GU/GI
+Prosthetic valve:
+  early (<=6 wk): S. aureus,
+    S. epidermidis
+  late: Strep viridans
+---
+CLINICAL
+
+Triad: fever, murmur, stroke
+Osler (tender, finger pads)
+Janeway (palms/soles)
+Roth spots, splinters,
+clubbing, splenomegaly
+GN -> low complement
+---
+INVESTIGATE & TREAT
+
+3 blood culture sets, 3 sites
+  BEFORE antibiotics
+  (positive ~90%)
+  not very ill -> can wait
+  2-3 days
+TEE = best
+  |
+  v
+IV antibiotics 4-6 weeks
+  standard:   benzylpenicillin
+              + gentamicin
+  MRSA:       vancomycin
+              + gentamicin
+              (red man syndrome)
+  MSSA:       flucloxacillin
+              + gentamicin
+  Enterococcus: amoxicillin or
+              ampicillin
+              + gentamicin
+Gentamicin: single daily dose;
+  hydrate; levels not routine
+  in Sri Lanka
+---
+SURGERY
+
+Severe HF
+Failed medical treatment
+Large vegetation + embolisation
+Abscess / heart block
+Persistent fever
+---
+PROPHYLAXIS
+
+High-risk only:
+  unrepaired cyanotic CHD
+  prosthetic valve
+  previous IE
+  cardiac transplant
+Amoxicillin 2 g oral, 1 h before
+Penicillin allergy:
+  clindamycin 600 mg
+  or azithromycin 500 mg
+
+
+
+9. RHEUMATIC FEVER
+---
+PATHOGENESIS
+
+Group A Strep pharyngitis
+  |
+  v
+Molecular mimicry
+(Type II hypersensitivity)
+  |
+  v
+"Licks the joints,
+ bites the heart"
+Commonest sequela: MS
+Subcutaneous nodules ->
+  more severe cardiac disease
+---
+JONES 2015
+
+Evidence of GAS infection
+PLUS 2 major
+ OR 1 major + 2 minor
+
+                Low-risk  High-risk
+                          (Sri Lanka)
+Arthritis       poly only mono/poly
+                          or polyarthralgia
+Fever           >=38.5 C  >=38 C
+ESR             >=60      >=30
+CRP             >=3.0     >=3.0 mg/dL
+---
+TREATMENT
+
+Acute attack
+  NSAID / aspirin (taper slowly)
+  steroids only if severe
+    carditis or carditis + CHF
+  chorea: valproate or
+    phenobarbital
+---
+SECONDARY PROPHYLAXIS
+
+Benzathine penicillin
+1.2 million units IM q3 weeks
+
+Duration:
+  carditis + significant
+    residual disease
+    -> min 10 y or until 40-45
+       (often lifelong)
+  carditis + no/mild residual
+    -> 10 y or until 25
+       (whichever longer)
+  no carditis
+    -> 5 y or until 18-21
+       (whichever longer)
+
+
+
+10. PERICARDIUM, AORTA & SHOCK
+---
+PERICARDIAL DISEASE
+
+Pericarditis
+  sharp pain, better leaning
+  forward
+  global concave ST up
+  (not aVR, V1)
+  PR depression = most specific
+Tamponade
+  low BP, high JVP, muffled
+  sounds, absent Y, pulsus
+  paradoxus, low voltage ECG
+  -> pericardiocentesis
+Constrictive
+  prominent Y descent
+  normal echo/CXR possible
+---
+AORTIC DISSECTION
+
+Tearing pain -> back
+Unequal arm BP
+  |
+  v
+Stanford
+  A (ascending) -> surgery
+  B (descending) -> conservative
+IV beta-blocker for immediate
+  BP control
+---
+OTHER
+
+Absent unilateral radial pulse:
+  Takayasu, atherosclerosis,
+  dissection, subclavian steal
+Shock:
+  cardiogenic -> cold
+  septic -> warm
+Blood loss (early):
+  diastolic BP up ~10%
+  HR up ~20%
+  systolic BP down ~30%
+Kawasaki: coronary arteritis
+  -> IVIG
+
+
+
+11. CASE EXAMPLES
+---
+Prisoner, fever, lung abscesses,
+pansystolic murmur LSE
+  -> right-sided IE
+     (TR -> septic emboli)
+
+Stroke + low fever + apical
+mid-diastolic murmur + LA mass
+  -> atrial myxoma (mimics MS)
+
+MS + AF on warfarin, INR 0.9,
+stroke
+  -> embolic stroke
+Mechanical valve INR 2-3
+
+BP 220/120, palpitations, sweat
+  -> phaeo (MEN2A)
+
+On amlodipine, BP 170, ankle
+swelling
+  -> add hydrochlorothiazide
+
+BP 230/130 + MAHA, scleroderma
+  -> ACE inhibitor
+
+
+
+12. HIGH-YIELD POINTS
+---
+BP cut-offs: 140/90 office,
+  135/85 home, 130/80 ABPM
+HTN: 2 drugs (ACEI/ARB + CCB)
+  -> thiazide -> spironolactone
+STEMI: ECG 10 min; PCI if
+  <=120 min else lysis (<12 h)
+Lysis CI: ischaemic stroke
+  within 3 months
+aVR equivalent -> PCI, not lysis
+Reinfarction -> CK-MB
+RV infarct -> fluids
+HFrEF: ACEI + BB -> MRA (EF
+  <=35%) -> ivabradine/CRT/ARNI
+MS: AF abolishes presystolic
+  accentuation
+Valsalva: all down except HOCM
+IE: cultures first; TEE best
+RF: benzathine pen 1.2 MU q3 wk
+AF: valvular -> warfarin
+  non-valvular -> CHA2DS2-VASc
