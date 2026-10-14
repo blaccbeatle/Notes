@@ -1,7 +1,6 @@
 TOXICOLOGY: CONSOLIDATED FLOWCHARTS
 ===================================
-https://docs.google.com/document/d/1cXcgcw_wLYgWi2Ii3DFIVf9_APwL8WDS4GcWSZPDmOw/edit?usp=sharing
-
+https://docs.google.com/document/d/1tnHIotzMbr4L98NJrFy7hyi1bUh8Fzemfq7EYdTULU8/edit?usp=drivesdk
 
 GENERAL POISONING
 
