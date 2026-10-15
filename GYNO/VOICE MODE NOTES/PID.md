@@ -1,250 +1,326 @@
-```
-PID: CONSOLIDATED FLOWCHARTS
-===========================
+PID REVIEW FLOWCHARTS
+======================
 
-PATHOGENESIS
+DEFINITION AND PATHOPHYSIOLOGY
+-------------------------------
 
-Infection in vagina
+VAGINA (unsterile)
   |
   v
-Cervix (cervicitis)
+CERVIX
   |
   v
-Endometrium (endometritis)
+ENDOMETRIUM
   |
   v
-Fallopian tubes (salpingitis)
+FALLOPIAN TUBE
   |
   v
-Ovaries (oophoritis)
-  |
-  v
-Tubo-ovarian abscess
-  |
-  v
-Peritoneum (peritonitis)
+PERITONEAL CAVITY
 
 ---
 
-Why this is possible:
-Tract is open from vagina
-straight to peritoneum
+STAGE NAMES
+
+cervix      -> cervicitis
+endometrium -> endometritis
+tube        -> salpingitis
+ovary       -> oophoritis
+tube+ovary  -> tubo-ovarian abscess
+peritoneum  -> peritonitis
 
 
 
 DEFENSES AND RISK FACTORS
+--------------------------
 
-6 natural defenses:
-  - acidic vaginal pH (~4)
-  - normally closed cervix
-  - cervical mucous plug
-  - IgA in cervical mucus
-  - intact hymen
-  - downward ciliary movement
+NATURAL DEFENSES
+
+vaginal pH ~4 (acidic)
   |
-  v
-Breached by:
+closed cervix
+  |
+mucous plug seals os
+  |
+IgA in cervical mucus
+  |
+intact hymen
+  |
+downward ciliary movement
 
 ---
 
-Mechanical / obstetric:
-  - instrumentation
-    (D&C, HSG, biopsy)
-  - IUCD
-  - pregnancy, delivery,
-    abortion
+WHEN DEFENSES BREAK DOWN
 
----
+instrumentation (D&C, HSG,
+  biopsy, abortion)
+     |
+     v
+breach of cervix / mucous
+plug
 
-Infective / host:
-  - STIs
-  - immunosuppression
+IUCD thread
+     |
+     v
+allows ascent
 
----
+broad-spectrum antibiotics
+     |
+     v
+kill lactobacilli
+     |
+     v
+pH rises
+     |
+     v
+loss of acid barrier
 
-Drug effect:
-  Broad-spectrum antibiotics
-  |
-  v
-  Kill lactobacilli
-  |
-  v
-  Vaginal pH rises
-  |
-  v
-  Ascent easier
+STIs / multiple partners
+immunosuppression (HIV)
+     |
+     v
+direct infection risk
 
 
 
 CLINICAL PICTURE
+------------------
 
-PID
+ACUTE PID
+
+sudden onset
   |
-  +-- ACUTE
-  |     sudden pain
-  |     purulent discharge
-  |     fever, sepsis signs
-  |     dyspareunia
-  |     cervical motion
-  |     tenderness (classic)
+  v
+abdo pain, discharge,
+fever, dyspareunia
   |
-  +-- CHRONIC
-        follows unresolved
-        acute disease
-        ill-looking, malnourished
-        chronic pelvic pain
-        back pain
-        subfertility
-        menorrhagia
+  v
+exam: fever >38, tender/
+rigid abdomen
+  |
+  v
+bimanual: cervical motion
+tenderness
 
 ---
 
-Untreated / unresolved
+CHRONIC PID
+
+unresolved acute PID
   |
   v
-Adhesions + fibrosis
+ill, malnourished
   |
   v
-Tubal occlusion
+chronic pain, back pain,
+deep dyspareunia,
+menorrhagia, subfertility
+
+---
+
+CHRONIC COMPLICATIONS
+
+inflammation (repeated)
   |
-  +-> subfertility
-  +-> chronic pain
-  +-> ectopic risk
+  v
+adhesions + fibrosis
+  |
+  v
+tubal narrowing/occlusion
+  |
+  v
+subfertility, chronic
+pain, ectopic risk
 
 ---
 
 PID vs ENDOMETRIOSIS
 
-Same complications, but:
-  PID = infection-triggered
-  Endo = menstruation-triggered
+PID trigger
+  = infection
+
+ENDOMETRIOSIS trigger
+  = menstruation
+
+shared outcome
+  = adhesions, pain,
+    fibrosis, tubal
+    occlusion, subfertility
 
 
 
 CAUSES AND DIAGNOSIS
+----------------------
 
-Main organisms:
-  Neisseria gonorrhoeae
-  Chlamydia trachomatis
+MAIN ORGANISMS
 
-Others:
-  Gardnerella, Mycoplasma,
-  TB, E. coli, etc.
+most common:
+  N. gonorrhoeae
+  C. trachomatis
 
----
-
-Differentials:
-  - appendicitis
-  - ectopic pregnancy
-  - twisted ovarian cyst
-  - septic abortion
-  - pyelonephritis
-
----
-
-Investigations:
-
-Blood
-  +-- acute: WBC up, CRP up
-  +-- chronic: ESR up
-Urine culture
-PCR / NAAT
-Ultrasound
-  |
-  v
-Unclear or needs sampling?
-  |
-  v
-Laparoscopy
-(gold standard: direct
-visualization + sampling)
-
-
-
-MANAGEMENT
-
-Suspected PID
-  |
-  v
-Septic?
-  |-- yes -> resuscitate first
-  |
-  v
-Start empirical broad-
-spectrum antibiotics NOW
-  |
-  v
-Severity?
-  |
-  +-- MILD (outpatient)
-  |     ceftriaxone IM,
-  |       single dose
-  |     + doxycycline 14 days
-  |     +/- metronidazole
-  |
-  +-- SEVERE (inpatient)
-        IV ceftriaxone
-        + doxycycline
-        +/- metronidazole
-        |
-        v
-        Beta-lactam allergy?
-        yes -> clindamycin
-               + gentamicin
+less common:
+  Gardnerella vaginalis
+  Mycoplasma hominis
+  M. tuberculosis
+  E. coli
+  H. influenzae
+  Group B Strep
+  Pneumococci
 
 ---
 
-Abscess or adhesions?
-  |
-  +-- abscess -> US-guided
-  |              aspiration
-  |
-  +-- laparoscopy/laparotomy
-      for drainage or
-      adhesiolysis
+DIFFERENTIAL DIAGNOSIS
+
+PID mimics:
+  appendicitis
+  ectopic pregnancy
+  twisted ovarian cyst
+  septic abortion
+  pyelonephritis
 
 ---
 
-Follow-up:
-  Day 3: review
-  |
-  v
-  Weeks 4-6: reassess
-  (include partner treatment)
+INVESTIGATIONS
+
+blood: WBC up, CRP up
+  (acute), ESR up (chronic)
+     |
+urine: rule out UTI
+     |
+PCR/NAAT: gonorrhea,
+  chlamydia
+     |
+ultrasound: masses,
+  abscess, free fluid
+     |
+     v
+GOLD STANDARD: laparoscopy
+  (direct view + sampling)
 
 
 
-HORMONAL NOTE AND ENDOMETRIOSIS THERAPY
+TREATMENT
+-----------
 
-Progesterone
+IF SEPTIC
+
+resuscitate first
   |
   v
-Inhibits proliferation
-+ maintains blood flow
+IV fluids + analgesia
   |
   v
-Endometrium stabilized
-  |
-  v
-No shedding
-  |
-  v
-Less bleeding,
-inflammation, adhesions
+start broad-spectrum
+antibiotics empirically
+(do not wait for results)
 
 ---
 
-Endometriosis therapy:
-choose by patient profile
-  |
-  +-- GnRH analogs
-  |     effective
-  |     limit: 6 months or
-  |     less (side effects)
-  |
-  +-- Danazol
-        androgenic effects
-        are irreversible
-        used locally for deep
-        infiltrating disease
-```
+ADMISSION DECISION
+
+severe / sepsis / TOA /
+failed outpatient tx /
+unclear surgical dx
+     |
+     v
+INPATIENT
+
+mild, no sepsis
+     |
+     v
+OUTPATIENT
+
+---
+
+OUTPATIENT REGIMEN
+
+ceftriaxone 250-500mg IM
+  single dose
+     +
+doxycycline 100mg PO BD
+  x14 days
+     +/-
+metronidazole 500mg PO BD
+  x14 days
+
+alt: ofloxacin +
+  metronidazole
+chlamydia only: doxy
+  7-14d or azithro 1g stat
+gonorrhea only: ceftriaxone
+  single dose
+
+---
+
+INPATIENT REGIMEN
+
+ceftriaxone 1-2g IV daily
+     +
+doxycycline 100mg IV/PO BD
+     +/-
+metronidazole
+
+beta-lactam allergy:
+  clindamycin + gentamicin
+
+---
+
+SURGICAL OPTIONS
+
+laparoscopy / laparotomy
+  -> drainage, adhesiolysis
+
+tubo-ovarian abscess
+  -> US-guided aspiration
+
+---
+
+FOLLOW-UP
+
+day 3
+  -> check improvement
+
+week 4-6
+  -> check response,
+     compliance, partner
+     screening/treatment
+
+
+
+HORMONAL AND ENDOMETRIOSIS NOTE
+---------------------------------
+
+PROGESTERONE EFFECT
+
+inhibits proliferation
+     +
+maintains blood flow
+     |
+     v
+no necrosis/shedding
+     |
+     v
+no bleeding
+     |
+     v
+no inflammation
+     |
+     v
+fewer adhesions, less pain
+
+---
+
+ENDOMETRIOSIS THERAPY CHOICE
+
+GnRH analogs
+  -> effective
+  -> limit: <=6 months
+     (postmenopausal
+     side effects)
+
+danazol
+  -> irreversible androgenic
+     effects (hirsutism,
+     voice change)
+  -> used locally for deep
+     infiltrating disease
