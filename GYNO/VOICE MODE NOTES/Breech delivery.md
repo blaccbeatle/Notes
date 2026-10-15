@@ -1,464 +1,354 @@
-BREECH PRESENTATION - FLOWCHARTS
-=================================
+BREECH PRESENTATION
+====================
 
 
-PART 1 - INCIDENCE AND NATURAL HISTORY
+INCIDENCE
+---
 
-EARLY PREGNANCY
-  baby small, space ample
-        |
-        v
-  moves freely -> breech common
-        |
-        v
-  32-36 weeks: baby grows
-        |
-        v
-  less room to turn
-        |
-        v
-  TERM (37+ wks)
-  ~95% cephalic / ~3-5% breech
-
-WHY CEPHALIC WINS AT TERM
-  bottom = bulky but soft
-     -> fits roomy fundus
-  head = heavy and firm
-     -> fits narrow lower segment
+28 wks
+  |
+  v
+20-30% breech
+  |
+  v
+advancing gestation
+  |
+  v
+term (37+ wks)
+  |
+  v
+3-4% breech
 
 ---
 
-RECURRENCE
-  prior breech --> ~10% recur risk
+previous breech
+  |
+  v
+recurrence ~10%
+
+
+
+TYPES OF BREECH
+---
+
+longitudinal lie
+  |
+  v
+hips flexed, knees extended
+  |
+  v
+FRANK / EXTENDED
+(most common)
 
 ---
 
-PRETERM PARADOX
-  head relatively large
-        |
-        v
-  more freedom to move around
-        |
-        v
-  but head may settle in fundus
-        |
-        v
-  baby stuck breech
-
-
-
-PART 2 - RISK FACTORS FOR PERSISTENT BREECH
-
-MATERNAL / UTERINE BLOCKERS
-  placenta previa
-  lower segment fibroid
-  uterine anomaly (uni/bicornuate,
-  septate)
-        |
-        v
-  blocks head engaging low
-        |
-        v
-  baby stays breech
+longitudinal lie
+  |
+  v
+hips + knees flexed
+  |
+  v
+COMPLETE / FLEXED
+(easiest vaginal delivery)
 
 ---
 
-FLUID PROBLEMS (opposite causes,
-same result)
-  POLYHYDRAMNIOS
-    excess fluid -> baby swims
-    freely -> unstable lie
-  OLIGOHYDRAMNIOS
-    low fluid -> cannot turn
-    -> stuck in place
-        |
-        v
-  both can end in breech
-  (oligo also harder for ECV)
+longitudinal lie
+  |
+  v
+leg/foot presents first
+  |
+  v
+FOOTLING
+  |
+  v
+high cord prolapse risk
+  |
+  v
+prefer caesarean
+
+
+
+CAUSES / RISK FACTORS
+---
+
+placental / fluid
+  |
+  +-- placenta praevia
+  +-- polyhydramnios
+  +-- oligohydramnios
 
 ---
 
-FETAL FACTORS
-  Down syndrome -> hypotonia
-     -> too weak to turn
-  Hydrocephalus -> big head
-     -> cannot engage lower seg
-  Also: neuromuscular disease,
-  anencephaly, NTDs, osteogenesis
-  imperfecta, idiopathic
-
-
-
-PART 3 - TYPES AND DIAGNOSIS
-
-TYPES (longitudinal lie)
-  FRANK (extended)
-     hips flexed, knees extended
-     most common
-  COMPLETE (flexed)
-     hips + knees flexed
-     "sitting" position
-  FOOTLING
-     leg/foot presents first
-        |
-        v
-  footling -> highest cord
-  prolapse risk -> prefer CS
+uterine
+  |
+  +-- fibroid (lower segment)
+  +-- anomaly (uni/bicornuate, septate)
+  +-- multiparity (lax uterus)
 
 ---
 
-VAGINAL DELIVERY EASE
-  complete -> easiest
-     (legs visible, just pull)
-  frank -> harder
-     (legs splinted up by head)
-  footling -> usually CS
-     (cord prolapse risk)
+fetal
+  |
+  +-- anencephaly / NTD
+  +-- Down syndrome (hypotonia)
+  +-- hydrocephalus
+  +-- osteogenesis imperfecta
 
 ---
 
-DIAGNOSIS SEQUENCE
-  HISTORY
-    risk factors + fundal
-    fullness + low kicks
-        |
-        v
-  ABDOMINAL PALPATION
-    head = hard, round, ballotable
-           (floats in fundus)
-    breech = soft, irregular
-           (lower pole)
-        |
-        v
-  ULTRASOUND (confirms)
-    upper vs lower pole
-    + exact type (frank/
-      complete/footling)
+none of above
+  |
+  v
+idiopathic (>50%)
 
 
 
-PART 4 - MANAGEMENT OVERVIEW
+DIAGNOSIS
+---
 
-WHERE TO DELIVER
-  tertiary centre needs:
-    OT + emergency CS
-    anaesthesia
-    ICU
-    neonatal resus
-    blood bank
-        |
-        v
-  reason: cord prolapse alone
-  can require ALL of these
+abdominal palpation
+  |
+  +-- fundus: hard, round, ballotable
+  |         |
+  |         v
+  |       HEAD
+  |
+  +-- pelvis: soft, irregular
+            |
+            v
+          BREECH
+  |
+  v
+suspect breech
+  |
+  v
+ultrasound
+  |
+  +-- confirms pole
+  +-- confirms type
+  +-- excludes praevia
+
+
+
+WHERE / WHEN / HOW
+---
+
+where to deliver
+  |
+  v
+tertiary centre
+  |
+  +-- theatre + emergency CS
+  +-- anaesthesia
+  +-- ICU
+  +-- neonatal resus
+  +-- blood bank
 
 ---
 
-WHEN TO DELIVER
-  elective CS -> 39 weeks
-     (fetal death risk rises
-      after 39 wks in breech)
-  vaginal -> depends on labour
-     onset + other factors
+when to deliver
+  |
+  v
+mode of delivery?
+  |
+  +-- CS -> elective at 39 wks
+  |         (risk of fetal death
+  |          rises after 39 wks)
+  |
+  +-- vaginal -> depends on labour onset
 
 ---
 
-HOW TO DELIVER (3 options)
-  1. assisted vaginal breech
-     (trained clinician,
-      higher complication risk)
-  2. caesarean section
-     (fewer breech complications,
-      own surgical risks)
-  3. ECV
-     (turn baby first, then
-      normal cephalic delivery)
+how to deliver
+  |
+  v
+ECV --------> success --> cephalic vaginal
+  |
+  +-- fail --> vaginal breech OR caesarean
 
----
+
 
 EVIDENCE
-  TERM BREECH TRIAL
-    cephalic vaginal   ~1/1000
-    planned CS breech  ~0.5/1000
-    planned vag breech ~2/1000
-        |
-        v
-    recommend: avoid planned
-    vaginal breech
-        |
-        v
-  PREMODA STUDY (later)
-    selective vaginal breech
-    + average size baby
-    + experienced staff
-    + no stargazer head
-        |
-        v
-    mortality ~1/1000, similar
-    to planned CS
+---
 
-
-
-PART 5 - ECV: TIMING, SUCCESS, CONTRAINDICATIONS
-
-TIMING WINDOW
-  before 36 wks
-    -> high spontaneous turn
-       risk / preterm CS risk
-  36-37 wks = IDEAL
-  after 37-38 wks
-    -> low fluid, engaged,
-       harder to turn
-  upper limit: 40 wks / labour
-
-  primipara  -> 36 wks
-  multipara  -> 37 wks
-    (lax uterus, engages later)
+Term Breech Trial
+  |
+  +-- cephalic vaginal   ~1/1000
+  +-- planned CS breech  ~0.5/1000
+  +-- planned vaginal    ~2/1000
+  |
+  v
+avoid planned vaginal breech
 
 ---
 
-SUCCESS RATES
-  overall success      ~50%
-  revert after success  ~5%
-  turn after failure     ~5%
+PREMODA (later study)
+  |
+  v
+criteria met?
+  |
+  +-- avg size
+  +-- experienced staff
+  +-- no stargazer head
+  |
+  v
+selective vaginal breech safe
+(~1/1000, same as CS)
 
-  FAVOURS SUCCESS
-    non-engaged breech
-    average fetal size
-    non-obese mother
-    posterior placenta
-    flexed/complete breech
+
+
+ECV - TIMING AND SUCCESS
+---
+
+gestation
+  |
+  +-- <36 wks --> too early, high spontaneous
+  |               turn, preterm CS risk if
+  |               complication
+  |
+  +-- 36-37 wks --> IDEAL WINDOW
+  |               primip: 36 wks
+  |               multip: 37 wks
+  |
+  +-- >37-38 wks --> fluid reduced, baby
+                      bigger, may be engaged
 
 ---
 
-CONTRAINDICATIONS
-  ABSOLUTE
-    twins
-    ruptured membranes
-    placenta previa
-    previous classical CS
-  RELATIVE
-    oligohydramnios
-    IUGR / pre-eclampsia
+ECV attempted
+  |
+  +-- success (~50%)
+  |     |
+  |     v
+  |   5% revert to breech
+  |
+  +-- fail
+        |
+        v
+      5% turn cephalic anyway
 
-  RUPTURED MEMBRANES LOGIC
-    fluid cushion drains
-        |
-        v
-    lower pole empties
-        |
-        v
-    cord can descend
-    (same as footling risk)
+
+
+ECV - FAVOURABLE FACTORS
+---
+
+favours success
+  |
+  +-- non-engaged breech
+  +-- posterior placenta
+  +-- flexed/complete breech
+  +-- average fetal size
+  +-- AFI >10 / non-obese mother
+
+
+
+ECV - CONTRAINDICATIONS
+---
+
+absolute
+  |
+  +-- twins
+  +-- ruptured membranes
+  +-- placenta praevia
+  +-- previous classical CS
 
 ---
 
-SPECIAL CASES
-  Rh-negative, not sensitised
-    -> ECV ok + give RhoGAM
-  Rh-negative, sensitised
-    -> ECV contraindicated
-  HIV -> not a contraindication
-
-
-
-PART 6 - ECV COMPLICATIONS, PROCEDURE, POST-FAILURE
-
-COMPLICATIONS
-  fetal distress (compression)
-  membrane rupture + cord
-    prolapse (pole empties)
-  placental abruption
-    (blunt force)
-  uterine rupture (slight rise,
-    even without scar)
-  fetomaternal haemorrhage
+relative
+  |
+  +-- oligohydramnios
+  +-- IUGR
+  +-- pre-eclampsia / eclampsia
 
 ---
 
-PROCEDURE FLOW
-  consent + explain risks
-        |
-        v
-  CTG pre-ECV (must be reactive)
-        |
-        v
-  pain -> analgesia (pethidine)
-  contraction -> tocolytic
-    (terbutaline 250mcg SC,
-     or IV salbutamol)
-        |
-        v
-  perform ECV
-        |
-        v
-  CTG immediate
-        |
-        v
-  fast 2 hours
-        |
-        v
-  CTG repeat at 2 hrs
-        |
-        v
-  both reactive -> eat + discharge
-  fails -> plan elective CS
+Rh status
+  |
+  +-- Rh-neg, unsensitised --> ECV ok + anti-D
+  +-- Rh-neg, sensitised   --> ECV contraindicated
+
+
+
+ECV - PROCEDURE
+---
+
+pre-procedure
+  |
+  +-- consent (written)
+  +-- CTG must be reactive
+  +-- fasting: RCOG says not needed
 
 ---
 
-IF ECV FAILS
-  elective CS at 39 wks
-    (not earlier: risk of
-     transient tachypnoea)
-        |
-        v
-  OPTION B (documented):
-    labour starts early
-    -> discuss vaginal breech
-       vs CS preference
-
-
-
-PART 7 - CHOOSING VAGINAL BREECH AND NEVER-PULL RULE
-
-PRE-DECISION ULTRASOUND
-  placenta previa?  -> excl.
-  type footling?     -> excl.
-  weight >3.5kg or
-         <2kg?        -> excl.
-  head extended
-   ("stargazer")?     -> excl.
-        |
-        v
-  all clear -> clinical
-  pelvimetry (check inlet,
-  mid-cavity, outlet)
-        |
-        v
-  discuss + consent -> proceed
+during procedure
+  |
+  +-- pain --> analgesia (pethidine)
+  +-- contractions --> tocolytic
+                        (terbutaline 250mcg SC
+                         or IV salbutamol)
 
 ---
 
-WHY BOTH EXTREMES ARE RISKY
-  BIG BABY (>3.5kg)
-    body+head hard to fit
-    -> obstruction risk
-  SMALL BABY (<2kg)
-    body delivers before
-    cervix fully dilated
-    -> head gets trapped
+post-procedure
+  |
+  v
+CTG immediate
+  |
+  v
+fast 2 hrs
+  |
+  v
+repeat CTG at 2 hrs
+  |
+  +-- both reactive --> eat, discharge
+  |
+  +-- fail --> elective CS at 39 wks
+               (not earlier - transient
+                tachypnoea risk)
+
+
+
+VAGINAL BREECH - SELECTION
+---
+
+pre-decision USS
+  |
+  +-- placenta praevia? --> excludes
+  +-- footling type? --> excludes
+  +-- EFW >3.5kg or <2kg? --> excludes
+  +-- head extended (stargazer)? --> excludes
+  |
+  v
+all clear
+  |
+  v
+clinical pelvimetry
+  |
+  v
+consent
+  |
+  v
+proceed vaginal breech
 
 ---
 
-WHEN VAGINAL IS THE PATH ANYWAY
-  full dilatation already
-  half of breech delivered
-  mother refuses CS
-        |
-        v
-  advanced labour: CS now
-  carries HIGHER morbidity
-  than continuing vaginal
+proceed regardless if
+  |
+  +-- full dilatation on admission
+  +-- half breech already delivered
+  +-- mother refuses CS
 
+
+
+DELIVERY TECHNIQUE - NEVER PULL
 ---
 
-NEVER PULL RULE
-  pulling baby/head
-        |
-        v
-  increases presenting
-  diameter
-        |
-        v
-  blocks pelvic entry
-        |
-        v
-  head extends
-        |
-        v
-  obstructed labour
-
-
-
-PART 8 - MANOEUVRES AND COMPLICATIONS
-
-MASTERLY INACTIVE
-  hands off EXCEPT 3 points:
-    sacrum seen    -> legs
-    scapula seen   -> hands
-    hairline seen  -> head
-
----
-
-LEG DELIVERY
-  flexed leg
-    -> pull, hang by gravity
-       (towel vs hypothermia)
-  extended leg
-    -> PINARD manoeuvre
-       finger to popliteal fossa
-       -> flexes knee + hip
-       -> pull
-       (repeat other leg)
-
----
-
-ARM DELIVERY
-  flexed arm
-    -> finger to axilla
-       -> windscreen wiper
-          across chest
-  extended arm
-    -> LOVSET manoeuvre
-       turn 90 deg (sacro-lateral)
-            |
-            v
-       lift body, posterior
-       arm descends
-            |
-            v
-       turn 180 deg, deliver
-       new anterior arm
-            |
-            v
-       repeat opposite side
-
----
-
-HEAD DELIVERY
-  cue: nape/hairline visible
-        |
-        v
-  MAURICEAU-SMELLIE-VEIT
-    right hand: chin + forehead
-      (keeps head flexed)
-    left hand: shoulders +
-      occiput (supports spine)
-        |
-        v
-    flex + pull together
-
-  ALTERNATIVE: Piper forceps
-  AVOID: Burns-Marshall
-    (swing body over abdomen
-     -> hyperextension ->
-     cervical spine / brachial
-     plexus injury)
-
----
-
-COMPLICATIONS SUMMARY
-  fractures (humerus, femur,
-    cervical spine)
-  spinal cord / nerve injury
-  visceral injury (perinephric
-    haemorrhage, liver lac.)
-  head entrapment
-    (soft breech delivers,
-     firm head gets stuck)
-  brachial plexus injury
-    (Erb's / Klumpke's)
-        |
-        v
-  LINK: Lovset's rotation +
-  traction stretches nerves
-  at neck-shoulder junction
+masterly inactive
+  |
+  v
+watch for landmarks
+  |
+  +-- sacrum visible --> deliver legs
+  +-- scapula border visible --> deliver hands
+  +-- nape
