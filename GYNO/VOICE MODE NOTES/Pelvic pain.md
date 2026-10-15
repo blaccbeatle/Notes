@@ -1,221 +1,232 @@
-PELVIC PAIN NOTES
-=================
+GYNAE PELVIC PAIN REVIEW
+========================
 
 
-OBSTETRICS VS GYNAECOLOGY
 
-Women's health
+GYNAE VS OBSTETRICS
+
+Normal pregnancy + birth
   |
-  |-> normal physiology
-  |     (pregnancy, birth)
-  |     -> OBSTETRICS
-  |
-  |-> deviation = pathology
-        -> GYNAECOLOGY
+  v
+Physiology -> OBSTETRICS
 
 ---
 
-Examples
-
-Failure to conceive
-  -> subfertility -> gynae
-
-Normal bleeding -> physiology
-
-Too much / too little bleeding
-  -> pathology -> gynae
+Deviation from normal
+  |
+  v
+Pathology -> GYNAE
 
 ---
+
+Gynae examples:
+  - Failure to conceive
+    (subfertility)
+  - Too much bleeding
+  - Too little bleeding
+
 
 
 WHY EVERY PERIOD HURTS
 
-Endometrium
+Endometrium ischaemic
   |
   v
-ischemia
+Necrosis -> shedding
   |
   v
-necrotic changes -> shed
+Inflammation
   |
   v
-inflammation
-  |
-  v
-prostaglandins
+PROSTAGLANDINS
   |
   v
 PAIN
 
 ---
 
-Normal pain
-  every woman has some
-  varies with pain tolerance
-
-Exaggerated pain
-  severe, no clear mechanism
-  still no pathology
-
----
+Some pain = normal
+Perception varies with
+pain tolerance
+Severe pain with no
+disease = still possible
 
 
-DYSMENORRHEA
+
+DYSMENORRHOEA
 
 Exaggerated period pain
-that affects quality of life
+that hurts quality of life
   |
-  v
-Which type?
+  +-- no disease
+  |     |
+  |     v
+  |   PRIMARY
+  |   starts with bleeding
+  |   ends when it stops
   |
-  |-> PRIMARY
-  |     exaggerated physiology
-  |     no disease
-  |     starts with bleeding
-  |     ends when bleeding stops
-  |
-  |-> SECONDARY
-        underlying pelvic disease
-        starts before, with
-        or after period
-        may last 1-2 days after
+  +-- pelvic disease
+        |
+        v
+      SECONDARY
 
 ---
 
-Causes of secondary
+SECONDARY CAUSES
 
-  endometriosis
-  adenomyosis
-  PID
-  pelvic congestion syndrome
+  - Endometriosis
+  - Adenomyosis
+  - PID
+  - Pelvic congestion
+
+Timing: before, with or
+after period; may last
+1-2 days after it stops
 
 ---
 
 KEY RULE
-Pain confined to the period
+
+Pain confined to the
+period only
+  |
+  v
 Between periods
-  -> NOT dysmenorrhea
+= NOT dysmenorrhoea
+
+---
+
+(ADD) Treat primary with
+NSAIDs or hormonal
+contraception
 
 
-CHRONIC PELVIC PAIN (CPP)
+
+CHRONIC PELVIC PAIN
 
 Pelvic pain > 6 months
   |
   v
-Patterns
-  |-> continuous (all day)
-  |-> intermittent (comes, goes)
-  |-> cyclical (worse in menses)
-  |-> non-cyclical (no link)
+Pattern?
+  |
+  +-- Continuous
+  +-- Intermittent
+  +-- Cyclical
+  +-- Non-cyclical
 
 ---
 
-Main cause of cyclical CPP
-  -> pelvic congestion syndrome
+CYCLICAL -> pelvic
+congestion syndrome
+
+NON-CYCLICAL -> see
+last topics
+
 
 
 PELVIC CONGESTION SYNDROME
 
-Anatomy
-  |
-  |-> LEFT ovarian vein
-  |     -> left renal vein
-  |     right angle
-  |     HIGH risk of incompetence
-  |
-  |-> RIGHT ovarian vein
-        -> IVC
-        oblique angle
-        LOWER risk
-
----
-
-Mechanism
-
-venous incompetence
+Venous incompetence
   |
   v
-blood congests around ovary
+Blood pools around ovary
   |
   v
 PAIN
-  |
-  v
-worse in menses
-(more pelvic blood flow)
-
-Left side more common
-Right side can occur
 
 ---
 
-Clinical clue
+WHY LEFT SIDE MORE
 
-Standing
-  -> more congestion
-  -> pain WORSE
-
-Lying down
-  -> better venous return
-  -> pain BETTER
-
-
-NON-CYCLICAL CPP
-
-Pain between periods
-(intermittent or continuous)
+Left ovarian vein
   |
   v
-Causes
+Left renal vein
+(RIGHT angle)
   |
-  |-> PID
-  |     infection, inflammation,
-  |     edema
+  v
+High risk of failure
+
+Right ovarian vein
+  |
+  v
+IVC (OBLIQUE)
+  |
+  v
+Lower risk
+
+---
+
+CLINICAL CLUES
+
+  - Worse in menses
+    (more pelvic flow)
+  - Worse standing
+  - Better lying down
+
+---
+
+(ADD) Confirm with
+pelvic venous imaging:
+Doppler US, CT or MR
+venography
+
+
+
+NON-CYCLICAL CPP CAUSES
+
+Pain between periods
+(intermittent or
+continuous)
+  |
+  v
+Cause?
+  |
+  +-- PID
+  |     infection, oedema
   |     may worsen in menses
   |
-  |-> adhesions
+  +-- Adhesions
   |     post-infection
   |     post-surgery
   |
-  |-> nerve entrapment
+  +-- Nerve entrapment
   |
-  |-> inflammatory bowel disease
+  +-- IBD
+
+---
+
+  +-- IBS
+  |     pain after eating
   |
-  |-> IBS
-  |     pain often after eating
+  +-- Psychological
+  |     no organic cause
+  |     diagnosis of
+  |     exclusion
   |
-  |-> psychological
-  |     no organic pathology
-  |     pain still real
-  |
-  |-> bladder pain syndrome
-        bladder pain, dysuria,
-        urgency
+  +-- Bladder pain syndrome
+        bladder pain
+        dysuria, urgency
         cause unknown
 
+
+
+LAST-MINUTE CONTRASTS
+
+Pain timing?
+  |
+  +-- Only during period
+  |     |
+  |     v
+  |   SECONDARY
+  |   DYSMENORRHOEA
+  |
+  +-- Also between periods
+        |
+        v
+      NON-CYCLICAL CPP
+
 ---
 
-Contrast
-
-Secondary dysmenorrhea
-  -> pain mostly in the period
-
-Non-cyclical pain
-  -> also between periods
-
-All CPP forms
-  -> reduce quality of life
-
----
-
-ADDITION (not in your notes)
-
-Sri Lankan practice:
-before labelling pain
-"psychological"
-  |
-  v
-screen for STI
-  |
-  v
-pelvic ultrasound
+All CPP forms hurt
+quality of life
