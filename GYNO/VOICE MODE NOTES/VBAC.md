@@ -1,12 +1,11 @@
-VBAC FLOWCHARTS
-===============
+VBAC EXAM FLOWCHARTS
+====================
 
 
+BASICS AND CS BACKGROUND
 
-BASICS
-
-VBAC = vaginal birth after
-caesarean
+VBAC = vaginal birth after CS
+(trial of scar / trial of labour)
   |
   v
 Goal: fewer repeat CS,
@@ -15,49 +14,33 @@ positive birth experience
 
 ---
 
-Layers cut (outside to in):
-  skin
-   |
-   v
-  subcutaneous tissue
-   |
-   v
-  rectus sheath
-   |
-   v
-  peritoneum
-   |
-   v
-  visceral peritoneum
-   |
-   v
-  uterus
-   |
-   v
-  amniotic membrane
+Layers cut (repair = reverse):
 
-Repair = reverse order:
-uterus > peritoneum > rectus
-sheath > fat > skin
+skin ->
+subcut tissue ->
+rectus sheath ->
+peritoneum ->
+visceral peritoneum ->
+uterus ->
+amniotic membrane
 
 ---
 
-Indications (common to less):
-  1. fetal distress
-  2. previous CS
-  3. placenta previa
-  4. lower segment fibroid
-  5. heart disease / pulm HTN
-  6. HIV (some cases)
-  7. maternal request
+Indications (commonest first):
 
-Heart disease
+fetal distress
   |
-  v
-cannot strain safely
+previous CS
   |
-  v
-CS avoids pushing stage
+placenta previa
+  |
+lower segment fibroid
+  |
+severe heart disease / PHT
+  |
+HIV (some cases)
+  |
+maternal request
 
 
 
@@ -65,16 +48,16 @@ TYPES AND COMPLICATIONS
 
 Which incision?
   |
-  +-- LOWER (preferred)
-  |     forms after ~28 wks
+  +-- LOWER SEGMENT (preferred)
+  |     forms after 28 wks
   |     fibrous, few vessels
   |     less bleeding
   |     rupture ~0.5% (1:200)
   |
-  +-- UPPER (classical)
-        more muscle, bleeding
+  +-- UPPER / CLASSICAL
+        more muscle + bleeding
         rupture ~5% (10x)
-        no VBAC after it
+        NO VBAC
 
 ---
 
@@ -85,149 +68,139 @@ Upper segment used when:
   +-- lower segment problem
         bladder adhesion
         lower fibroid
-        previa low down
+        previa
 
 ---
 
 Complications:
   |
   +-- immediate
-  |     bleeding, pain,
-  |     anaesthesia, organ injury
+  |     bleeding, pain
+  |     anaesthetic problems
+  |     bladder/bowel injury
   |
   +-- intermediate
-  |     infection, endometriosis,
-  |     repeat admissions
+  |     infection
+  |     endometriosis
+  |     readmission
   |
-  +-- long term
-        hernia, higher risk
-        with each repeat CS
+  +-- long-term
+        hernia
+        risk up with repeats
 
 ---
 
-Previa chain:
-placenta previa
+Previa over scar
   |
   v
-morbidly adherent placenta
-over scar
+adherent placenta
   |
   v
 massive bleeding
   |
   v
-often hysterectomy
+hysterectomy
 
-Sri Lanka: limit ~3 CS
-Key strategy: cut primary CS
+---
+
+Sri Lanka: max 3 CS
+Key strategy: reduce
+primary CS
 
 
 
 ANTENATAL CARE
 
-Previous CS
-  |
-  v
-high risk: previa and
-adherent placenta
-  |
-  v
-routine care + special
-attention
+Previous CS = high risk of
+previa + adherent placenta
 
 ---
 
-20 wks: scan, locate placenta
+20 wk scan: locate placenta
   |
   +-- upper segment
-  |     reassuring
+  |     -> reassuring
   |
   +-- low
         |
         v
-      32 wks: transvaginal scan
+      repeat TVS at 32 wk
         |
-        +-- moved up
-        |     no previa
+        +-- moved up -> OK
         |
         +-- still low
               |
               v
-            PLACENTA PREVIA
+            PREVIA
+              |
+              v
+            colour Doppler
+            (MRI if difficult,
+             e.g. posterior)
 
 ---
 
-Previa confirmed
-  |
-  v
-Colour Doppler
-(MRI if difficult)
-  |
-  v
-look for: turbulent flow,
-bridging vessels, invasion
-  |
-  +-- accreta: adheres
-  +-- increta: into myometrium
-  +-- percreta: through wall,
-      e.g. into bladder
+Adherence signs:
+  turbulent flow
+  bridging vessels
+  myometrial/bladder invasion
 
 ---
 
-Previa scan schedule:
-seen at 16 wks
-  |
-  v
-repeat 28, 32, 36 wks
-  |
-  v
-persistent at 32/36 wks
-= bleeding risk
-  |
-  v
-by 36 wks: decide VBAC or
-repeat CS (individualised)
+Accreta spectrum:
+  accreta = adherent
+  increta = into myometrium
+  percreta = through wall
+            (e.g. bladder)
+
+---
+
+By 36 wks:
+decide VBAC or repeat CS
+(individualised, no strict rule)
 
 
 
 MODE OF DELIVERY
 
-VBAC success
+Success rate
   |
-  +-- overall: ~75%
+  +-- overall ~75%
   |
-  +-- prior vaginal birth: ~90%
+  +-- prior vaginal birth ~90%
 
 ---
 
-Favourable:
+FAVOURABLE
   prior vaginal birth
-  non-recurring CS reason
-    (distress, breech)
-  younger age
-  smaller baby
-  head engaged
+  non-recurring indication
+    (fetal distress, breech)
+  young age
+  small baby
+  engaged head
   spontaneous labour
 
 ---
 
-Unfavourable:
-  recurring CS reason
+UNFAVOURABLE
+  recurring indication
     (CPD, uterine anomaly)
   age 40+
   large baby
+  obesity
   induction
 
 ---
 
 Timing:
-VBAC planned
+
+planning VBAC
   |
   v
-can wait up to 40 wks
+wait up to 40 wks
   |
   v
-past 39 wks: IUD risk up
+past 39 wks = IUD risk up
   |
   v
 not in labour?
@@ -237,175 +210,154 @@ consider planned CS
 
 ---
 
-Overall:
-weigh factors
+Upper segment placenta
++ good factors
   |
   v
-discuss with patient
+trial of VBAC possible
+
+Previa / adherent
   |
-  +-- upper placenta +
-  |   favourable factors
-  |     -> trial of VBAC
-  |
-  +-- previa / adherence
-        -> planned CS,
-           team care
+  v
+planned CS + team care
 
 
 
 BENEFITS AND RISKS
 
-VBAC
-  |
-  +-- benefits
-  |     no surgery
-  |     home next day
-  |     future vaginal births
-  |     less baby breathing
-  |     problems
-  |     no family size limit
-  |     lower maternal morbidity
-  |
-  +-- risks
-        rupture ~0.5%
-        emergency CS
-        instruments ~39%
-        (vs 10-15%)
-        sphincter damage, tears
-        transfusion, bleeding
-        endometritis
+VBAC BENEFITS
+  avoids surgery
+  discharge next day
+    (CS: 2-3 days)
+  future vaginal birth
+  no family size limit
+  less neonatal RDS
+    (labour stress ->
+     glucocorticoids ->
+     surfactant)
+  lower maternal morbidity
 
 ---
 
-Baby's lungs:
-labour stress
-  |
-  v
-glucocorticoids
-  |
-  v
-more surfactant
-  |
-  v
-less respiratory distress
+REPEAT CS BENEFITS
+  planned
+  less transfusion
+  less endometritis
+  no rupture risk
+  protects pelvic floor
+  sterilisation possible
 
 ---
 
-Repeat CS
-  |
-  +-- benefits
-  |     planned date
-  |     less transfusion
-  |     less endometritis
-  |     no scar rupture
-  |     pelvic floor protected
-  |     sterilisation option
-  |
-  +-- risks
-        adhesions: bladder
-        or bowel organ injury
-        slow recovery
-        more future CS, previa,
-        adherent placenta, PPH
-        wound infection
-        spinal headache,
-        meningitis
+VBAC RISKS
+  rupture ~0.5%
+  emergency CS
+  instrumental ~39%
+    (vs 10-15%)
+  sphincter damage, tears
+  transfusion
+  endometritis
 
 ---
 
-Why endometritis differs:
-endometritis higher
-after vaginal birth
-  |
-  v
-so lower with repeat CS
+REPEAT CS RISKS
+  adhesions
+    -> bladder/bowel injury
+  long recovery
+  more previa, adherent
+    placenta, PPH
+  wound infection
+  anaesthetic problems
+    (spinal headache,
+     meningitis)
 
 
 
 CONTRAINDICATIONS
 
-VBAC candidate?
+Previous rupture?
   |
-  +-- previous rupture?
-  |     yes -> NO VBAC
+  yes -> NO VBAC
+
+Previous classical CS?
+(rupture 2-9%)
   |
-  +-- previous classical CS?
-  |     yes -> NO VBAC
-  |     (rupture risk 2-9%)
+  yes -> NO VBAC
+
+3+ previous CS?
   |
-  +-- 3 or more CS?
-  |     yes -> NO VBAC
-  |
-  +-- previa or lower/cervical
-  |   fibroid?
-  |     yes -> NO VBAC
-  |
-  +-- none of these
-        -> VBAC possible
+  yes -> NO VBAC
 
 ---
 
-Number of prior CS allowed:
+Number of previous CS
   |
-  +-- Sri Lanka: 1
+  +-- Sri Lanka: only 1
   |
-  +-- Western: 2
+  +-- West: up to 2
+
+---
+
+Other contraindications:
+  placenta previa
+  lower segment fibroid
+  cervical fibroid
 
 
 
 LABOUR MANAGEMENT
 
-VBAC labour = high risk
-  |
-  v
-close monitoring
-  |
-  v
-rupture suspected?
+High risk -> close monitoring
+(rupture = massive bleed,
+ death possible)
+
+---
+
+Suspected rupture
   |
   v
 immediate theatre
   |
-  +-- repair if possible
+  +-- repairable -> repair
   |
-  +-- hysterectomy if not
+  +-- not -> hysterectomy
 
 ---
 
-Induction:
+Induction
   |
-  +-- OK
-  |     artificial rupture of
-  |     membranes
-  |     Foley catheter
+  +-- OK: ARM, Foley
   |
-  +-- cautious
-  |     oxytocin
+  +-- NO: prostaglandins
+  |     (lyse scar)
   |
-  +-- AVOID
-        prostaglandins
-        (lyse scar)
+  +-- Oxytocin: caution
 
 ---
 
-Rupture signs:
+Rupture signs
+  FHR changes
+    (first + most consistent)
+  continuous pain / pain
+    between contractions
+  vaginal bleeding,
+    haematuria
+  palpable fetal parts
+  contractions stop
+  maternal tachycardia
+    -> shock
+  blood in liquor
+
+
+
+TOP 5 TO MEMORISE
+
+90% vs 75% success
   |
-  +-- FIRST: fetal heart rate
-  |   changes
+rupture 0.5% vs 5%
   |
-  +-- constant pain, or pain
-  |   between contractions
+no prostaglandins
   |
-  +-- bleeding, bloody
-  |   discharge, haematuria
+decide mode by 36 wks
   |
-  +-- easily felt fetal parts
-  |
-  +-- contractions stop
-  |
-  +-- maternal tachycardia
-  |     |
-  |     v
-  |   shock, collapse
-  |
-  +-- blood in amniotic fluid
+previa work-up: 20 + 32 wks
