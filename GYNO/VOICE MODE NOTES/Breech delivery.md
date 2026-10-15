@@ -1,175 +1,184 @@
+```
 BREECH PRESENTATION
 ===================
 
 
 
-1. INCIDENCE AND NATURAL HISTORY
+INCIDENCE AND NATURAL HISTORY
 
 28 weeks: ~20-30% breech
   |
+  | baby grows, space shrinks
   v
-Baby grows, space shrinks
+Soft buttocks fit roomy fundus
+Firm head fits narrow lower segment
   |
   v
-Most turn head-down (cephalic)
+Most turn cephalic
   |
   v
-Term: only ~3-4% still breech
+Term: ~3-4% still breech
+
 ---
-Why head-down wins:
-  buttocks (soft) -> roomy fundus
-  head (firm) -> narrow lower segment
----
+
 Recurrence after prior breech: ~10%
 
 
 
-2. RISK FACTORS FOR PERSISTENT BREECH
+RISK FACTORS FOR PERSISTENT BREECH
 
 Persistent breech
   |
-  +-- MATERNAL / UTERINE
+  +-- Maternal / uterine
   |     placenta previa
   |     lower segment fibroid
   |     uterine anomalies
   |     (all block head engagement)
   |
-  +-- FLUID
+  +-- Fluid abnormalities
   |     polyhydramnios -> free
   |       swimming, unstable lie
-  |     oligohydramnios -> cannot
-  |       turn, gets stuck
+  |     oligohydramnios -> restricted
+  |       turning, baby stuck
   |
-  +-- FETAL
-  |     neuromuscular problems
-  |     anencephaly
-  |     Down syndrome (hypotonia)
-  |     hydrocephalus (big head)
-  |     osteogenesis imperfecta
+  +-- Fetal
+        neuromuscular problems
+        anencephaly
+        Down syndrome (hypotonia)
+        hydrocephalus (big head)
+        osteogenesis imperfecta
+
+---
+
+Large share is idiopathic
+
+
+
+TYPES AND DIAGNOSIS
+
+Types
   |
-  +-- IDIOPATHIC
-        large share, no cause found
-
-
-
-3. TYPES AND DIAGNOSIS
-
-Breech types
-  |
-  +-- FRANK / EXTENDED
+  +-- Frank / extended
   |     legs straight up
   |     most common
   |
-  +-- COMPLETE / FLEXED
+  +-- Complete / flexed
   |     sitting position
   |     easiest vaginal delivery
   |
-  +-- FOOTLING
+  +-- Footling
         highest cord prolapse risk
         usually caesarean
+
 ---
+
 Diagnosis
-  |
-  v
+
 History
   |
   v
-Abdominal palpation
-  head: ballotable, at top
-  breech: soft, irregular, below
+Palpation
+  head ballotable at top
+  soft irregular breech below
   |
   v
 Ultrasound
-  confirms + gives exact type
+  confirms breech + type
 
 
 
-4. MANAGEMENT OVERVIEW
+MANAGEMENT OVERVIEW
 
 Three key questions
   |
-  +-- WHERE?
-  |     tertiary centre:
-  |       theatre, anaesthesia,
-  |       ICU, neonatal care,
-  |       blood bank
+  +-- WHERE
+  |     tertiary centre: theatre,
+  |     anaesthesia, ICU, neonatal
+  |     care, blood bank
   |
-  +-- WHEN?
+  +-- WHEN
   |     elective CS at 39 weeks
-  |     vaginal: timing varies
+  |     vaginal timing varies
   |
-  +-- HOW?
+  +-- HOW
         ECV
         caesarean
         assisted vaginal breech
+
 ---
+
 Evidence
+
+Term Breech Trial
+  vaginal ~4x mortality vs CS
   |
-  +-- Term Breech Trial
-  |     vaginal ~4x mortality
-  |     vs caesarean
-  |     -> planned vaginal
-  |        largely avoided
+  v
+Planned vaginal birth avoided
   |
-  +-- PREMODA
-        selective vaginal breech
-        (good size, experienced
-        staff, flexed head)
-        = similar outcomes to CS
+  v
+PREMODA
+  selective vaginal = similar
+  outcomes to CS if:
+    good size
+    experienced staff
+    flexed head
 
 
 
-5. ECV - TIMING, SUCCESS, CONTRAINDICATIONS
+ECV: TIMING AND SUITABILITY
 
-Ideal window: 36-37 weeks
+Ideal window 36-37 weeks
   primipara: 36
-  multipara: 37 (engages later)
----
-Outcomes
-  success ~50%
+  multipara: 37 (engage later)
+  |
+  v
+Success ~50%
   ~5% revert
-  ~5% turn on their own
-    after failure
+  ~5% turn after failed ECV
+
 ---
+
 Favourable factors
   non-engaged breech
   average size
   posterior placenta
   flexed breech
+
 ---
+
 Contraindications
   |
-  +-- ABSOLUTE
+  +-- Absolute
   |     twins
   |     ruptured membranes
   |     placenta previa
   |
-  +-- RELATIVE
+  +-- Relative
         oligohydramnios
         IUGR
         pre-eclampsia
+
 ---
-Rhesus status
-  |
-  +-- Rh negative
-  |     ECV ok, RhoGAM after
-  |
-  +-- already sensitised
-        no ECV
+
+Rh status
+  Rh-negative -> ECV ok,
+    give RhoGAM after
+  Already sensitised -> no ECV
 
 
 
-6. ECV - COMPLICATIONS, PROCEDURE, FAILURE
+ECV: COMPLICATIONS, PROCEDURE, FAILURE
 
 Complications
   fetal distress
   membrane rupture + cord prolapse
   amniotic fluid embolism (rare)
   uterine rupture (slight risk)
+
 ---
+
 Procedure
-  |
-  v
+
 Consent
   |
   v
@@ -178,107 +187,131 @@ Reactive CTG beforehand
   v
 Perform ECV
   |
-  v
-Contractions start?
-  |
-  +-- yes -> terbutaline or
-  |          salbutamol
-  |
-  +-- no -> continue
-  |
+  +-- contractions start?
+  |     -> terbutaline or
+  |        salbutamol
   v
 CTG for 2 hours after
+
 ---
-ECV fails
-  |
-  v
-Plan elective CS at 39 weeks
+
+If ECV fails
+
+Elective CS at 39 weeks
   (not earlier: respiratory
-  distress risk)
+   distress risk)
   |
   v
-Document "Option B" for
-  early labour
+Document "Option B"
+  for early labour
 
 
 
-7. CHOOSING VAGINAL BREECH DELIVERY
+CHOOSING VAGINAL BREECH DELIVERY
 
 Elective route
+
+Ultrasound
   |
   v
-Ultrasound: any of these?
+Exclude any of:
   placenta previa
   footling type
-  weight outside 2-3.5 kg
+  est. weight outside 2-3.5 kg
   extended "stargazer" head
   |
-  +-- yes -> caesarean
+  +-- any present -> caesarean
   |
-  +-- no
-        |
-        v
-      Clinical pelvimetry
-        |
-        v
-      Consent
-        |
-        v
-      Vaginal breech
+  v
+All clear
+  |
+  v
+Clinical pelvimetry
+  |
+  v
+Consent
+  |
+  v
+Plan vaginal breech
+
 ---
+
 Advanced labour route
-  full dilatation, or
-  partial delivery, or
-  mother refuses CS
+
+Full dilatation, OR
+partial delivery, OR
+maternal refusal of CS
+  |
+  v
+CS now has higher morbidity
   |
   v
 Vaginal breech
-  (CS now = higher morbidity)
+
 ---
+
 GOLDEN RULE: NEVER PULL
-  pull -> head extends
-       -> wider diameter
-       -> obstructed labour
+  |
+  v
+Pulling extends the head
+  |
+  v
+Bigger presenting diameter
+  |
+  v
+Obstructed labour
 
 
 
-8. ASSISTED DELIVERY MANOEUVRES
+ASSISTED DELIVERY AND COMPLICATIONS
 
-Philosophy: "masterly inactivity"
-  hands off, except at 3 landmarks
+Approach: "masterly inactivity"
+Hands off except at 3 landmarks
+
 ---
+
 Landmark 1: sacrum exposed
   |
   v
-LEGS
+Deliver LEGS
   gravity, or
   Pinard manoeuvre
-  |
-  v
+
+---
+
 Landmark 2: scapula visible
   |
   v
-ARMS
+Deliver ARMS
   windscreen-wiper, or
   Lovset manoeuvre
   (rotate, do not force)
-  |
-  v
-Landmark 3: nape/hairline visible
-  |
-  v
-HEAD
-  Mauriceau-Smellie-Veit
-    (preferred), or
-  Piper forceps
-  Burns-Marshall: discouraged
-    (hyperextension risk)
+
 ---
-Complications
-  (all from forceful traction)
+
+Landmark 3: nape / hairline visible
   |
-  +-- fractures
-  +-- nerve injury
-  |     incl. brachial plexus
-  +-- visceral injury
-  +-- head entrapment
+  v
+Deliver HEAD
+  |
+  +-- Mauriceau-Smellie-Veit
+  |     (preferred)
+  |
+  +-- Piper forceps
+  |
+  +-- Burns-Marshall
+        discouraged: risks
+        hyperextension
+
+---
+
+Complications
+  fractures
+  nerve injury (brachial plexus)
+  visceral injury
+  head entrapment
+  |
+  v
+All from forceful traction,
+not controlled assisted technique
+```
