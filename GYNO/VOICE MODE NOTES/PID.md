@@ -1,326 +1,232 @@
-PID REVIEW FLOWCHARTS
-======================
+GYNAE PELVIC PAIN REVIEW
+========================
 
-DEFINITION AND PATHOPHYSIOLOGY
--------------------------------
 
-VAGINA (unsterile)
+
+GYNAE VS OBSTETRICS
+
+Normal pregnancy + birth
   |
   v
-CERVIX
-  |
-  v
-ENDOMETRIUM
-  |
-  v
-FALLOPIAN TUBE
-  |
-  v
-PERITONEAL CAVITY
+Physiology -> OBSTETRICS
 
 ---
 
-STAGE NAMES
-
-cervix      -> cervicitis
-endometrium -> endometritis
-tube        -> salpingitis
-ovary       -> oophoritis
-tube+ovary  -> tubo-ovarian abscess
-peritoneum  -> peritonitis
-
-
-
-DEFENSES AND RISK FACTORS
---------------------------
-
-NATURAL DEFENSES
-
-vaginal pH ~4 (acidic)
-  |
-closed cervix
-  |
-mucous plug seals os
-  |
-IgA in cervical mucus
-  |
-intact hymen
-  |
-downward ciliary movement
-
----
-
-WHEN DEFENSES BREAK DOWN
-
-instrumentation (D&C, HSG,
-  biopsy, abortion)
-     |
-     v
-breach of cervix / mucous
-plug
-
-IUCD thread
-     |
-     v
-allows ascent
-
-broad-spectrum antibiotics
-     |
-     v
-kill lactobacilli
-     |
-     v
-pH rises
-     |
-     v
-loss of acid barrier
-
-STIs / multiple partners
-immunosuppression (HIV)
-     |
-     v
-direct infection risk
-
-
-
-CLINICAL PICTURE
-------------------
-
-ACUTE PID
-
-sudden onset
+Deviation from normal
   |
   v
-abdo pain, discharge,
-fever, dyspareunia
+Pathology -> GYNAE
+
+---
+
+Gynae examples:
+  - Failure to conceive
+    (subfertility)
+  - Too much bleeding
+  - Too little bleeding
+
+
+
+WHY EVERY PERIOD HURTS
+
+Endometrium ischaemic
   |
   v
-exam: fever >38, tender/
-rigid abdomen
+Necrosis -> shedding
   |
   v
-bimanual: cervical motion
-tenderness
-
----
-
-CHRONIC PID
-
-unresolved acute PID
+Inflammation
   |
   v
-ill, malnourished
+PROSTAGLANDINS
   |
   v
-chronic pain, back pain,
-deep dyspareunia,
-menorrhagia, subfertility
+PAIN
 
 ---
 
-CHRONIC COMPLICATIONS
+Some pain = normal
+Perception varies with
+pain tolerance
+Severe pain with no
+disease = still possible
 
-inflammation (repeated)
+
+
+DYSMENORRHOEA
+
+Exaggerated period pain
+that hurts quality of life
+  |
+  +-- no disease
+  |     |
+  |     v
+  |   PRIMARY
+  |   starts with bleeding
+  |   ends when it stops
+  |
+  +-- pelvic disease
+        |
+        v
+      SECONDARY
+
+---
+
+SECONDARY CAUSES
+
+  - Endometriosis
+  - Adenomyosis
+  - PID
+  - Pelvic congestion
+
+Timing: before, with or
+after period; may last
+1-2 days after it stops
+
+---
+
+KEY RULE
+
+Pain confined to the
+period only
   |
   v
-adhesions + fibrosis
+Between periods
+= NOT dysmenorrhoea
+
+---
+
+(ADD) Treat primary with
+NSAIDs or hormonal
+contraception
+
+
+
+CHRONIC PELVIC PAIN
+
+Pelvic pain > 6 months
   |
   v
-tubal narrowing/occlusion
+Pattern?
+  |
+  +-- Continuous
+  +-- Intermittent
+  +-- Cyclical
+  +-- Non-cyclical
+
+---
+
+CYCLICAL -> pelvic
+congestion syndrome
+
+NON-CYCLICAL -> see
+last topics
+
+
+
+PELVIC CONGESTION SYNDROME
+
+Venous incompetence
   |
   v
-subfertility, chronic
-pain, ectopic risk
-
----
-
-PID vs ENDOMETRIOSIS
-
-PID trigger
-  = infection
-
-ENDOMETRIOSIS trigger
-  = menstruation
-
-shared outcome
-  = adhesions, pain,
-    fibrosis, tubal
-    occlusion, subfertility
-
-
-
-CAUSES AND DIAGNOSIS
-----------------------
-
-MAIN ORGANISMS
-
-most common:
-  N. gonorrhoeae
-  C. trachomatis
-
-less common:
-  Gardnerella vaginalis
-  Mycoplasma hominis
-  M. tuberculosis
-  E. coli
-  H. influenzae
-  Group B Strep
-  Pneumococci
-
----
-
-DIFFERENTIAL DIAGNOSIS
-
-PID mimics:
-  appendicitis
-  ectopic pregnancy
-  twisted ovarian cyst
-  septic abortion
-  pyelonephritis
-
----
-
-INVESTIGATIONS
-
-blood: WBC up, CRP up
-  (acute), ESR up (chronic)
-     |
-urine: rule out UTI
-     |
-PCR/NAAT: gonorrhea,
-  chlamydia
-     |
-ultrasound: masses,
-  abscess, free fluid
-     |
-     v
-GOLD STANDARD: laparoscopy
-  (direct view + sampling)
-
-
-
-TREATMENT
------------
-
-IF SEPTIC
-
-resuscitate first
+Blood pools around ovary
   |
   v
-IV fluids + analgesia
+PAIN
+
+---
+
+WHY LEFT SIDE MORE
+
+Left ovarian vein
   |
   v
-start broad-spectrum
-antibiotics empirically
-(do not wait for results)
+Left renal vein
+(RIGHT angle)
+  |
+  v
+High risk of failure
+
+Right ovarian vein
+  |
+  v
+IVC (OBLIQUE)
+  |
+  v
+Lower risk
 
 ---
 
-ADMISSION DECISION
+CLINICAL CLUES
 
-severe / sepsis / TOA /
-failed outpatient tx /
-unclear surgical dx
-     |
-     v
-INPATIENT
-
-mild, no sepsis
-     |
-     v
-OUTPATIENT
+  - Worse in menses
+    (more pelvic flow)
+  - Worse standing
+  - Better lying down
 
 ---
 
-OUTPATIENT REGIMEN
+(ADD) Confirm with
+pelvic venous imaging:
+Doppler US, CT or MR
+venography
 
-ceftriaxone 250-500mg IM
-  single dose
-     +
-doxycycline 100mg PO BD
-  x14 days
-     +/-
-metronidazole 500mg PO BD
-  x14 days
 
-alt: ofloxacin +
-  metronidazole
-chlamydia only: doxy
-  7-14d or azithro 1g stat
-gonorrhea only: ceftriaxone
-  single dose
 
----
+NON-CYCLICAL CPP CAUSES
 
-INPATIENT REGIMEN
-
-ceftriaxone 1-2g IV daily
-     +
-doxycycline 100mg IV/PO BD
-     +/-
-metronidazole
-
-beta-lactam allergy:
-  clindamycin + gentamicin
+Pain between periods
+(intermittent or
+continuous)
+  |
+  v
+Cause?
+  |
+  +-- PID
+  |     infection, oedema
+  |     may worsen in menses
+  |
+  +-- Adhesions
+  |     post-infection
+  |     post-surgery
+  |
+  +-- Nerve entrapment
+  |
+  +-- IBD
 
 ---
 
-SURGICAL OPTIONS
-
-laparoscopy / laparotomy
-  -> drainage, adhesiolysis
-
-tubo-ovarian abscess
-  -> US-guided aspiration
-
----
-
-FOLLOW-UP
-
-day 3
-  -> check improvement
-
-week 4-6
-  -> check response,
-     compliance, partner
-     screening/treatment
+  +-- IBS
+  |     pain after eating
+  |
+  +-- Psychological
+  |     no organic cause
+  |     diagnosis of
+  |     exclusion
+  |
+  +-- Bladder pain syndrome
+        bladder pain
+        dysuria, urgency
+        cause unknown
 
 
 
-HORMONAL AND ENDOMETRIOSIS NOTE
----------------------------------
+LAST-MINUTE CONTRASTS
 
-PROGESTERONE EFFECT
-
-inhibits proliferation
-     +
-maintains blood flow
-     |
-     v
-no necrosis/shedding
-     |
-     v
-no bleeding
-     |
-     v
-no inflammation
-     |
-     v
-fewer adhesions, less pain
+Pain timing?
+  |
+  +-- Only during period
+  |     |
+  |     v
+  |   SECONDARY
+  |   DYSMENORRHOEA
+  |
+  +-- Also between periods
+        |
+        v
+      NON-CYCLICAL CPP
 
 ---
 
-ENDOMETRIOSIS THERAPY CHOICE
-
-GnRH analogs
-  -> effective
-  -> limit: <=6 months
-     (postmenopausal
-     side effects)
-
-danazol
-  -> irreversible androgenic
-     effects (hirsutism,
-     voice change)
-  -> used locally for deep
-     infiltrating disease
+All CPP forms hurt
+quality of life
