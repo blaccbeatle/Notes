@@ -1,263 +1,294 @@
-ENDOMETRIOSIS REVIEW
-====================
+ENDOMETRIOSIS RAPID REVIEW
+==========================
 
 
 
 NORMAL CYCLE
 
-Q: Why must blood supply drop
-   before shedding?
-
-Estrogen + progesterone fall
-  |
-  v
-Blood supply drops (ischaemia)
-  |
-  v
-Necrosis
-  |
-  v
-Shedding = period
+Uterine layers:
+  parametrium (outer)
+        |
+        v
+  myometrium (muscle)
+        |
+        v
+  endometrium (lining)
 
 ---
 
-Q: Shed tissue ends up elsewhere?
+Estrogen
+   |
+   v
+Proliferative phase (growth)
+   |
+   v
+Progesterone
+   |
+   v
+Secretory phase (secrete, blood)
+   |
+   v
+Hormones drop
+   |
+   v
+Ischaemia -> necrosis -> shedding
+   |
+   v
+Period (via cervix, vagina)
 
-Tissue lands outside uterus
-  |
-  v
-Still responds to hormones
-  |
-  v
+---
+
+Heavy loss -> anaemia
+  -> late heart failure
+
+
+
+ENDOMETRIOSIS
+
+Endometrial-like tissue
+OUTSIDE the cavity
+   |
+   v
+Same hormone response
+   |
+   v
+Proliferate -> secrete -> shed
+   |
+   v
 Cyclical bleeding + inflammation
-  |
-  v
-= ENDOMETRIOSIS
-
-
-
-WHAT ENDOMETRIOSIS IS
-
-Q: Cyclical painful defecation
-   + PR bleeding?
-
-Pain on defecation + PR bleed
-only around periods
-  |
-  v
-Suspect bowel/rectal disease
-(timing with menses = clue)
+at that site
 
 ---
 
-Q: Why is deep dyspareunia
-   more common?
+Sites:
+  ovary, peritoneum
+  pouch of Douglas
+  bladder, bowel
+  scar, umbilicus
+  rare: lung, brain
 
-Lesions favour pouch of Douglas
-and posterior fornix
-  |
-  v
-Deep penetration hits them
-  |
-  v
-Deep dyspareunia
+---
+
+Site -> symptom:
+  bladder -> cyclical haematuria
+  bowel -> dyschezia, PR bleed
+  lung -> cyclical haemoptysis
+  peritoneum -> pelvic pain
+
+---
+
+Main features:
+  secondary dysmenorrhoea
+  chronic pelvic pain
+  deep dyspareunia
+  subfertility
+
+CLUE = cyclical timing
 
 
 
 CONSEQUENCES
 
-Q: Why do adhesions lower
-   torsion risk?
-
-Adhesions fix ovary in place
-  |
-  v
-Ovary can't twist
-  |
-  v
-Low torsion risk
+Repeated cycles
+   |
+   v
+Chronic inflammation
+   |
+   +--> adhesions
+   |
+   +--> fibrosis
+   |
+   v
+Chronic pain + deep dyspareunia
 
 ---
 
-Q: How does a chocolate cyst
-   add to subfertility?
+Subfertility causes:
+  tubes -> poor mobility, blocked
+  inflammation -> sperm, implant
+  ovary -> reduced reserve
+   |
+   v
+Risk: ectopic pregnancy
 
-Endometrioma destroys ovarian
-tissue
-  |
-  v
-Fewer healthy ova
-  |
-  +--> plus tubal damage
-  |
-  v
-Double hit = subfertility
+---
+
+Endometrioma (chocolate cyst):
+  ovarian tissue bleeds
+        |
+        v
+  blood trapped -> cyst
+        |
+        v
+  brick red -> chocolate brown
+        |
+        v
+  adhesions fix ovary
+        |
+        v
+  LOW torsion risk
 
 
 
 ADENOMYOSIS
 
-Q: Why heavy bleeding, not
-   just pain?
-
-Inflamed myometrium
-  |
-  v
-Contracts poorly
-  |
-  v
-Vessels not clamped shut
-  |
-  v
-Menorrhagia
+Endometrial tissue IN myometrium
+   |
+   v
+Bleeds into muscle
+   |
+   v
+Severe pain + inflammation
+   |
+   v
+Poor contraction
+   |
+   v
+Heavy, prolonged bleeding
+   |
+   v
+Fibrosis
 
 ---
 
-Q: Why is implantation harder?
+Exam: tender, globular,
+  enlarged, boggy uterus
 
-Inflamed, boggy uterus
-  |
-  v
-Poor environment for embryo
-  |
-  v
-Subfertility
+Symptoms: heavy bleeding,
+  dysmenorrhoea, subfertility
+
+---
+
+Best option: LNG-IUS (local)
 
 
 
 CAUSES AND DIAGNOSIS
 
-Q: Why ask about family history?
-
-Immune clearance defect
-can be familial
-  |
-  v
-Family history raises suspicion
+Retrograde menstruation
+(occurs in EVERY woman)
+   |
+   v
+Tissue spills via tubes
+into peritoneum
+   |
+   v
+Immune clearance works?
+   |
+   +-- yes -> no disease
+   |
+   +-- no (familial)
+          |
+          v
+     Endometriosis
 
 ---
 
-Q: Why is biopsy definitive?
+Coelomic metaplasia
+  -> explains distant sites
+     (lung, pleura)
 
-Imaging/visual look can mislead
-  |
-  v
-Histology shows glands + stroma
-outside the cavity
-  |
-  v
-Confirmed diagnosis
+---
+
+Diagnosis:
+  TVS (first line)
+    -> ground-glass cyst
+  MRI
+    -> deep or unclear
+  Laparoscopy
+    -> gold standard
+    -> diagnostic + therapeutic
+  Histology
+    -> confirms
+
+---
+
+[ADDED] Current guidance:
+  clinical + imaging can
+  justify treatment without
+  laparoscopy. Still write
+  "gold standard" in exams.
 
 
 
 MANAGEMENT
 
-Q: Which hormones to avoid
-   if she wants to conceive?
-
-COCP, progestins, GnRH agonists
-  |
-  v
-Suppress FSH/LH + ovulation
-  |
-  v
-No pregnancy, so avoid
-
----
-
-Q: Cyclical or continuous
-   if no fertility wish?
-
-Cyclical = break week
-  |
-  v
-Withdrawal bleed = shedding
-  |
-  v
-Use CONTINUOUS regimen
-
-
-
-MANAGEMENT REVIEW
-
-Q1: Overall goal?
-
-Suppress menstruation/shedding
-  |
-  v
-Ideal = amenorrhea
-  |
-  v
-Less inflammation, pain,
-adhesions
+GOAL: stop shedding
+  (amenorrhoea or stable
+  endometrium)
+   |
+   v
+Wants fertility?
+   |
+   +-- YES --> see FERTILITY
+   |
+   +-- NO  --> see NO FERTILITY
 
 ---
 
-Q2: Why avoid those hormones
-    when conceiving?
+FERTILITY WISH
 
-They suppress ovulation
-  |
-  v
-No pregnancy
-
----
-
-Q3: Lap and dye vs HSG?
-
-HSG = diagnostic only
-Lap and dye = diagnostic
-              + therapeutic
-  |
-  v
-Treat in the same sitting
-
----
-
-Q4: Why is cyclical OCP
-    not ideal?
-
-7-day break
-  |
-  v
-Withdrawal bleed
-  |
-  v
-Still shedding
+No FSH/LH suppressors
+(COCP, progestin, GnRH)
+   |
+   v
+Pain -> mefenamic acid
+Bleeding -> tranexamic acid
+   |
+   v
+Laparoscopy:
+  adhesiolysis
+  remove endometrioma
+  ablate peritoneal lesions
+  lap and dye (patency)
+   |
+   v
+Recurrence high
+   |
+   v
+Don't delay pregnancy
+   |
+   v
+IVF = fastest route
 
 ---
 
-Q5: Why remove ovaries too?
+NO FERTILITY WISH
 
-Ovaries = estrogen source
-  |
-  v
-Estrogen drives ectopic tissue
-  |
-  v
-Uterus alone is not enough
+Medical first:
+  continuous COCP
+  continuous progestin (DMPA)
+  GnRH agonist (pseudo-
+    menopause)
+  LNG-IUS (best: adenomyosis)
 
-
-
-MY ADDITIONS (NOT IN NOTES)
-
-Current practice (Sri Lanka
-and international)
-
-LNG-IUS or GnRH agonist
-+ add-back therapy
-  |
-  v
-Try BEFORE radical surgery
+AVOID cyclical regimens
+(withdrawal bleed = shedding)
+   |
+   v
+Failed + severe?
+   |
+   v
+TAH + BSO
+   |
+   v
+Continuous HRT
+(not sequential)
 
 ---
 
-Newer options
+Why remove ovaries?
+  ovaries -> estrogen
+  estrogen -> drives lesions
+  uterus alone = not enough
 
-Dienogest = continuous progestin
-  |
-  v
-Not in your notes
-  |
-  v
-Check local guidelines
+---
+
+[ADDED] Extra points:
+  GnRH agonist: use add-back,
+    limit duration (bone loss)
+  Tubal test: HSG or HyCoSy
+    often first in subfertility
+  Lap and dye: mainly at surgery
+  Danazol: rarely used now
+    (androgenic side effects)
