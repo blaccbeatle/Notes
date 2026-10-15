@@ -1,176 +1,250 @@
-PELVIC INFLAMMATORY DISEASE (PID)
-=================================
+```
+PID: CONSOLIDATED FLOWCHARTS
+===========================
 
+PATHOGENESIS
 
-
-1. PATHOGENESIS
-
-   Vagina
-     |
-     v
-   Cervix
-     |
-     v
-   Endometrium
-     |
-     v
-   Fallopian tubes
-     |
-     v
-   Peritoneal cavity
-
----
-
-   NORMAL DEFENCES
-     |
-     +--> Vaginal acidity
-     |
-     +--> Cervical mucous plug
-     |
-     +--> Tubal ciliary movement
+Infection in vagina
+  |
+  v
+Cervix (cervicitis)
+  |
+  v
+Endometrium (endometritis)
+  |
+  v
+Fallopian tubes (salpingitis)
+  |
+  v
+Ovaries (oophoritis)
+  |
+  v
+Tubo-ovarian abscess
+  |
+  v
+Peritoneum (peritonitis)
 
 ---
 
-   BREACHED BY
-     |
-     +--> Instrumentation
-     |
-     +--> IUCD
-     |
-     +--> STIs
-     |
-     +--> Antibiotics
-     |      |
-     |      v
-     |    Lactobacilli lost
-     |
-     v
-   Defences fail
-     |
-     v
-   ASCENDING INFECTION
+Why this is possible:
+Tract is open from vagina
+straight to peritoneum
 
 
 
-2. CLINICAL FEATURES
+DEFENSES AND RISK FACTORS
 
-   ACUTE PID
-     |
-     v
-   Sudden onset
-     |
-     +--> Pain
-     |
-     +--> Fever
-     |
-     +--> Discharge
-     |
-     v
-   KEY SIGN:
-   Cervical motion tenderness
+6 natural defenses:
+  - acidic vaginal pH (~4)
+  - normally closed cervix
+  - cervical mucous plug
+  - IgA in cervical mucus
+  - intact hymen
+  - downward ciliary movement
+  |
+  v
+Breached by:
 
 ---
 
-   CHRONIC PID
-     |
-     v
-   Unresolved disease
-     |
-     +--> Chronic pelvic pain
-     |
-     +--> Subfertility
-     |
-     +--> Malnourishment
+Mechanical / obstetric:
+  - instrumentation
+    (D&C, HSG, biopsy)
+  - IUCD
+  - pregnancy, delivery,
+    abortion
 
 ---
 
-   COMPARE: ENDOMETRIOSIS
-     |
-     +--> Similar complications
-     |
-     +--> Different trigger
-            |
-            +--> PID: infection
-            |
-            +--> Endo: menstruation
-
-
-
-3. CAUSES AND DIAGNOSIS
-
-   USUAL ORGANISMS
-     |
-     +--> N. gonorrhoeae
-     |
-     +--> C. trachomatis
+Infective / host:
+  - STIs
+  - immunosuppression
 
 ---
 
-   DIAGNOSIS
-     |
-     v
-   Blood work
-     |
-     v
-   PCR testing
-     |
-     v
-   Ultrasound
-     |
-     v
-   Laparoscopy
-   (GOLD STANDARD)
+Drug effect:
+  Broad-spectrum antibiotics
+  |
+  v
+  Kill lactobacilli
+  |
+  v
+  Vaginal pH rises
+  |
+  v
+  Ascent easier
 
 
 
-4. TREATMENT
+CLINICAL PICTURE
 
-   PID suspected
-     |
-     v
-   Resuscitate
-     |
-     v
-   Empirical antibiotics
-     |
-     v
-   Assess severity
-     |
-     +------------+
-     |            |
-     v            v
-   MILD         SEVERE
-     |            |
-     v            v
-   Outpatient   IV regimen
-     |            |
-     v            v
-   Ceftriaxone  +/- Surgery
-   +
-   Doxycycline
+PID
+  |
+  +-- ACUTE
+  |     sudden pain
+  |     purulent discharge
+  |     fever, sepsis signs
+  |     dyspareunia
+  |     cervical motion
+  |     tenderness (classic)
+  |
+  +-- CHRONIC
+        follows unresolved
+        acute disease
+        ill-looking, malnourished
+        chronic pelvic pain
+        back pain
+        subfertility
+        menorrhagia
 
 ---
 
-   FOLLOW-UP
-     |
-     v
-   Review at 3 days
-     |
-     v
-   Review at 4-6 weeks
+Untreated / unresolved
+  |
+  v
+Adhesions + fibrosis
+  |
+  v
+Tubal occlusion
+  |
+  +-> subfertility
+  +-> chronic pain
+  +-> ectopic risk
+
+---
+
+PID vs ENDOMETRIOSIS
+
+Same complications, but:
+  PID = infection-triggered
+  Endo = menstruation-triggered
 
 
 
-5. LINK TO ENDOMETRIOSIS
+CAUSES AND DIAGNOSIS
 
-   Progesterone
-     |
-     v
-   Stabilises endometrium
-     |
-     v
-   Basis for hormonal therapy
-     |
-     +--> GnRH analogues
-     |
-     +--> Danazol
+Main organisms:
+  Neisseria gonorrhoeae
+  Chlamydia trachomatis
+
+Others:
+  Gardnerella, Mycoplasma,
+  TB, E. coli, etc.
+
+---
+
+Differentials:
+  - appendicitis
+  - ectopic pregnancy
+  - twisted ovarian cyst
+  - septic abortion
+  - pyelonephritis
+
+---
+
+Investigations:
+
+Blood
+  +-- acute: WBC up, CRP up
+  +-- chronic: ESR up
+Urine culture
+PCR / NAAT
+Ultrasound
+  |
+  v
+Unclear or needs sampling?
+  |
+  v
+Laparoscopy
+(gold standard: direct
+visualization + sampling)
+
+
+
+MANAGEMENT
+
+Suspected PID
+  |
+  v
+Septic?
+  |-- yes -> resuscitate first
+  |
+  v
+Start empirical broad-
+spectrum antibiotics NOW
+  |
+  v
+Severity?
+  |
+  +-- MILD (outpatient)
+  |     ceftriaxone IM,
+  |       single dose
+  |     + doxycycline 14 days
+  |     +/- metronidazole
+  |
+  +-- SEVERE (inpatient)
+        IV ceftriaxone
+        + doxycycline
+        +/- metronidazole
+        |
+        v
+        Beta-lactam allergy?
+        yes -> clindamycin
+               + gentamicin
+
+---
+
+Abscess or adhesions?
+  |
+  +-- abscess -> US-guided
+  |              aspiration
+  |
+  +-- laparoscopy/laparotomy
+      for drainage or
+      adhesiolysis
+
+---
+
+Follow-up:
+  Day 3: review
+  |
+  v
+  Weeks 4-6: reassess
+  (include partner treatment)
+
+
+
+HORMONAL NOTE AND ENDOMETRIOSIS THERAPY
+
+Progesterone
+  |
+  v
+Inhibits proliferation
++ maintains blood flow
+  |
+  v
+Endometrium stabilized
+  |
+  v
+No shedding
+  |
+  v
+Less bleeding,
+inflammation, adhesions
+
+---
+
+Endometriosis therapy:
+choose by patient profile
+  |
+  +-- GnRH analogs
+  |     effective
+  |     limit: 6 months or
+  |     less (side effects)
+  |
+  +-- Danazol
+        androgenic effects
+        are irreversible
+        used locally for deep
+        infiltrating disease
+```
