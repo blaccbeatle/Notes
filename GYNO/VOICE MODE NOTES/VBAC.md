@@ -1,135 +1,255 @@
-VBAC LESSON SUMMARY
-===================
+VBAC FLOWCHARTS
+===============
+
+
 
 BASICS
 
-VBAC = vaginal birth after caesarean
+VBAC = vaginal birth after
+caesarean
   |
   v
-Aim: cut repeat caesareans
-     and complications
+Goal: fewer repeat CS,
+fewer complications,
+positive birth experience
 
 ---
 
-Top indications for caesarean
-  |
-  v
-Fetal distress
-  |
-  v
-Previous caesarean
-  |
-  v
-Placenta previa
-  |
-  v
-Lower segment fibroid
-  |
-  v
-Maternal conditions
-  |
-  v
-HIV
-  |
-  v
-Maternal request
+Layers cut (outside to in):
+  skin
+   |
+   v
+  subcutaneous tissue
+   |
+   v
+  rectus sheath
+   |
+   v
+  peritoneum
+   |
+   v
+  visceral peritoneum
+   |
+   v
+  uterus
+   |
+   v
+  amniotic membrane
 
-
-
-CAESAREAN TYPES
-
-Type of caesarean
-  |
-  +-- Lower segment (preferred)
-  |     fibrous, less bleeding
-  |     rupture risk ~0.5%
-  |     VBAC possible
-  |
-  +-- Upper (classical)
-        rupture risk ~5%
-        VBAC not recommended
+Repair = reverse order:
+uterus > peritoneum > rectus
+sheath > fat > skin
 
 ---
 
-Limit caesareans to ~3-4
+Indications (common to less):
+  1. fetal distress
+  2. previous CS
+  3. placenta previa
+  4. lower segment fibroid
+  5. heart disease / pulm HTN
+  6. HIV (some cases)
+  7. maternal request
+
+Heart disease
   |
   v
-Risks: rupture, previa,
+cannot strain safely
+  |
+  v
+CS avoids pushing stage
+
+
+
+TYPES AND COMPLICATIONS
+
+Which incision?
+  |
+  +-- LOWER (preferred)
+  |     forms after ~28 wks
+  |     fibrous, few vessels
+  |     less bleeding
+  |     rupture ~0.5% (1:200)
+  |
+  +-- UPPER (classical)
+        more muscle, bleeding
+        rupture ~5% (10x)
+        no VBAC after it
+
+---
+
+Upper segment used when:
+  |
+  +-- extreme emergency
+  |
+  +-- lower segment problem
+        bladder adhesion
+        lower fibroid
+        previa low down
+
+---
+
+Complications:
+  |
+  +-- immediate
+  |     bleeding, pain,
+  |     anaesthesia, organ injury
+  |
+  +-- intermediate
+  |     infection, endometriosis,
+  |     repeat admissions
+  |
+  +-- long term
+        hernia, higher risk
+        with each repeat CS
+
+---
+
+Previa chain:
+placenta previa
+  |
+  v
 morbidly adherent placenta
+over scar
   |
   v
-Key strategy:
-reduce PRIMARY caesareans
+massive bleeding
+  |
+  v
+often hysterectomy
+
+Sri Lanka: limit ~3 CS
+Key strategy: cut primary CS
 
 
 
 ANTENATAL CARE
 
-Scan placenta at 20 wks
+Previous CS
   |
   v
-Placenta low?
-  |
-  +-- no --> routine care
-  |
-  +-- yes
-        |
-        v
-Transvaginal scan at 32 wks
-        |
-        v
-Still low?
-  |
-  +-- no --> not previa
-  |
-  +-- yes --> PLACENTA PREVIA
-        |
-        v
-Colour Doppler for
-accreta / increta / percreta
-        |
-        v
-Decide mode of delivery
-by 36 wks
-
-
-
-DECIDING MODE OF DELIVERY
-
-Overall VBAC success ~75%
+high risk: previa and
+adherent placenta
   |
   v
-~90% if previous vaginal birth
+routine care + special
+attention
 
 ---
 
-Favourable
+20 wks: scan, locate placenta
   |
-  +-- non-recurring indication
-  +-- younger age
-  +-- smaller baby
-  +-- engaged head
-  +-- spontaneous labour
+  +-- upper segment
+  |     reassuring
+  |
+  +-- low
+        |
+        v
+      32 wks: transvaginal scan
+        |
+        +-- moved up
+        |     no previa
+        |
+        +-- still low
+              |
+              v
+            PLACENTA PREVIA
 
 ---
 
-Unfavourable
+Previa confirmed
   |
-  +-- recurring indication
-  |   (CPD, uterine anomaly)
-  +-- age 40 or over
-  +-- large baby
-  +-- induction
+  v
+Colour Doppler
+(MRI if difficult)
+  |
+  v
+look for: turbulent flow,
+bridging vessels, invasion
+  |
+  +-- accreta: adheres
+  +-- increta: into myometrium
+  +-- percreta: through wall,
+      e.g. into bladder
 
 ---
 
-After 39 wks
+Previa scan schedule:
+seen at 16 wks
   |
   v
-IUD risk rises
+repeat 28, 32, 36 wks
   |
   v
-Consider planned caesarean
+persistent at 32/36 wks
+= bleeding risk
+  |
+  v
+by 36 wks: decide VBAC or
+repeat CS (individualised)
+
+
+
+MODE OF DELIVERY
+
+VBAC success
+  |
+  +-- overall: ~75%
+  |
+  +-- prior vaginal birth: ~90%
+
+---
+
+Favourable:
+  prior vaginal birth
+  non-recurring CS reason
+    (distress, breech)
+  younger age
+  smaller baby
+  head engaged
+  spontaneous labour
+
+---
+
+Unfavourable:
+  recurring CS reason
+    (CPD, uterine anomaly)
+  age 40+
+  large baby
+  induction
+
+---
+
+Timing:
+VBAC planned
+  |
+  v
+can wait up to 40 wks
+  |
+  v
+past 39 wks: IUD risk up
+  |
+  v
+not in labour?
+  |
+  v
+consider planned CS
+
+---
+
+Overall:
+weigh factors
+  |
+  v
+discuss with patient
+  |
+  +-- upper placenta +
+  |   favourable factors
+  |     -> trial of VBAC
+  |
+  +-- previa / adherence
+        -> planned CS,
+           team care
 
 
 
@@ -137,107 +257,155 @@ BENEFITS AND RISKS
 
 VBAC
   |
-  +-- Benefits
+  +-- benefits
   |     no surgery
-  |     shorter stay
+  |     home next day
   |     future vaginal births
-  |     less neonatal resp distress
+  |     less baby breathing
+  |     problems
   |     no family size limit
+  |     lower maternal morbidity
   |
-  +-- Risks
+  +-- risks
         rupture ~0.5%
-        instrumental delivery ~39%
-        tears
-        higher endometritis
+        emergency CS
+        instruments ~39%
+        (vs 10-15%)
+        sphincter damage, tears
+        transfusion, bleeding
+        endometritis
 
 ---
 
-Repeat caesarean
+Baby's lungs:
+labour stress
   |
-  +-- Benefits
-  |     planned
-  |     lower rupture risk
-  |     lower transfusion risk
-  |     protects pelvic floor
-  |     allows sterilisation
+  v
+glucocorticoids
   |
-  +-- Risks
-        adhesions
-        organ injury
-        longer recovery
-        more previa and PPH
+  v
+more surfactant
+  |
+  v
+less respiratory distress
+
+---
+
+Repeat CS
+  |
+  +-- benefits
+  |     planned date
+  |     less transfusion
+  |     less endometritis
+  |     no scar rupture
+  |     pelvic floor protected
+  |     sterilisation option
+  |
+  +-- risks
+        adhesions: bladder
+        or bowel organ injury
+        slow recovery
+        more future CS, previa,
+        adherent placenta, PPH
         wound infection
-        anaesthesia complications
+        spinal headache,
+        meningitis
+
+---
+
+Why endometritis differs:
+endometritis higher
+after vaginal birth
+  |
+  v
+so lower with repeat CS
 
 
 
 CONTRAINDICATIONS
 
-Avoid VBAC if
+VBAC candidate?
   |
-  +-- previous rupture
-  +-- previous classical caesarean
+  +-- previous rupture?
+  |     yes -> NO VBAC
+  |
+  +-- previous classical CS?
+  |     yes -> NO VBAC
   |     (rupture risk 2-9%)
-  +-- 3 or more caesareans
-  +-- placenta previa
-  +-- lower segment or
-      cervical fibroids
+  |
+  +-- 3 or more CS?
+  |     yes -> NO VBAC
+  |
+  +-- previa or lower/cervical
+  |   fibroid?
+  |     yes -> NO VBAC
+  |
+  +-- none of these
+        -> VBAC possible
 
 ---
 
-Practice differs
+Number of prior CS allowed:
   |
-  +-- Sri Lanka: after 1 caesarean
+  +-- Sri Lanka: 1
   |
-  +-- Western: after 2 caesareans
+  +-- Western: 2
 
 
 
 LABOUR MANAGEMENT
 
-Monitor closely
+VBAC labour = high risk
   |
   v
-Rupture suspected?
+close monitoring
   |
-  +-- no --> continue monitoring
+  v
+rupture suspected?
   |
-  +-- yes --> straight to theatre
+  v
+immediate theatre
+  |
+  +-- repair if possible
+  |
+  +-- hysterectomy if not
 
 ---
 
-Induction options
+Induction:
   |
-  +-- artificial rupture of
-  |   membranes
-  +-- Foley catheter
-  +-- oxytocin: use cautiously
-  +-- prostaglandins: AVOID
+  +-- OK
+  |     artificial rupture of
+  |     membranes
+  |     Foley catheter
+  |
+  +-- cautious
+  |     oxytocin
+  |
+  +-- AVOID
+        prostaglandins
+        (lyse scar)
 
 ---
 
-Signs of rupture
+Rupture signs:
   |
-  v
-Fetal heart rate changes (first)
+  +-- FIRST: fetal heart rate
+  |   changes
   |
-  v
-Constant pain
+  +-- constant pain, or pain
+  |   between contractions
   |
-  v
-Bleeding
+  +-- bleeding, bloody
+  |   discharge, haematuria
   |
-  v
-Haematuria
+  +-- easily felt fetal parts
   |
-  v
-Palpable fetal parts
+  +-- contractions stop
   |
-  v
-Contractions stop
+  +-- maternal tachycardia
+  |     |
+  |     v
+  |   shock, collapse
   |
-  v
-Maternal tachycardia
-  |
-  v
-Blood in amniotic fluid
+  +-- blood in amniotic fluid
